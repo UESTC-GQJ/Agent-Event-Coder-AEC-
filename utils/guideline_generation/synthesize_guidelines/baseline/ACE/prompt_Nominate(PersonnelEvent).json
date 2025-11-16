@@ -1,0 +1,28 @@
+{
+    "Nominate(PersonnelEvent)": {
+        "description": [
+            "The Nominate event refers to the act of officially suggesting or appointing someone for a position, role, or award. The event can be triggered by verbs such as 'name', 'nominate', 'appoint', 'select', and 'designate'. It involves an agent who performs the nomination and a person who is being nominated. The event can occur in various contexts, including political appointments, organizational roles, and awards.",
+            "The Nominate event involves the formal proposal or selection of an individual for a specific role, position, or honor. This event is typically indicated by words like 'name', 'nominate', 'appoint', 'select', and 'designate'. The agent is the entity making the nomination, while the person is the individual being nominated. This event can be found in contexts such as government, corporate, and social settings.",
+            "Nominate events are characterized by the act of proposing or appointing someone to a particular position or for an award. Common triggers include 'name', 'nominate', 'appoint', 'select', and 'designate'. The agent is the one who nominates, and the person is the nominee. These events can be seen in various domains, including politics, business, and academia.",
+            "The act of nominating someone for a role, position, or award is captured by the Nominate event. Triggers for this event include 'name', 'nominate', 'appoint', 'select', and 'designate'. The agent is the nominator, and the person is the nominee. This event type is relevant in contexts such as elections, corporate appointments, and award ceremonies.",
+            "A Nominate event occurs when an individual is officially proposed or selected for a specific role, position, or honor. This event can be triggered by terms like 'name', 'nominate', 'appoint', 'select', and 'designate'. The agent is the entity making the nomination, and the person is the individual being nominated. This event is applicable in various scenarios, including political, corporate, and social contexts."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The agent in a Nominate event is the entity (person, group, or organization) that performs the act of nominating someone. Examples are 'pope', 'British Chancellor of the Exchequer', 'he', 'government', and 'Bush'. The agent is responsible for initiating the nomination process.",
+            "In a Nominate event, the agent is the one who nominates or appoints someone to a position or role. Examples include 'pope', 'British Chancellor of the Exchequer', 'he', 'government', and 'Bush'. The agent can be an individual or an organization.",
+            "The agent refers to the nominator in a Nominate event, who is responsible for suggesting or appointing someone. Examples are 'pope', 'British Chancellor of the Exchequer', 'he', 'government', and 'Bush'. The agent can be a person, a group, or an institution.",
+            "In the context of a Nominate event, the agent is the entity that carries out the nomination. Examples include 'pope', 'British Chancellor of the Exchequer', 'he', 'government', and 'Bush'. The agent is the one who proposes or selects the nominee.",
+            "The agent in a Nominate event is the person or organization that nominates someone for a role or position. Examples are 'pope', 'British Chancellor of the Exchequer', 'he', 'government', and 'Bush'. The agent initiates the nomination process."
+        ],
+        "person": [
+            "The person in a Nominate event is the individual who is being nominated or appointed to a position, role, or award. Examples are 'head', 'current head', 'candidate', 'Chui Sai On', and 'members'. The person is the nominee or appointee.",
+            "In a Nominate event, the person is the one who is nominated or selected for a role or position. Examples include 'head', 'current head', 'candidate', 'Chui Sai On', and 'members'. The person is the recipient of the nomination.",
+            "The person refers to the nominee in a Nominate event, who is being proposed or appointed. Examples are 'head', 'current head', 'candidate', 'Chui Sai On', and 'members'. The person is the individual being nominated.",
+            "In the context of a Nominate event, the person is the individual who is nominated or appointed. Examples include 'head', 'current head', 'candidate', 'Chui Sai On', and 'members'. The person is the one being suggested for the role.",
+            "The person in a Nominate event is the nominee or appointee, who is being proposed for a position or role. Examples are 'head', 'current head', 'candidate', 'Chui Sai On', and 'members'. The person is the target of the nomination."
+        ]
+    }
+}

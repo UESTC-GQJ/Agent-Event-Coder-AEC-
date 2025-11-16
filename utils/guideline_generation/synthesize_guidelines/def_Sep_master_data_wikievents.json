@@ -1,0 +1,147 @@
+{
+    "Movement_Transportation_Unspecified(Event)": {
+        "DisplayName": "Event Type: Movement_ Transportation_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "transporter",
+            "passengerartifact",
+            "origin",
+            "destination",
+            "vehicle"
+        ]
+    },
+    "Medical_Intervention_Unspecified(Event)": {
+        "DisplayName": "Event Type: Medical_ Intervention_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "treater",
+            "patient",
+            "place"
+        ]
+    },
+    "Life_Die_Unspecified(Event)": {
+        "DisplayName": "Event Type: Life_ Die_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "killer",
+            "victim",
+            "place"
+        ]
+    },
+    "Life_Infect_Unspecified(Event)": {
+        "DisplayName": "Event Type: Life_ Infect_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "victim"
+        ]
+    },
+    "Transaction_ExchangeBuySell_Unspecified(Event)": {
+        "DisplayName": "Event Type: Transaction_ Exchange Buy Sell_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "recipient",
+            "paymentbarter",
+            "giver",
+            "acquiredentity"
+        ]
+    },
+    "Justice_Sentence_Unspecified(Event)": {
+        "DisplayName": "Event Type: Justice_ Sentence_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "judgecourt",
+            "defendant",
+            "place"
+        ]
+    },
+    "Life_Injure_Unspecified(Event)": {
+        "DisplayName": "Event Type: Life_ Injure_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "bodypart",
+            "injurer",
+            "victim",
+            "instrument"
+        ]
+    },
+    "Justice_InvestigateCrime_Unspecified(Event)": {
+        "DisplayName": "Event Type: Justice_ Investigate Crime_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "defendant",
+            "observedentity",
+            "place",
+            "observer",
+            "investigator"
+        ]
+    },
+    "Movement_Transportation_Evacuation(Event)": {
+        "DisplayName": "Event Type: Movement_ Transportation_ Evacuation\nParent Event Type: Event",
+        "Arguments": [
+            "origin",
+            "destination",
+            "transporter",
+            "passengerartifact"
+        ]
+    },
+    "Justice_TrialHearing_Unspecified(Event)": {
+        "DisplayName": "Event Type: Justice_ Trial Hearing_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "prosecutor",
+            "judgecourt",
+            "defendant",
+            "place"
+        ]
+    },
+    "None": {},
+    "Justice_Convict_Unspecified(Event)": {
+        "DisplayName": "Event Type: Justice_ Convict_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "judgecourt",
+            "defendant"
+        ]
+    },
+    "Justice_ReleaseParole_Unspecified(Event)": {
+        "DisplayName": "Event Type: Justice_ Release Parole_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "judgecourt",
+            "defendant"
+        ]
+    },
+    "Personnel_EndPosition_Unspecified(Event)": {
+        "DisplayName": "Event Type: Personnel_ End Position_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "employee",
+            "placeofemployment"
+        ]
+    },
+    "Personnel_StartPosition_Unspecified(Event)": {
+        "DisplayName": "Event Type: Personnel_ Start Position_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "employee",
+            "position",
+            "placeofemployment"
+        ]
+    },
+    "Movement_Transportation_IllegalTransportation(Event)": {
+        "DisplayName": "Event Type: Movement_ Transportation_ Illegal Transportation\nParent Event Type: Event",
+        "Arguments": [
+            "vehicle",
+            "destination",
+            "transporter",
+            "passengerartifact"
+        ]
+    },
+    "Movement_Transportation_PreventPassage(Event)": {
+        "DisplayName": "Event Type: Movement_ Transportation_ Prevent Passage\nParent Event Type: Event",
+        "Arguments": [
+            "transporter",
+            "preventer",
+            "passengerartifact",
+            "origin",
+            "destination",
+            "vehicle"
+        ]
+    },
+    "Transaction_Donation_Unspecified(Event)": {
+        "DisplayName": "Event Type: Transaction_ Donation_ Unspecified\nParent Event Type: Event",
+        "Arguments": [
+            "recipient",
+            "artifactmoney",
+            "giver"
+        ]
+    }
+}

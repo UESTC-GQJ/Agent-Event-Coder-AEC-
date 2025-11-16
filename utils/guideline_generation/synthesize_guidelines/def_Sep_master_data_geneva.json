@@ -1,0 +1,675 @@
+{
+    "Testing(Event)": {
+        "DisplayName": "Event Type: Testing\nParent Event Type: Event",
+        "Arguments": [
+            "tester",
+            "means",
+            "result",
+            "product",
+            "tested_property",
+            "circumstances"
+        ]
+    },
+    "Know(Event)": {
+        "DisplayName": "Event Type: Know\nParent Event Type: Event",
+        "Arguments": [
+            "cognizer",
+            "topic",
+            "evidence",
+            "means",
+            "phenomenon",
+            "instrument"
+        ]
+    },
+    "Telling(Event)": {
+        "DisplayName": "Event Type: Telling\nParent Event Type: Event",
+        "Arguments": [
+            "message",
+            "addressee",
+            "speaker"
+        ]
+    },
+    "Hostile_encounter(Event)": {
+        "DisplayName": "Event Type: Hostile_encounter\nParent Event Type: Event",
+        "Arguments": [
+            "side_2",
+            "sides",
+            "issue",
+            "purpose",
+            "side_1",
+            "instrument"
+        ]
+    },
+    "Education_teaching(Event)": {
+        "DisplayName": "Event Type: Education_teaching\nParent Event Type: Event",
+        "Arguments": [
+            "course",
+            "teacher",
+            "role",
+            "subject",
+            "skill",
+            "fact",
+            "student"
+        ]
+    },
+    "Receiving(Event)": {
+        "DisplayName": "Event Type: Receiving\nParent Event Type: Event",
+        "Arguments": [
+            "donor",
+            "recipient",
+            "theme"
+        ]
+    },
+    "Deciding(Event)": {
+        "DisplayName": "Event Type: Deciding\nParent Event Type: Event",
+        "Arguments": [
+            "cognizer",
+            "decision"
+        ]
+    },
+    "Giving(Event)": {
+        "DisplayName": "Event Type: Giving\nParent Event Type: Event",
+        "Arguments": [
+            "offerer",
+            "recipient",
+            "theme"
+        ]
+    },
+    "Manufacturing(Event)": {
+        "DisplayName": "Event Type: Manufacturing\nParent Event Type: Event",
+        "Arguments": [
+            "producer",
+            "resource",
+            "product",
+            "factory",
+            "instrument"
+        ]
+    },
+    "Killing(Event)": {
+        "DisplayName": "Event Type: Killing\nParent Event Type: Event",
+        "Arguments": [
+            "victim",
+            "means",
+            "killer",
+            "cause",
+            "instrument"
+        ]
+    },
+    "Sending(Event)": {
+        "DisplayName": "Event Type: Sending\nParent Event Type: Event",
+        "Arguments": [
+            "recipient",
+            "goal",
+            "transferors",
+            "sender",
+            "means",
+            "vehicle",
+            "source",
+            "theme"
+        ]
+    },
+    "Preventing_or_letting(Event)": {
+        "DisplayName": "Event Type: Preventing_or_letting\nParent Event Type: Event",
+        "Arguments": [
+            "potential_hindrance",
+            "event",
+            "agent",
+            "means"
+        ]
+    },
+    "Statement(Event)": {
+        "DisplayName": "Event Type: Statement\nParent Event Type: Event",
+        "Arguments": [
+            "message",
+            "addressee",
+            "medium",
+            "speaker"
+        ]
+    },
+    "Death(Event)": {
+        "DisplayName": "Event Type: Death\nParent Event Type: Event",
+        "Arguments": [
+            "deceased"
+        ]
+    },
+    "Cure(Event)": {
+        "DisplayName": "Event Type: Cure\nParent Event Type: Event",
+        "Arguments": [
+            "treatment",
+            "affliction",
+            "medication",
+            "patient"
+        ]
+    },
+    "Revenge(Event)": {
+        "DisplayName": "Event Type: Revenge\nParent Event Type: Event",
+        "Arguments": [
+            "injury",
+            "injured_party",
+            "punishment",
+            "offender",
+            "avenger"
+        ]
+    },
+    "Request(Event)": {
+        "DisplayName": "Event Type: Request\nParent Event Type: Event",
+        "Arguments": [
+            "message",
+            "addressee",
+            "medium",
+            "speaker"
+        ]
+    },
+    "Supply(Event)": {
+        "DisplayName": "Event Type: Supply\nParent Event Type: Event",
+        "Arguments": [
+            "imposed_purpose",
+            "recipient",
+            "theme",
+            "supplier"
+        ]
+    },
+    "Presence(Event)": {
+        "DisplayName": "Event Type: Presence\nParent Event Type: Event",
+        "Arguments": [
+            "duration",
+            "place",
+            "entity",
+            "time",
+            "inherent_purpose",
+            "circumstances"
+        ]
+    },
+    "Getting(Event)": {
+        "DisplayName": "Event Type: Getting\nParent Event Type: Event",
+        "Arguments": [
+            "source",
+            "recipient",
+            "theme",
+            "means"
+        ]
+    },
+    "Rite(Event)": {
+        "DisplayName": "Event Type: Rite\nParent Event Type: Event",
+        "Arguments": [
+            "member",
+            "object",
+            "type"
+        ]
+    },
+    "Wearing(Event)": {
+        "DisplayName": "Event Type: Wearing\nParent Event Type: Event",
+        "Arguments": [
+            "clothing",
+            "wearer",
+            "body_location"
+        ]
+    },
+    "Placing(Event)": {
+        "DisplayName": "Event Type: Placing\nParent Event Type: Event",
+        "Arguments": [
+            "location",
+            "theme",
+            "cause",
+            "agent"
+        ]
+    },
+    "Research(Event)": {
+        "DisplayName": "Event Type: Research\nParent Event Type: Event",
+        "Arguments": [
+            "field",
+            "researcher",
+            "topic"
+        ]
+    },
+    "Legality(Event)": {
+        "DisplayName": "Event Type: Legality\nParent Event Type: Event",
+        "Arguments": [
+            "action",
+            "object"
+        ]
+    },
+    "Using(Event)": {
+        "DisplayName": "Event Type: Using\nParent Event Type: Event",
+        "Arguments": [
+            "instrument",
+            "agent",
+            "purpose",
+            "means"
+        ]
+    },
+    "Motion(Event)": {
+        "DisplayName": "Event Type: Motion\nParent Event Type: Event",
+        "Arguments": [
+            "distance",
+            "speed",
+            "goal",
+            "means",
+            "area",
+            "agent",
+            "source",
+            "theme",
+            "cause",
+            "path"
+        ]
+    },
+    "Cost(Event)": {
+        "DisplayName": "Event Type: Cost\nParent Event Type: Event",
+        "Arguments": [
+            "goods",
+            "payer",
+            "rate",
+            "intended_event",
+            "asset"
+        ]
+    },
+    "Traveling(Event)": {
+        "DisplayName": "Event Type: Traveling\nParent Event Type: Event",
+        "Arguments": [
+            "distance",
+            "goal",
+            "means",
+            "purpose",
+            "area",
+            "traveler",
+            "entity",
+            "path"
+        ]
+    },
+    "Self_motion(Event)": {
+        "DisplayName": "Event Type: Self_motion\nParent Event Type: Event",
+        "Arguments": [
+            "distance",
+            "goal",
+            "self_mover",
+            "direction",
+            "source",
+            "path"
+        ]
+    },
+    "Destroying(Event)": {
+        "DisplayName": "Event Type: Destroying\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "means",
+            "destroyer",
+            "patient"
+        ]
+    },
+    "Creating(Event)": {
+        "DisplayName": "Event Type: Creating\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "created_entity",
+            "creator"
+        ]
+    },
+    "Process_end(Event)": {
+        "DisplayName": "Event Type: Process_end\nParent Event Type: Event",
+        "Arguments": [
+            "final_subevent",
+            "state",
+            "process",
+            "agent",
+            "cause",
+            "time"
+        ]
+    },
+    "Dispersal(Event)": {
+        "DisplayName": "Event Type: Dispersal\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "agent",
+            "individuals",
+            "goal_area"
+        ]
+    },
+    "Reveal_secret(Event)": {
+        "DisplayName": "Event Type: Reveal_secret\nParent Event Type: Event",
+        "Arguments": [
+            "information",
+            "addressee",
+            "topic",
+            "speaker"
+        ]
+    },
+    "Recovering(Event)": {
+        "DisplayName": "Event Type: Recovering\nParent Event Type: Event",
+        "Arguments": [
+            "entity",
+            "means",
+            "agent"
+        ]
+    },
+    "Perception_active(Event)": {
+        "DisplayName": "Event Type: Perception_active\nParent Event Type: Event",
+        "Arguments": [
+            "perceiver_agentive",
+            "phenomenon",
+            "direction"
+        ]
+    },
+    "Removing(Event)": {
+        "DisplayName": "Event Type: Removing\nParent Event Type: Event",
+        "Arguments": [
+            "goal",
+            "agent",
+            "source",
+            "theme",
+            "cause"
+        ]
+    },
+    "Employment(Event)": {
+        "DisplayName": "Event Type: Employment\nParent Event Type: Event",
+        "Arguments": [
+            "position",
+            "type",
+            "task",
+            "place_of_employment",
+            "field",
+            "employer",
+            "employee"
+        ]
+    },
+    "Defending(Event)": {
+        "DisplayName": "Event Type: Defending\nParent Event Type: Event",
+        "Arguments": [
+            "victim",
+            "instrument",
+            "defender",
+            "assailant"
+        ]
+    },
+    "Participation(Event)": {
+        "DisplayName": "Event Type: Participation\nParent Event Type: Event",
+        "Arguments": [
+            "event",
+            "participants"
+        ]
+    },
+    "Hold(Event)": {
+        "DisplayName": "Event Type: Hold\nParent Event Type: Event",
+        "Arguments": [
+            "entity",
+            "manipulator"
+        ]
+    },
+    "Judgment_communication(Event)": {
+        "DisplayName": "Event Type: Judgment_communication\nParent Event Type: Event",
+        "Arguments": [
+            "addressee",
+            "topic",
+            "reason",
+            "evaluee",
+            "communicator",
+            "medium"
+        ]
+    },
+    "Departing(Event)": {
+        "DisplayName": "Event Type: Departing\nParent Event Type: Event",
+        "Arguments": [
+            "source",
+            "path",
+            "traveller",
+            "goal"
+        ]
+    },
+    "Terrorism(Event)": {
+        "DisplayName": "Event Type: Terrorism\nParent Event Type: Event",
+        "Arguments": [
+            "victim",
+            "instrument",
+            "terrorist",
+            "act"
+        ]
+    },
+    "Process_start(Event)": {
+        "DisplayName": "Event Type: Process_start\nParent Event Type: Event",
+        "Arguments": [
+            "event",
+            "agent",
+            "time",
+            "initial_subevent"
+        ]
+    },
+    "Ratification(Event)": {
+        "DisplayName": "Event Type: Ratification\nParent Event Type: Event",
+        "Arguments": [
+            "ratifier",
+            "proposal"
+        ]
+    },
+    "Labeling(Event)": {
+        "DisplayName": "Event Type: Labeling\nParent Event Type: Event",
+        "Arguments": [
+            "label",
+            "entity",
+            "speaker"
+        ]
+    },
+    "Influence(Event)": {
+        "DisplayName": "Event Type: Influence\nParent Event Type: Event",
+        "Arguments": [
+            "cognizer",
+            "behavior",
+            "action",
+            "product",
+            "agent",
+            "situation"
+        ]
+    },
+    "Motion_directional(Event)": {
+        "DisplayName": "Event Type: Motion_directional\nParent Event Type: Event",
+        "Arguments": [
+            "goal",
+            "direction",
+            "area",
+            "source",
+            "theme",
+            "path"
+        ]
+    },
+    "Sign_agreement(Event)": {
+        "DisplayName": "Event Type: Sign_agreement\nParent Event Type: Event",
+        "Arguments": [
+            "signatory",
+            "agreement"
+        ]
+    },
+    "Scrutiny(Event)": {
+        "DisplayName": "Event Type: Scrutiny\nParent Event Type: Event",
+        "Arguments": [
+            "cognizer",
+            "ground",
+            "phenomenon",
+            "unwanted_entity",
+            "instrument"
+        ]
+    },
+    "Writing(Event)": {
+        "DisplayName": "Event Type: Writing\nParent Event Type: Event",
+        "Arguments": [
+            "instrument",
+            "addressee",
+            "author",
+            "text"
+        ]
+    },
+    "Supporting(Event)": {
+        "DisplayName": "Event Type: Supporting\nParent Event Type: Event",
+        "Arguments": [
+            "supporter",
+            "supported"
+        ]
+    },
+    "Response(Event)": {
+        "DisplayName": "Event Type: Response\nParent Event Type: Event",
+        "Arguments": [
+            "responding_entity",
+            "agent",
+            "response",
+            "trigger"
+        ]
+    },
+    "Emergency(Event)": {
+        "DisplayName": "Event Type: Emergency\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "undesirable_event"
+        ]
+    },
+    "Expansion(Event)": {
+        "DisplayName": "Event Type: Expansion\nParent Event Type: Event",
+        "Arguments": [
+            "agent",
+            "dimension",
+            "initial_size",
+            "result_size",
+            "item"
+        ]
+    },
+    "Openness(Event)": {
+        "DisplayName": "Event Type: Openness\nParent Event Type: Event",
+        "Arguments": [
+            "barrier",
+            "theme",
+            "useful_location"
+        ]
+    },
+    "Earnings_and_losses(Event)": {
+        "DisplayName": "Event Type: Earnings_and_losses\nParent Event Type: Event",
+        "Arguments": [
+            "earner",
+            "earnings",
+            "goods"
+        ]
+    },
+    "Protest(Event)": {
+        "DisplayName": "Event Type: Protest\nParent Event Type: Event",
+        "Arguments": [
+            "content",
+            "arguer",
+            "addressee"
+        ]
+    },
+    "Resolve_problem(Event)": {
+        "DisplayName": "Event Type: Resolve_problem\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "means",
+            "agent",
+            "problem"
+        ]
+    },
+    "Exchange(Event)": {
+        "DisplayName": "Event Type: Exchange\nParent Event Type: Event",
+        "Arguments": [
+            "theme_2",
+            "exchanger_2",
+            "exchangers",
+            "themes",
+            "theme_1",
+            "exchanger_1"
+        ]
+    },
+    "Damaging(Event)": {
+        "DisplayName": "Event Type: Damaging\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "agent",
+            "patient"
+        ]
+    },
+    "Criminal_investigation(Event)": {
+        "DisplayName": "Event Type: Criminal_investigation\nParent Event Type: Event",
+        "Arguments": [
+            "incident",
+            "suspect",
+            "investigator"
+        ]
+    },
+    "Create_artwork(Event)": {
+        "DisplayName": "Event Type: Create_artwork\nParent Event Type: Event",
+        "Arguments": [
+            "culture",
+            "activity"
+        ]
+    },
+    "Getready(Event)": {
+        "DisplayName": "Event Type: Getready\nParent Event Type: Event",
+        "Arguments": [
+            "protagonist",
+            "activity"
+        ]
+    },
+    "Practice(Event)": {
+        "DisplayName": "Event Type: Practice\nParent Event Type: Event",
+        "Arguments": [
+            "agent",
+            "action",
+            "occasion"
+        ]
+    },
+    "Quarreling(Event)": {
+        "DisplayName": "Event Type: Quarreling\nParent Event Type: Event",
+        "Arguments": [
+            "arguers",
+            "issue",
+            "arguer2"
+        ]
+    },
+    "Hindering(Event)": {
+        "DisplayName": "Event Type: Hindering\nParent Event Type: Event",
+        "Arguments": [
+            "protagonist",
+            "action",
+            "hindrance"
+        ]
+    },
+    "Social_event(Event)": {
+        "DisplayName": "Event Type: Social_event\nParent Event Type: Event",
+        "Arguments": [
+            "attendees",
+            "host",
+            "beneficiary",
+            "social_event",
+            "occasion"
+        ]
+    },
+    "Ingestion(Event)": {
+        "DisplayName": "Event Type: Ingestion\nParent Event Type: Event",
+        "Arguments": [
+            "ingestor",
+            "ingestibles"
+        ]
+    },
+    "Emptying(Event)": {
+        "DisplayName": "Event Type: Emptying\nParent Event Type: Event",
+        "Arguments": [
+            "source",
+            "theme",
+            "agent",
+            "cause"
+        ]
+    },
+    "Filling(Event)": {
+        "DisplayName": "Event Type: Filling\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "theme",
+            "agent",
+            "goal"
+        ]
+    },
+    "Theft(Event)": {
+        "DisplayName": "Event Type: Theft\nParent Event Type: Event",
+        "Arguments": [
+            "victim",
+            "perpetrator",
+            "goods",
+            "means",
+            "source",
+            "instrument"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Dummy(Event)": {
+        "DisplayName": "Event Type: Dummy\nParent Event Type: Event",
+        "Arguments": [
+            "perporg",
+            "weapon",
+            "perpind",
+            "victim",
+            "target"
+        ]
+    }
+}

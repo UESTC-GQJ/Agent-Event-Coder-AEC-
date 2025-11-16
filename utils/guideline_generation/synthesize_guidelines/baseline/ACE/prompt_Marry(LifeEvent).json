@@ -1,0 +1,28 @@
+{
+    "Marry(LifeEvent)": {
+        "description": [
+            "The event can be triggered by words such as 'marry', 'marriage', 'wedding', 'married', 'wed', and 'marriages'. This event represents the act of entering into a marital union or the state of being married. It can refer to both the ceremony itself and the state of being married. Edge cases include references to failed marriages, divorce, or hypothetical discussions about marriage.",
+            "The event can be triggered by terms like 'marry', 'marriage', 'wedding', 'married', 'wed', and 'marriages'. This event signifies the formal union of two individuals in matrimony. It encompasses both the act of getting married and the condition of being married. Edge cases might involve annulments, separations, or discussions about marriage customs.",
+            "The event can be triggered by expressions such as 'marry', 'marriage', 'wedding', 'married', 'wed', and 'marriages'. This event denotes the process of two people becoming legally and socially recognized partners in a marital relationship. It includes the wedding ceremony and the ongoing marital relationship. Edge cases include references to marital disputes, prenuptial agreements, or cultural variations in marriage practices.",
+            "The event can be triggered by phrases like 'marry', 'marriage', 'wedding', 'married', 'wed', and 'marriages'. This event involves the act of two individuals joining in a legally recognized partnership. It covers both the wedding event and the state of being married. Edge cases may involve discussions about marriage laws, same-sex marriages, or historical marriages.",
+            "The event can be triggered by words such as 'marry', 'marriage', 'wedding', 'married', 'wed', and 'marriages'. This event pertains to the union of two people in a marital relationship, recognized by law and society. It includes the ceremony and the marital status. Edge cases include references to bigamy, polygamy, or symbolic marriages."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "person": [
+            "Examples are 'daughter', 'Raja Ahmad Sharir Iskandar', 'their', 'whom', 'she', 'Stewart', 'Alana Hamilton', 'she', 'Welch', 'Welches', 'Rudolph Giuliani', 'companion'. This argument identifies the individuals involved in the marriage event. It can refer to one or both parties in the marriage. Edge cases include references to individuals indirectly related to the marriage, such as parents or children.",
+            "Examples are 'daughter', 'Raja Ahmad Sharir Iskandar', 'their', 'whom', 'she', 'Stewart', 'Alana Hamilton', 'she', 'Welch', 'Welches', 'Rudolph Giuliani', 'companion'. This argument specifies the people who are getting married. It can include direct mentions or pronouns referring to the individuals. Edge cases might involve mentions of ex-spouses or future spouses.",
+            "Examples are 'daughter', 'Raja Ahmad Sharir Iskandar', 'their', 'whom', 'she', 'Stewart', 'Alana Hamilton', 'she', 'Welch', 'Welches', 'Rudolph Giuliani', 'companion'. This argument denotes the participants in the marriage event. It can be explicit names or pronouns. Edge cases include mentions of individuals in hypothetical or past marriages.",
+            "Examples are 'daughter', 'Raja Ahmad Sharir Iskandar', 'their', 'whom', 'she', 'Stewart', 'Alana Hamilton', 'she', 'Welch', 'Welches', 'Rudolph Giuliani', 'companion'. This argument identifies the people involved in the marriage. It can be names, pronouns, or titles. Edge cases might involve references to individuals in annulled or dissolved marriages.",
+            "Examples are 'daughter', 'Raja Ahmad Sharir Iskandar', 'their', 'whom', 'she', 'Stewart', 'Alana Hamilton', 'she', 'Welch', 'Welches', 'Rudolph Giuliani', 'companion'. This argument specifies the individuals who are part of the marriage event. It can include direct names or indirect references. Edge cases include mentions of individuals in symbolic or non-legal marriages."
+        ],
+        "place": [
+            "Examples are 'home', 'Gracie Mansion'. This argument indicates the location where the marriage event takes place. It can be a specific venue, a general location, or a symbolic place. Edge cases include virtual or online wedding ceremonies, or references to places in hypothetical discussions about marriage.",
+            "Examples are 'home', 'Gracie Mansion'. This argument specifies the venue or location of the marriage event. It can be a physical place or a symbolic location. Edge cases might involve mentions of places in annulled or hypothetical marriages.",
+            "Examples are 'home', 'Gracie Mansion'. This argument denotes the place where the marriage occurs. It can be a specific address, a general area, or a symbolic location. Edge cases include references to places in past or future marriages.",
+            "Examples are 'home', 'Gracie Mansion'. This argument identifies the location of the marriage event. It can be a specific venue, a general place, or a symbolic location. Edge cases might involve mentions of places in dissolved or hypothetical marriages.",
+            "Examples are 'home', 'Gracie Mansion'. This argument specifies the place where the marriage takes place. It can be a specific venue, a general location, or a symbolic place. Edge cases include references to places in symbolic or non-legal marriages."
+        ]
+    }
+}

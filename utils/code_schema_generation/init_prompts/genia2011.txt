@@ -1,0 +1,62 @@
+@dataclass
+class Positive_regulation(Event):
+    mention: str
+    theme: List
+    csite: List
+    site: List
+    cause: List
+
+@dataclass
+class Phosphorylation(Event):
+    mention: str
+    theme: List
+    site: List
+
+@dataclass
+class Gene_expression(Event):
+    mention: str
+    theme: List
+
+@dataclass
+class Regulation(Event):
+    mention: str
+    theme: List
+    csite: List
+    site: List
+    cause: List
+
+@dataclass
+class Binding(Event):
+    mention: str
+    site2: List
+    theme2: List
+    theme4: List
+    theme: List
+    site: List
+    theme3: List
+
+@dataclass
+class Localization(Event):
+    mention: str
+    toloc: List
+    theme: List
+    atloc: List
+
+@dataclass
+class Negative_regulation(Event):
+    mention: str
+    theme: List
+    csite: List
+    site: List
+    cause: List
+
+@dataclass
+class Transcription(Event):
+    mention: str
+    theme: List
+
+@dataclass
+class Protein_catabolism(Event):
+    mention: str
+    theme: List
+

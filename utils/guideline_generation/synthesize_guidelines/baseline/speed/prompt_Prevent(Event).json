@@ -1,0 +1,14 @@
+{
+    "Prevent(Event)": {
+        "description": [
+            "The Prevent event type refers to actions or measures taken to stop or hinder an undesirable outcome or event from occurring. The event can be triggered by words or phrases that indicate prevention, defense, stopping, or hindrance. Examples include 'defense', 'vaccine', 'prevention', 'stop', and 'stave'. The event can be triggered by actions taken to prevent diseases, accidents, or any other negative occurrences.",
+            "The Prevent event type encompasses any action or strategy aimed at stopping or reducing the likelihood of an adverse event. The event can be triggered by terms that imply prevention or mitigation efforts. Examples include 'defense', 'vaccine', 'prevention', 'stop', and 'stave'. This event type is often seen in contexts related to health, safety, and security.",
+            "The Prevent event type involves measures or actions designed to avert or mitigate negative outcomes. The event can be triggered by expressions that denote preventive actions or strategies. Examples include 'defense', 'vaccine', 'prevention', 'stop', and 'stave'. This event type is relevant in scenarios where proactive steps are taken to avoid harm or danger.",
+            "The Prevent event type is characterized by actions or interventions aimed at stopping or reducing the risk of an undesirable event. The event can be triggered by words or phrases that suggest prevention or protective measures. Examples include 'defense', 'vaccine', 'prevention', 'stop', and 'stave'. This event type is commonly associated with efforts to prevent diseases, accidents, or other harmful events.",
+            "The Prevent event type refers to any action or measure taken to prevent or reduce the likelihood of a negative event. The event can be triggered by terms that indicate preventive actions or strategies. Examples include 'defense', 'vaccine', 'prevention', 'stop', and 'stave'. This event type is often found in contexts where proactive measures are taken to ensure safety and well-being."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event."
+    }
+}

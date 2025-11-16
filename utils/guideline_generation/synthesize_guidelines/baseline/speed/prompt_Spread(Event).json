@@ -1,0 +1,14 @@
+{
+    "Spread(Event)": {
+        "description": [
+            "The 'Spread' event refers to the dissemination or transmission of something, typically a disease, information, or influence, from one place or person to another. The event can be triggered by verbs such as 'spread', 'spreading', 'spreads', 'transmission', 'rising', 'hit', and 'ill'. The event can be triggered by both direct and indirect references to the act of spreading.",
+            "The 'Spread' event involves the propagation or distribution of an entity, often a disease or information, across a population or area. The event can be triggered by terms like 'spread', 'spreading', 'spreads', 'transmission', 'rising', 'hit', and 'ill'. It is important to note that the context in which these terms are used determines whether they indicate a 'Spread' event.",
+            "The 'Spread' event captures the act of something being disseminated or transmitted, such as a virus, information, or influence. Triggers for this event include words like 'spread', 'spreading', 'spreads', 'transmission', 'rising', 'hit', and 'ill'. The event can be triggered by both explicit mentions and implicit suggestions of spreading.",
+            "The 'Spread' event is defined as the act of something being distributed or transmitted from one entity to another, commonly seen with diseases or information. Triggers for this event include 'spread', 'spreading', 'spreads', 'transmission', 'rising', 'hit', and 'ill'. The event can be triggered by various forms of the word and in different contexts.",
+            "The 'Spread' event refers to the process by which something, such as a disease or information, is transmitted or disseminated from one place or person to another. Triggers for this event include 'spread', 'spreading', 'spreads', 'transmission', 'rising', 'hit', and 'ill'. The event can be triggered by both direct and indirect references to spreading."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "TransferOwnership(TransactionEvent)": {
+        "description": [
+            "The TransferOwnership event, a subtype of TransactionEvent, involves the transfer of ownership of an artifact from one entity to another. The event can be triggered by verbs such as 'sell', 'buy', 'acquire', 'provide', and 'transfer'. This event typically includes participants such as the seller, buyer, and the artifact being transferred. The event can be triggered by various actions indicating a change in ownership, such as sales, acquisitions, or provisions.",
+            "TransferOwnership is a specific type of TransactionEvent where ownership of an artifact is transferred from one party to another. The event can be triggered by terms like 'sell', 'purchase', 'acquire', 'provide', and 'transfer'. It involves key participants including the seller, buyer, and the artifact. The event can be triggered by any action that signifies a change in ownership, such as selling, buying, or providing an item.",
+            "In the context of NLP, TransferOwnership is an event under the TransactionEvent category that denotes the transfer of ownership of an artifact from one entity to another. Triggers for this event include words like 'sell', 'buy', 'acquire', 'provide', and 'transfer'. The event involves participants such as the seller, buyer, and the artifact. The event can be triggered by actions indicating a change in ownership, such as sales, acquisitions, or provisions.",
+            "The TransferOwnership event, classified under TransactionEvent, refers to the transfer of ownership of an artifact from one party to another. This event can be triggered by verbs such as 'sell', 'buy', 'acquire', 'provide', and 'transfer'. It includes participants like the seller, buyer, and the artifact. The event can be triggered by various actions that indicate a change in ownership, such as selling, buying, or providing an item.",
+            "TransferOwnership is a subtype of TransactionEvent that involves the transfer of ownership of an artifact from one entity to another. Triggers for this event include terms like 'sell', 'buy', 'acquire', 'provide', and 'transfer'. The event involves key participants such as the seller, buyer, and the artifact. The event can be triggered by actions indicating a change in ownership, such as sales, acquisitions, or provisions."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "artifact": [
+            "The artifact in a TransferOwnership event refers to the item or entity whose ownership is being transferred. Examples are 'apartment', 'operations', 'nuclear weapons', 'hotel', 'property', 'business', 'parks', 'division'. The artifact is the central object of the transaction and can vary widely depending on the context.",
+            "In a TransferOwnership event, the artifact is the item or entity being transferred from one party to another. Examples are 'apartment', 'operations', 'nuclear weapons', 'hotel', 'property', 'business', 'parks', 'division'. The artifact is the main object involved in the transaction and can be any tangible or intangible item.",
+            "The artifact in the context of a TransferOwnership event is the item or entity whose ownership is changing hands. Examples are 'apartment', 'operations', 'nuclear weapons', 'hotel', 'property', 'business', 'parks', 'division'. The artifact is the focal point of the transaction and can be any object or entity.",
+            "In TransferOwnership events, the artifact is the item or entity being transferred. Examples are 'apartment', 'operations', 'nuclear weapons', 'hotel', 'property', 'business', 'parks', 'division'. The artifact is the key object in the transaction and can be any item or entity whose ownership is being transferred.",
+            "The artifact in a TransferOwnership event refers to the item or entity that is being transferred from one party to another. Examples are 'apartment', 'operations', 'nuclear weapons', 'hotel', 'property', 'business', 'parks', 'division'. The artifact is the primary object of the transaction and can be any tangible or intangible item."
+        ],
+        "beneficiary": [
+            "The beneficiary in a TransferOwnership event is the entity that benefits from the transfer. Examples are 'nanny'. The beneficiary is the recipient of the artifact or the party that gains from the transaction.",
+            "In a TransferOwnership event, the beneficiary is the entity that receives the benefit from the transfer. Examples are 'nanny'. The beneficiary is the party that gains ownership or advantage from the transaction.",
+            "The beneficiary in the context of a TransferOwnership event is the entity that benefits from the transfer of ownership. Examples are 'nanny'. The beneficiary is the recipient of the artifact or the party that gains from the transaction.",
+            "In TransferOwnership events, the beneficiary is the entity that gains from the transfer. Examples are 'nanny'. The beneficiary is the party that receives the artifact or benefits from the transaction.",
+            "The beneficiary in a TransferOwnership event refers to the entity that benefits from the transfer of ownership. Examples are 'nanny'. The beneficiary is the recipient of the artifact or the party that gains from the transaction."
+        ],
+        "buyer": [
+            "The buyer in a TransferOwnership event is the entity that acquires the artifact. Examples are 'company', 'Andrew Harris', 'firm', 'Blackstone Group'. The buyer is the party that receives ownership of the artifact in the transaction.",
+            "In a TransferOwnership event, the buyer is the entity that purchases or acquires the artifact. Examples are 'company', 'Andrew Harris', 'firm', 'Blackstone Group'. The buyer is the party that gains ownership of the artifact.",
+            "The buyer in the context of a TransferOwnership event is the entity that acquires the artifact. Examples are 'company', 'Andrew Harris', 'firm', 'Blackstone Group'. The buyer is the party that receives ownership of the artifact in the transaction.",
+            "In TransferOwnership events, the buyer is the entity that purchases or acquires the artifact. Examples are 'company', 'Andrew Harris', 'firm', 'Blackstone Group'. The buyer is the party that gains ownership of the artifact.",
+            "The buyer in a TransferOwnership event refers to the entity that acquires the artifact. Examples are 'company', 'Andrew Harris', 'firm', 'Blackstone Group'. The buyer is the party that receives ownership of the artifact in the transaction."
+        ],
+        "place": [
+            "The place in a TransferOwnership event is the location where the transfer occurs. Examples are 'Belgrade'. The place provides the geographical context for the transaction.",
+            "In a TransferOwnership event, the place is the location where the transfer takes place. Examples are 'Belgrade'. The place gives the geographical context for the transaction.",
+            "The place in the context of a TransferOwnership event is the location where the transfer occurs. Examples are 'Belgrade'. The place provides the geographical context for the transaction.",
+            "In TransferOwnership events, the place is the location where the transfer happens. Examples are 'Belgrade'. The place gives the geographical context for the transaction.",
+            "The place in a TransferOwnership event refers to the location where the transfer occurs. Examples are 'Belgrade'. The place provides the geographical context for the transaction."
+        ],
+        "seller": [
+            "The seller in a TransferOwnership event is the entity that transfers the artifact. Examples are 'Mirjana Markovic', 'USA Interactive', 'Vivendi', 'it', 'group', 'Vivendi Universal'. The seller is the party that relinquishes ownership of the artifact in the transaction.",
+            "In a TransferOwnership event, the seller is the entity that transfers the artifact. Examples are 'Mirjana Markovic', 'USA Interactive', 'Vivendi', 'it', 'group', 'Vivendi Universal'. The seller is the party that relinquishes ownership of the artifact.",
+            "The seller in the context of a TransferOwnership event is the entity that transfers the artifact. Examples are 'Mirjana Markovic', 'USA Interactive', 'Vivendi', 'it', 'group', 'Vivendi Universal'. The seller is the party that relinquishes ownership of the artifact in the transaction.",
+            "In TransferOwnership events, the seller is the entity that transfers the artifact. Examples are 'Mirjana Markovic', 'USA Interactive', 'Vivendi', 'it', 'group', 'Vivendi Universal'. The seller is the party that relinquishes ownership of the artifact.",
+            "The seller in a TransferOwnership event refers to the entity that transfers the artifact. Examples are 'Mirjana Markovic', 'USA Interactive', 'Vivendi', 'it', 'group', 'Vivendi Universal'. The seller is the party that relinquishes ownership of the artifact in the transaction."
+        ]
+    }
+}

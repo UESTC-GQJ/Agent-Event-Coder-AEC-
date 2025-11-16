@@ -1,0 +1,42 @@
+{
+    "ChargeIndict(JusticeEvent)": {
+        "description": [
+            "The ChargeIndict event refers to the formal accusation or indictment of an individual or entity for a crime or offense. The event can be triggered by words such as 'charge', 'indict', 'accuse', 'prosecute', and 'charged'. This event is a subset of JusticeEvent, focusing specifically on the legal process of bringing charges against a defendant. The event can be triggered by various legal terms and phrases indicating the initiation of legal proceedings against an individual or entity.",
+            "The ChargeIndict event involves the formal process of accusing someone of a crime, typically initiated by a legal authority. Triggers for this event include terms like 'charged', 'indicted', 'accused', and 'prosecuted'. This event is part of the broader category of JusticeEvent and specifically deals with the act of bringing formal charges against a person or organization. The event can be triggered by legal terminology indicating the start of criminal proceedings.",
+            "ChargeIndict is an event that captures the formal accusation or indictment of a person or entity for a criminal act. It is triggered by terms such as 'charge', 'indict', 'accuse', and 'prosecute'. This event falls under the JusticeEvent category and focuses on the legal action of charging someone with a crime. The event can be triggered by various legal phrases that denote the commencement of legal action against an individual or group.",
+            "The ChargeIndict event represents the legal process of formally accusing someone of a crime. It is triggered by words like 'charged', 'indicted', 'accused', and 'prosecuted'. As a subset of JusticeEvent, this event specifically deals with the act of bringing charges against a defendant. The event can be triggered by legal language indicating the initiation of criminal charges.",
+            "ChargeIndict is an event type that involves the formal accusation or indictment of an individual or entity for a criminal offense. Triggers for this event include 'charge', 'indict', 'accuse', and 'prosecute'. This event is a part of the JusticeEvent category and focuses on the legal process of charging someone with a crime. The event can be triggered by various legal terms and phrases that signify the start of legal proceedings against a person or organization."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The adjudicator is the person or entity responsible for making a legal judgment or decision in the ChargeIndict event. Examples are judges, magistrates, or any legal authority presiding over the case. The adjudicator is typically the one who issues the formal charges or indictment.",
+            "In the context of a ChargeIndict event, the adjudicator refers to the individual or body that has the authority to make legal decisions or judgments. Examples include judges, magistrates, or other legal officials. The adjudicator is the one who formally charges or indicts the defendant.",
+            "The adjudicator in a ChargeIndict event is the person or entity that has the legal authority to issue charges or an indictment. Examples are judges, magistrates, or other legal authorities. The adjudicator is responsible for the formal accusation process.",
+            "For the ChargeIndict event, the adjudicator is the legal authority who makes the decision to charge or indict the defendant. Examples include judges, magistrates, or other judicial officials. The adjudicator plays a key role in the formal accusation process.",
+            "The adjudicator in the ChargeIndict event is the person or entity with the legal power to issue formal charges or an indictment. Examples are judges, magistrates, or other legal authorities. The adjudicator is responsible for initiating the legal proceedings against the defendant."
+        ],
+        "defendant": [
+            "The defendant is the individual or entity that is being formally accused or charged in the ChargeIndict event. Examples are the person or organization against whom the charges are brought. The defendant is the subject of the legal action.",
+            "In a ChargeIndict event, the defendant refers to the person or entity that is being charged or indicted. Examples include individuals, companies, or organizations facing legal accusations. The defendant is the party against whom the charges are directed.",
+            "The defendant in the ChargeIndict event is the person or entity that is the target of the formal charges or indictment. Examples are individuals or organizations accused of a crime. The defendant is the one who is being legally prosecuted.",
+            "For the ChargeIndict event, the defendant is the individual or entity that is being formally accused of a crime. Examples include people, corporations, or other entities facing legal charges. The defendant is the focus of the legal proceedings.",
+            "The defendant in a ChargeIndict event is the person or entity that is being formally charged or indicted. Examples are individuals, businesses, or organizations accused of criminal activity. The defendant is the party against whom the legal action is taken."
+        ],
+        "place": [
+            "The place refers to the location where the ChargeIndict event occurs or where the legal proceedings are taking place. Examples are courtrooms, cities, or countries. The place is the geographical setting of the legal action.",
+            "In the context of a ChargeIndict event, the place is the location where the charges or indictment are issued or where the legal process is happening. Examples include courts, specific cities, or nations. The place provides the geographical context for the event.",
+            "The place in a ChargeIndict event is the location where the formal accusation or indictment is made. Examples are courtrooms, towns, or regions. The place indicates where the legal proceedings are taking place.",
+            "For the ChargeIndict event, the place refers to the geographical location where the charges are brought or where the legal action is occurring. Examples include judicial venues, cities, or countries. The place sets the scene for the legal event.",
+            "The place in the ChargeIndict event is the location where the formal charges or indictment are issued. Examples are courts, municipalities, or countries. The place provides the geographical setting for the legal proceedings."
+        ],
+        "prosecutor": [
+            "The prosecutor is the person or entity responsible for bringing the charges against the defendant in the ChargeIndict event. Examples are district attorneys, state prosecutors, or legal representatives of the government. The prosecutor is the party initiating the legal action.",
+            "In a ChargeIndict event, the prosecutor refers to the individual or body that is responsible for formally accusing the defendant. Examples include public prosecutors, district attorneys, or government legal representatives. The prosecutor is the one who files the charges.",
+            "The prosecutor in the ChargeIndict event is the person or entity that brings the formal charges against the defendant. Examples are state attorneys, public prosecutors, or legal representatives of the state. The prosecutor is responsible for initiating the legal proceedings.",
+            "For the ChargeIndict event, the prosecutor is the legal authority who brings the charges against the defendant. Examples include district attorneys, public prosecutors, or government lawyers. The prosecutor is the party that initiates the formal accusation.",
+            "The prosecutor in a ChargeIndict event is the person or entity that formally accuses the defendant of a crime. Examples are district attorneys, state prosecutors, or legal representatives of the government. The prosecutor is responsible for filing the charges and initiating the legal action."
+        ]
+    }
+}

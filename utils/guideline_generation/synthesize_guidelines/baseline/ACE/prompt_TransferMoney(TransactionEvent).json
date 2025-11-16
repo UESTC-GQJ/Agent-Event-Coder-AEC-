@@ -1,0 +1,42 @@
+{
+    "TransferMoney(TransactionEvent)": {
+        "description": [
+            "The TransferMoney event, a subtype of TransactionEvent, involves the movement of money from one entity to another. The event can be triggered by verbs such as 'give', 'pay', 'settle', 'cost', 'fund', and 'transfer'. The event can occur in various contexts, including personal transactions, business deals, legal settlements, and fines. Annotators should look for any action that implies the transfer of money, regardless of the specific terminology used.",
+            "TransferMoney events are characterized by the transfer of monetary value between entities. The event can be triggered by terms like 'give', 'pay', 'settle', 'cost', 'fund', and 'transfer'. This event type is common in financial, legal, and personal contexts. Annotators should identify instances where money is being moved from one party to another, even if the language used is indirect.",
+            "A TransferMoney event signifies the act of transferring money from one party to another. Triggers for this event include words such as 'give', 'pay', 'settle', 'cost', 'fund', and 'transfer'. This event can be found in various scenarios, including donations, payments, fines, and settlements. Annotators should focus on identifying the transfer of money, regardless of the specific wording.",
+            "The TransferMoney event involves the exchange of money between entities. It can be triggered by verbs like 'give', 'pay', 'settle', 'cost', 'fund', and 'transfer'. This event type is prevalent in contexts such as financial transactions, legal settlements, and fines. Annotators should look for any indication of money being transferred, even if the terminology is varied.",
+            "TransferMoney events denote the movement of money from one entity to another. Triggers for this event include 'give', 'pay', 'settle', 'cost', 'fund', and 'transfer'. These events can occur in a wide range of contexts, including business transactions, legal settlements, and personal payments. Annotators should identify any action that implies the transfer of money, regardless of the specific language used."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "beneficiary": [
+            "The beneficiary is the entity that ultimately benefits from the transfer of money. Examples are 'Democrats' in the context of donations or 'neighbor' in the context of compensation. Annotators should identify the party that receives the benefit of the money transfer, even if they are not the direct recipient.",
+            "Beneficiary refers to the entity that gains from the money transfer. Examples include 'Democrats' in political donations or 'neighbor' in compensation cases. Annotators should look for the party that benefits from the transfer, which may not always be the direct recipient.",
+            "A beneficiary is the entity that benefits from the money transfer. Examples are 'Democrats' in donations or 'neighbor' in compensation. Annotators should identify the party that gains from the transfer, even if they are not the direct recipient.",
+            "The beneficiary is the entity that benefits from the money transfer. Examples include 'Democrats' in donations or 'neighbor' in compensation. Annotators should look for the party that benefits from the transfer, even if they are not the direct recipient.",
+            "Beneficiary refers to the entity that benefits from the money transfer. Examples are 'Democrats' in donations or 'neighbor' in compensation. Annotators should identify the party that gains from the transfer, even if they are not the direct recipient."
+        ],
+        "giver": [
+            "The giver is the entity that provides the money in the transfer. Examples are 'Planned Parenthood' in donations or 'girls' in compensation. Annotators should identify the party that initiates the transfer of money.",
+            "Giver refers to the entity that provides the money. Examples include 'Planned Parenthood' in donations or 'girls' in compensation. Annotators should look for the party that initiates the money transfer.",
+            "A giver is the entity that provides the money in the transfer. Examples are 'Planned Parenthood' in donations or 'girls' in compensation. Annotators should identify the party that initiates the transfer.",
+            "The giver is the entity that provides the money. Examples include 'Planned Parenthood' in donations or 'girls' in compensation. Annotators should look for the party that initiates the money transfer.",
+            "Giver refers to the entity that provides the money. Examples are 'Planned Parenthood' in donations or 'girls' in compensation. Annotators should identify the party that initiates the transfer."
+        ],
+        "place": [
+            "The place is the location where the money transfer occurs. Examples are 'Colorado' in legal contexts. Annotators should identify the geographical location associated with the transfer, if mentioned.",
+            "Place refers to the location where the money transfer takes place. Examples include 'Colorado' in legal contexts. Annotators should look for any geographical location mentioned in relation to the transfer.",
+            "A place is the location where the money transfer occurs. Examples are 'Colorado' in legal contexts. Annotators should identify the geographical location associated with the transfer, if specified.",
+            "The place is the location where the money transfer happens. Examples include 'Colorado' in legal contexts. Annotators should look for any geographical location mentioned in relation to the transfer.",
+            "Place refers to the location where the money transfer occurs. Examples are 'Colorado' in legal contexts. Annotators should identify the geographical location associated with the transfer, if mentioned."
+        ],
+        "recipient": [
+            "The recipient is the entity that directly receives the money. Examples are 'Democrats' in donations or 'neighbor' in compensation. Annotators should identify the party that directly receives the money, which may also be the beneficiary.",
+            "Recipient refers to the entity that directly receives the money. Examples include 'Democrats' in donations or 'neighbor' in compensation. Annotators should look for the party that directly receives the money, which may also be the beneficiary.",
+            "A recipient is the entity that directly receives the money. Examples are 'Democrats' in donations or 'neighbor' in compensation. Annotators should identify the party that directly receives the money, which may also be the beneficiary.",
+            "The recipient is the entity that directly receives the money. Examples include 'Democrats' in donations or 'neighbor' in compensation. Annotators should look for the party that directly receives the money, which may also be the beneficiary.",
+            "Recipient refers to the entity that directly receives the money. Examples are 'Democrats' in donations or 'neighbor' in compensation. Annotators should identify the party that directly receives the money, which may also be the beneficiary."
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "Marry(LifeEvent)": {
+        "DisplayName": "Event Type: Marry\nParent Event Type: Life Event",
+        "Arguments": [
+            "place",
+            "time",
+            "person"
+        ]
+    },
+    "Transport(MovementEvent)": {
+        "DisplayName": "Event Type: Transport\nParent Event Type: Movement Event",
+        "Arguments": [
+            "artifact",
+            "origin",
+            "destination",
+            "agent",
+            "time",
+            "vehicle"
+        ]
+    },
+    "None": {},
+    "StartPosition(PersonnelEvent)": {
+        "DisplayName": "Event Type: Start Position\nParent Event Type: Personnel Event",
+        "Arguments": [
+            "entity",
+            "time",
+            "place",
+            "position",
+            "person"
+        ]
+    },
+    "BeBorn(LifeEvent)": {
+        "DisplayName": "Event Type: Be Born\nParent Event Type: Life Event",
+        "Arguments": [
+            "place",
+            "time",
+            "person"
+        ]
+    },
+    "EndPosition(PersonnelEvent)": {
+        "DisplayName": "Event Type: End Position\nParent Event Type: Personnel Event",
+        "Arguments": [
+            "entity",
+            "time",
+            "place",
+            "position",
+            "person"
+        ]
+    },
+    "Die(LifeEvent)": {
+        "DisplayName": "Event Type: Die\nParent Event Type: Life Event",
+        "Arguments": [
+            "agent",
+            "time",
+            "instrument",
+            "victim",
+            "place"
+        ]
+    },
+    "TransferMoney(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Money\nParent Event Type: Transaction Event",
+        "Arguments": [
+            "beneficiary",
+            "recipient",
+            "giver",
+            "money",
+            "time",
+            "place"
+        ]
+    },
+    "PhoneWrite(ContactEvent)": {
+        "DisplayName": "Event Type: Phone Write\nParent Event Type: Contact Event",
+        "Arguments": [
+            "time",
+            "entity"
+        ]
+    },
+    "Attack(ConflictEvent)": {
+        "DisplayName": "Event Type: Attack\nParent Event Type: Conflict Event",
+        "Arguments": [
+            "attacker",
+            "time",
+            "instrument",
+            "place",
+            "target"
+        ]
+    },
+    "Meet(ContactEvent)": {
+        "DisplayName": "Event Type: Meet\nParent Event Type: Contact Event",
+        "Arguments": [
+            "time",
+            "place",
+            "entity"
+        ]
+    },
+    "TransferOwnership(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Ownership\nParent Event Type: Transaction Event",
+        "Arguments": [
+            "beneficiary",
+            "artifact",
+            "seller",
+            "buyer",
+            "time",
+            "place",
+            "price"
+        ]
+    },
+    "Demonstrate(ConflictEvent)": {
+        "DisplayName": "Event Type: Demonstrate\nParent Event Type: Conflict Event",
+        "Arguments": [
+            "time",
+            "place",
+            "entity"
+        ]
+    },
+    "Injure(LifeEvent)": {
+        "DisplayName": "Event Type: Injure\nParent Event Type: Life Event",
+        "Arguments": [
+            "agent",
+            "time",
+            "instrument",
+            "victim",
+            "place"
+        ]
+    },
+    "StartOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: Start Org\nParent Event Type: Business Event",
+        "Arguments": [
+            "place",
+            "time",
+            "agent",
+            "organization"
+        ]
+    },
+    "ArrestJail(JusticeEvent)": {
+        "DisplayName": "Event Type: Arrest Jail\nParent Event Type: Justice Event",
+        "Arguments": [
+            "agent",
+            "crime",
+            "time",
+            "place",
+            "person"
+        ]
+    },
+    "Divorce(LifeEvent)": {
+        "DisplayName": "Event Type: Divorce\nParent Event Type: Life Event",
+        "Arguments": [
+            "place",
+            "time",
+            "person"
+        ]
+    }
+}

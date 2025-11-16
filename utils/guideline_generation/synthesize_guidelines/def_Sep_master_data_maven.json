@@ -1,0 +1,675 @@
+{
+    "None": {},
+    "Being_in_operation(Event)": {
+        "DisplayName": "Event Type: Being_in_operation\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Bodily_harm(Event)": {
+        "DisplayName": "Event Type: Bodily_harm\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Catastrophe(Event)": {
+        "DisplayName": "Event Type: Catastrophe\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Scrutiny(Event)": {
+        "DisplayName": "Event Type: Scrutiny\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Process_end(Event)": {
+        "DisplayName": "Event Type: Process_end\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Causation(Event)": {
+        "DisplayName": "Event Type: Causation\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Self_motion(Event)": {
+        "DisplayName": "Event Type: Self_motion\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Recovering(Event)": {
+        "DisplayName": "Event Type: Recovering\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Influence(Event)": {
+        "DisplayName": "Event Type: Influence\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Expansion(Event)": {
+        "DisplayName": "Event Type: Expansion\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Earnings_and_losses(Event)": {
+        "DisplayName": "Event Type: Earnings_and_losses\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Removing(Event)": {
+        "DisplayName": "Event Type: Removing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Control(Event)": {
+        "DisplayName": "Event Type: Control\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Carry_goods(Event)": {
+        "DisplayName": "Event Type: Carry_goods\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cause_to_be_included(Event)": {
+        "DisplayName": "Event Type: Cause_to_be_included\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Death(Event)": {
+        "DisplayName": "Event Type: Death\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Motion(Event)": {
+        "DisplayName": "Event Type: Motion\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Agree_or_refuse_to_act(Event)": {
+        "DisplayName": "Event Type: Agree_or_refuse_to_act\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Supply(Event)": {
+        "DisplayName": "Event Type: Supply\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Process_start(Event)": {
+        "DisplayName": "Event Type: Process_start\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Rescuing(Event)": {
+        "DisplayName": "Event Type: Rescuing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Military_operation(Event)": {
+        "DisplayName": "Event Type: Military_operation\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Quarreling(Event)": {
+        "DisplayName": "Event Type: Quarreling\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Defending(Event)": {
+        "DisplayName": "Event Type: Defending\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Convincing(Event)": {
+        "DisplayName": "Event Type: Convincing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Response(Event)": {
+        "DisplayName": "Event Type: Response\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Sending(Event)": {
+        "DisplayName": "Event Type: Sending\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Conquering(Event)": {
+        "DisplayName": "Event Type: Conquering\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Besieging(Event)": {
+        "DisplayName": "Event Type: Besieging\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Request(Event)": {
+        "DisplayName": "Event Type: Request\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Getting(Event)": {
+        "DisplayName": "Event Type: Getting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Hostile_encounter(Event)": {
+        "DisplayName": "Event Type: Hostile_encounter\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Departing(Event)": {
+        "DisplayName": "Event Type: Departing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Sign_agreement(Event)": {
+        "DisplayName": "Event Type: Sign_agreement\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Confronting_problem(Event)": {
+        "DisplayName": "Event Type: Confronting_problem\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Preventing_or_letting(Event)": {
+        "DisplayName": "Event Type: Preventing_or_letting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Terrorism(Event)": {
+        "DisplayName": "Event Type: Terrorism\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Aiming(Event)": {
+        "DisplayName": "Event Type: Aiming\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Killing(Event)": {
+        "DisplayName": "Event Type: Killing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Know(Event)": {
+        "DisplayName": "Event Type: Know\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Reporting(Event)": {
+        "DisplayName": "Event Type: Reporting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Change(Event)": {
+        "DisplayName": "Event Type: Change\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Coming_to_believe(Event)": {
+        "DisplayName": "Event Type: Coming_to_believe\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Becoming(Event)": {
+        "DisplayName": "Event Type: Becoming\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Communication(Event)": {
+        "DisplayName": "Event Type: Communication\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Warning(Event)": {
+        "DisplayName": "Event Type: Warning\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Telling(Event)": {
+        "DisplayName": "Event Type: Telling\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Arranging(Event)": {
+        "DisplayName": "Event Type: Arranging\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Action(Event)": {
+        "DisplayName": "Event Type: Action\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Coming_to_be(Event)": {
+        "DisplayName": "Event Type: Coming_to_be\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Motion_directional(Event)": {
+        "DisplayName": "Event Type: Motion_directional\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Statement(Event)": {
+        "DisplayName": "Event Type: Statement\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cause_change_of_position_on_a_scale(Event)": {
+        "DisplayName": "Event Type: Cause_change_of_position_on_a_scale\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Expressing_publicly(Event)": {
+        "DisplayName": "Event Type: Expressing_publicly\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Competition(Event)": {
+        "DisplayName": "Event Type: Competition\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Destroying(Event)": {
+        "DisplayName": "Event Type: Destroying\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Temporary_stay(Event)": {
+        "DisplayName": "Event Type: Temporary_stay\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cause_change_of_strength(Event)": {
+        "DisplayName": "Event Type: Cause_change_of_strength\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Arriving(Event)": {
+        "DisplayName": "Event Type: Arriving\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Becoming_a_member(Event)": {
+        "DisplayName": "Event Type: Becoming_a_member\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Recording(Event)": {
+        "DisplayName": "Event Type: Recording\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Creating(Event)": {
+        "DisplayName": "Event Type: Creating\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Damaging(Event)": {
+        "DisplayName": "Event Type: Damaging\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Bearing_arms(Event)": {
+        "DisplayName": "Event Type: Bearing_arms\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Using(Event)": {
+        "DisplayName": "Event Type: Using\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Participation(Event)": {
+        "DisplayName": "Event Type: Participation\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Surrendering(Event)": {
+        "DisplayName": "Event Type: Surrendering\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Bringing(Event)": {
+        "DisplayName": "Event Type: Bringing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cause_to_make_progress(Event)": {
+        "DisplayName": "Event Type: Cause_to_make_progress\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Writing(Event)": {
+        "DisplayName": "Event Type: Writing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Legal_rulings(Event)": {
+        "DisplayName": "Event Type: Legal_rulings\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Change_of_leadership(Event)": {
+        "DisplayName": "Event Type: Change_of_leadership\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Escaping(Event)": {
+        "DisplayName": "Event Type: Escaping\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Collaboration(Event)": {
+        "DisplayName": "Event Type: Collaboration\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Perception_active(Event)": {
+        "DisplayName": "Event Type: Perception_active\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Social_event(Event)": {
+        "DisplayName": "Event Type: Social_event\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Traveling(Event)": {
+        "DisplayName": "Event Type: Traveling\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Hiding_objects(Event)": {
+        "DisplayName": "Event Type: Hiding_objects\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Hold(Event)": {
+        "DisplayName": "Event Type: Hold\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Placing(Event)": {
+        "DisplayName": "Event Type: Placing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Name_conferral(Event)": {
+        "DisplayName": "Event Type: Name_conferral\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Change_sentiment(Event)": {
+        "DisplayName": "Event Type: Change_sentiment\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Achieve(Event)": {
+        "DisplayName": "Event Type: Achieve\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cure(Event)": {
+        "DisplayName": "Event Type: Cure\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Lighting(Event)": {
+        "DisplayName": "Event Type: Lighting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cause_to_amalgamate(Event)": {
+        "DisplayName": "Event Type: Cause_to_amalgamate\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Having_or_lacking_access(Event)": {
+        "DisplayName": "Event Type: Having_or_lacking_access\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Commerce_pay(Event)": {
+        "DisplayName": "Event Type: Commerce_pay\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Presence(Event)": {
+        "DisplayName": "Event Type: Presence\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Attack(Event)": {
+        "DisplayName": "Event Type: Attack\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Rewards_and_punishments(Event)": {
+        "DisplayName": "Event Type: Rewards_and_punishments\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Receiving(Event)": {
+        "DisplayName": "Event Type: Receiving\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Come_together(Event)": {
+        "DisplayName": "Event Type: Come_together\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Legality(Event)": {
+        "DisplayName": "Event Type: Legality\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Judgment_communication(Event)": {
+        "DisplayName": "Event Type: Judgment_communication\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Committing_crime(Event)": {
+        "DisplayName": "Event Type: Committing_crime\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Exchange(Event)": {
+        "DisplayName": "Event Type: Exchange\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Dispersal(Event)": {
+        "DisplayName": "Event Type: Dispersal\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Supporting(Event)": {
+        "DisplayName": "Event Type: Supporting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Building(Event)": {
+        "DisplayName": "Event Type: Building\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Manufacturing(Event)": {
+        "DisplayName": "Event Type: Manufacturing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Giving(Event)": {
+        "DisplayName": "Event Type: Giving\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Commitment(Event)": {
+        "DisplayName": "Event Type: Commitment\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Rite(Event)": {
+        "DisplayName": "Event Type: Rite\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Openness(Event)": {
+        "DisplayName": "Event Type: Openness\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Preserving(Event)": {
+        "DisplayName": "Event Type: Preserving\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Renting(Event)": {
+        "DisplayName": "Event Type: Renting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Check(Event)": {
+        "DisplayName": "Event Type: Check\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Deciding(Event)": {
+        "DisplayName": "Event Type: Deciding\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Change_event_time(Event)": {
+        "DisplayName": "Event Type: Change_event_time\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Assistance(Event)": {
+        "DisplayName": "Event Type: Assistance\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Award(Event)": {
+        "DisplayName": "Event Type: Award\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Adducing(Event)": {
+        "DisplayName": "Event Type: Adducing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Practice(Event)": {
+        "DisplayName": "Event Type: Practice\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Create_artwork(Event)": {
+        "DisplayName": "Event Type: Create_artwork\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Vocalizations(Event)": {
+        "DisplayName": "Event Type: Vocalizations\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Arrest(Event)": {
+        "DisplayName": "Event Type: Arrest\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Emptying(Event)": {
+        "DisplayName": "Event Type: Emptying\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Choosing(Event)": {
+        "DisplayName": "Event Type: Choosing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Criminal_investigation(Event)": {
+        "DisplayName": "Event Type: Criminal_investigation\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Use_firearm(Event)": {
+        "DisplayName": "Event Type: Use_firearm\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Violence(Event)": {
+        "DisplayName": "Event Type: Violence\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Surrounding(Event)": {
+        "DisplayName": "Event Type: Surrounding\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Prison(Event)": {
+        "DisplayName": "Event Type: Prison\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Publishing(Event)": {
+        "DisplayName": "Event Type: Publishing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Resolve_problem(Event)": {
+        "DisplayName": "Event Type: Resolve_problem\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Submitting_documents(Event)": {
+        "DisplayName": "Event Type: Submitting_documents\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Releasing(Event)": {
+        "DisplayName": "Event Type: Releasing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Research(Event)": {
+        "DisplayName": "Event Type: Research\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Imposing_obligation(Event)": {
+        "DisplayName": "Event Type: Imposing_obligation\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Scouring(Event)": {
+        "DisplayName": "Event Type: Scouring\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Cost(Event)": {
+        "DisplayName": "Event Type: Cost\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Testing(Event)": {
+        "DisplayName": "Event Type: Testing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Connect(Event)": {
+        "DisplayName": "Event Type: Connect\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Protest(Event)": {
+        "DisplayName": "Event Type: Protest\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Getready(Event)": {
+        "DisplayName": "Event Type: Getready\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Justifying(Event)": {
+        "DisplayName": "Event Type: Justifying\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Reveal_secret(Event)": {
+        "DisplayName": "Event Type: Reveal_secret\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Expend_resource(Event)": {
+        "DisplayName": "Event Type: Expend_resource\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Change_tool(Event)": {
+        "DisplayName": "Event Type: Change_tool\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Hindering(Event)": {
+        "DisplayName": "Event Type: Hindering\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Employment(Event)": {
+        "DisplayName": "Event Type: Employment\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Breathing(Event)": {
+        "DisplayName": "Event Type: Breathing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Commerce_buy(Event)": {
+        "DisplayName": "Event Type: Commerce_buy\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Kidnapping(Event)": {
+        "DisplayName": "Event Type: Kidnapping\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Labeling(Event)": {
+        "DisplayName": "Event Type: Labeling\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Revenge(Event)": {
+        "DisplayName": "Event Type: Revenge\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Reforming_a_system(Event)": {
+        "DisplayName": "Event Type: Reforming_a_system\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Education_teaching(Event)": {
+        "DisplayName": "Event Type: Education_teaching\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Forming_relationships(Event)": {
+        "DisplayName": "Event Type: Forming_relationships\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Giveup(Event)": {
+        "DisplayName": "Event Type: Giveup\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Theft(Event)": {
+        "DisplayName": "Event Type: Theft\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Body_movement(Event)": {
+        "DisplayName": "Event Type: Body_movement\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Filling(Event)": {
+        "DisplayName": "Event Type: Filling\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Robbery(Event)": {
+        "DisplayName": "Event Type: Robbery\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Limiting(Event)": {
+        "DisplayName": "Event Type: Limiting\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Commerce_sell(Event)": {
+        "DisplayName": "Event Type: Commerce_sell\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Wearing(Event)": {
+        "DisplayName": "Event Type: Wearing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Containing(Event)": {
+        "DisplayName": "Event Type: Containing\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Institutionalization(Event)": {
+        "DisplayName": "Event Type: Institutionalization\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Patrolling(Event)": {
+        "DisplayName": "Event Type: Patrolling\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Ingestion(Event)": {
+        "DisplayName": "Event Type: Ingestion\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Risk(Event)": {
+        "DisplayName": "Event Type: Risk\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Suspicion(Event)": {
+        "DisplayName": "Event Type: Suspicion\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Ratification(Event)": {
+        "DisplayName": "Event Type: Ratification\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Incident(Event)": {
+        "DisplayName": "Event Type: Incident\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Extradition(Event)": {
+        "DisplayName": "Event Type: Extradition\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Emergency(Event)": {
+        "DisplayName": "Event Type: Emergency\nParent Event Type: Event",
+        "Arguments": []
+    }
+}

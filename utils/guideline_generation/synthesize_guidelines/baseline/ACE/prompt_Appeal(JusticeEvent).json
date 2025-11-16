@@ -1,0 +1,35 @@
+{
+    "Appeal(JusticeEvent)": {
+        "description": [
+            "An 'Appeal' event refers to the act of formally requesting a higher authority, typically a court, to review and change the decision of a lower court. The event can be triggered by words such as 'appeal', 'appealed', 'appeals', 'appealing', etc. The event can be triggered by various forms of the word 'appeal' and its synonyms. It is important to note that the context should involve a legal or formal request for a review of a decision.",
+            "The 'Appeal' event is a legal action where a party requests a higher court to review the decision of a lower court. This event is often indicated by terms like 'appeal', 'appealed', 'appeals', and similar variations. The event can be triggered by phrases indicating a formal request for a review of a judicial decision. The context should clearly indicate a legal process.",
+            "An 'Appeal' event involves a formal request to a higher authority to review and possibly change a decision made by a lower authority. This event is typically triggered by terms such as 'appeal', 'appealed', 'appeals', etc. The event can be triggered by various forms of the word 'appeal' and its synonyms. The context should involve a legal or formal review process.",
+            "The 'Appeal' event is characterized by a formal request to a higher court to review a decision made by a lower court. This event can be triggered by words like 'appeal', 'appealed', 'appeals', and similar terms. The event can be triggered by various forms of the word 'appeal' and its synonyms. The context should indicate a legal or judicial review process.",
+            "An 'Appeal' event refers to the act of asking a higher court to review the decision of a lower court. This event is often indicated by terms such as 'appeal', 'appealed', 'appeals', etc. The event can be triggered by various forms of the word 'appeal' and its synonyms. The context should clearly involve a legal or formal request for a review of a decision."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The 'adjudicator' argument refers to the authority or court that is being asked to review the decision. Examples are 'Supreme Court', 'Federal Court', 'court', etc. The adjudicator is the entity that has the power to review and potentially change the decision made by a lower authority.",
+            "The 'adjudicator' argument identifies the higher authority or court that is requested to review the decision. Examples are 'Supreme Court', 'Federal Court', 'court', etc. The adjudicator is the body that has the jurisdiction to review the case.",
+            "The 'adjudicator' argument denotes the court or authority that is being appealed to. Examples are 'Supreme Court', 'Federal Court', 'court', etc. The adjudicator is the entity responsible for reviewing the decision of a lower court.",
+            "The 'adjudicator' argument specifies the higher court or authority that is asked to review the decision. Examples are 'Supreme Court', 'Federal Court', 'court', etc. The adjudicator is the authority that has the power to review and possibly overturn the decision.",
+            "The 'adjudicator' argument refers to the court or authority that is being appealed to for a review of the decision. Examples are 'Supreme Court', 'Federal Court', 'court', etc. The adjudicator is the entity that has the authority to review and change the decision made by a lower court."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the appeal is being made or where the court is situated. Examples are 'Indonesia', 'New York', 'London', etc. The place provides geographical context to the appeal event.",
+            "The 'place' argument identifies the location associated with the appeal, such as the city or country where the court is located. Examples are 'Indonesia', 'New York', 'London', etc. The place helps in understanding the geographical context of the appeal.",
+            "The 'place' argument denotes the geographical location where the appeal is taking place or where the court is located. Examples are 'Indonesia', 'New York', 'London', etc. The place provides context about the location of the judicial process.",
+            "The 'place' argument specifies the location related to the appeal event, such as the city or country of the court. Examples are 'Indonesia', 'New York', 'London', etc. The place gives geographical context to the appeal.",
+            "The 'place' argument refers to the geographical location where the appeal is being made or where the court is situated. Examples are 'Indonesia', 'New York', 'London', etc. The place provides important context about the location of the appeal."
+        ],
+        "plaintiff": [
+            "The 'plaintiff' argument refers to the individual or group who is making the appeal. Examples are 'five', 'their', 'offender', 'convict', 'Anwar', 'he', etc. The plaintiff is the party that is dissatisfied with the decision of the lower court and is seeking a review.",
+            "The 'plaintiff' argument identifies the person or group that is appealing the decision. Examples are 'five', 'their', 'offender', 'convict', 'Anwar', 'he', etc. The plaintiff is the entity that is requesting the higher court to review the decision.",
+            "The 'plaintiff' argument denotes the party who is filing the appeal. Examples are 'five', 'their', 'offender', 'convict', 'Anwar', 'he', etc. The plaintiff is the individual or group seeking a review of the lower court's decision.",
+            "The 'plaintiff' argument specifies the individual or group that is making the appeal. Examples are 'five', 'their', 'offender', 'convict', 'Anwar', 'he', etc. The plaintiff is the party that is dissatisfied with the lower court's decision and is seeking a review.",
+            "The 'plaintiff' argument refers to the party who is appealing the decision. Examples are 'five', 'their', 'offender', 'convict', 'Anwar', 'he', etc. The plaintiff is the individual or group that is requesting a higher court to review the decision of a lower court."
+        ]
+    }
+}

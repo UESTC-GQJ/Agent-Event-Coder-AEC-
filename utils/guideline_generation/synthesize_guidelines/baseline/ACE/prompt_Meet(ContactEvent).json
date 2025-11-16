@@ -1,0 +1,28 @@
+{
+    "Meet(ContactEvent)": {
+        "description": [
+            "The 'Meet' event refers to an instance where two or more entities come together for a discussion, negotiation, or any form of interaction. The event can be triggered by words such as 'meet', 'talks', 'conference', 'forum', 'negotiations', 'meeting', 'brief', 'discussed', etc. The event can occur in various contexts such as political meetings, business conferences, casual gatherings, etc. Edge cases include virtual meetings or informal gatherings which should also be considered.",
+            "The 'Meet' event is characterized by the occurrence of a gathering or interaction between entities. This event can be triggered by terms like 'meet', 'conference', 'forum', 'negotiations', 'meeting', 'brief', 'discussed', and similar words. It encompasses both formal and informal meetings, including virtual ones. Annotators should be aware of the context to correctly identify the event.",
+            "A 'Meet' event involves entities coming together for a purpose such as discussion, negotiation, or interaction. Triggers for this event include 'meet', 'talks', 'conference', 'forum', 'negotiations', 'meeting', 'brief', 'discussed', among others. This event type covers a wide range of scenarios from high-level diplomatic talks to casual meetups. Virtual meetings are also included.",
+            "The 'Meet' event type captures instances where entities gather or interact. Common triggers are 'meet', 'talks', 'conference', 'forum', 'negotiations', 'meeting', 'brief', 'discussed', etc. This event can take place in various settings, including virtual environments. Annotators should consider the context to ensure accurate identification of the event.",
+            "In the 'Meet' event, entities come together for interaction, discussion, or negotiation. Triggers include 'meet', 'talks', 'conference', 'forum', 'negotiations', 'meeting', 'brief', 'discussed', and similar terms. This event type includes both formal and informal meetings, as well as virtual ones. Context is crucial for correct annotation."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "entity": [
+            "The 'entity' argument refers to the individuals, groups, or organizations involved in the meeting. Examples are 'Blair', 'Bush', 'experts', 'Washington', 'Pyongyang', 'They', 'Kelly', 'Yoon', 'Jean-Rene Fourtou', 'shareholders', etc. Edge cases include collective entities like 'We' or 'They' which should be annotated as a single entity.",
+            "Entities participating in the 'Meet' event are captured by the 'entity' argument. These can be people, groups, or organizations such as 'Blair', 'Bush', 'experts', 'Washington', 'Pyongyang', 'They', 'Kelly', 'Yoon', 'Jean-Rene Fourtou', 'shareholders', etc. Collective terms like 'We' or 'They' should be treated as single entities.",
+            "The 'entity' argument identifies the participants in the meeting. Examples include 'Blair', 'Bush', 'experts', 'Washington', 'Pyongyang', 'They', 'Kelly', 'Yoon', 'Jean-Rene Fourtou', 'shareholders', etc. Collective nouns like 'We' or 'They' are considered single entities.",
+            "Participants in the 'Meet' event are annotated as 'entity'. These can be individuals, groups, or organizations such as 'Blair', 'Bush', 'experts', 'Washington', 'Pyongyang', 'They', 'Kelly', 'Yoon', 'Jean-Rene Fourtou', 'shareholders', etc. Collective entities like 'We' or 'They' should be annotated as one entity.",
+            "The 'entity' argument denotes the participants in the meeting. Examples include 'Blair', 'Bush', 'experts', 'Washington', 'Pyongyang', 'They', 'Kelly', 'Yoon', 'Jean-Rene Fourtou', 'shareholders', etc. Collective terms like 'We' or 'They' should be annotated as single entities."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the meeting occurs. Examples are 'retreat', 'Bejing', 'city', 'Paris', etc. Edge cases include virtual locations or unspecified places which should be annotated if mentioned.",
+            "Locations where the 'Meet' event takes place are captured by the 'place' argument. Examples include 'retreat', 'Bejing', 'city', 'Paris', etc. Virtual locations or unspecified places should be annotated if they are mentioned.",
+            "The 'place' argument identifies the location of the meeting. Examples are 'retreat', 'Bejing', 'city', 'Paris', etc. Virtual locations or unspecified places should be annotated if mentioned.",
+            "Locations for the 'Meet' event are annotated as 'place'. Examples include 'retreat', 'Bejing', 'city', 'Paris', etc. Virtual locations or unspecified places should be annotated if mentioned.",
+            "The 'place' argument denotes the location of the meeting. Examples are 'retreat', 'Bejing', 'city', 'Paris', etc. Virtual locations or unspecified places should be annotated if mentioned."
+        ]
+    }
+}

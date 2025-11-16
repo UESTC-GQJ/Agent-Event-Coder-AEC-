@@ -1,0 +1,76 @@
+{
+    "Databreach(AttackEvent)": {
+        "DisplayName": "Event Type: Databreach\nParent Event Type: Attack Event",
+        "Arguments": [
+            "purpose",
+            "compromised_data",
+            "number_of_data",
+            "attack_pattern",
+            "damage_amount",
+            "number_of_victim",
+            "tool",
+            "time",
+            "attacker",
+            "place",
+            "victim"
+        ]
+    },
+    "None": {},
+    "Phishing(AttackEvent)": {
+        "DisplayName": "Event Type: Phishing\nParent Event Type: Attack Event",
+        "Arguments": [
+            "purpose",
+            "attack_pattern",
+            "damage_amount",
+            "tool",
+            "time",
+            "attacker",
+            "place",
+            "trusted_entity",
+            "victim"
+        ]
+    },
+    "Ransom(AttackEvent)": {
+        "DisplayName": "Event Type: Ransom\nParent Event Type: Attack Event",
+        "Arguments": [
+            "attack_pattern",
+            "damage_amount",
+            "tool",
+            "payment_method",
+            "place",
+            "time",
+            "attacker",
+            "price",
+            "victim"
+        ]
+    },
+    "Patchvulnerability(VulnerabilityRelatedEvent)": {
+        "DisplayName": "Event Type: Patchvulnerability\nParent Event Type: Vulnerability Related Event",
+        "Arguments": [
+            "vulnerable_system_version",
+            "supported_platform",
+            "cve",
+            "vulnerability",
+            "issues_addressed",
+            "patch",
+            "time",
+            "patch_number",
+            "releaser",
+            "vulnerable_system"
+        ]
+    },
+    "Discovervulnerability(VulnerabilityRelatedEvent)": {
+        "DisplayName": "Event Type: Discovervulnerability\nParent Event Type: Vulnerability Related Event",
+        "Arguments": [
+            "vulnerable_system_owner",
+            "vulnerable_system_version",
+            "supported_platform",
+            "cve",
+            "vulnerability",
+            "capabilities",
+            "discoverer",
+            "time",
+            "vulnerable_system"
+        ]
+    }
+}

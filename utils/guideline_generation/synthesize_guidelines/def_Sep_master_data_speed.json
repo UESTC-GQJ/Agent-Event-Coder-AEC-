@@ -1,0 +1,31 @@
+{
+    "Cure(Event)": {
+        "DisplayName": "Event Type: Cure\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Spread(Event)": {
+        "DisplayName": "Event Type: Spread\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Control(Event)": {
+        "DisplayName": "Event Type: Control\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Death(Event)": {
+        "DisplayName": "Event Type: Death\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Infect(Event)": {
+        "DisplayName": "Event Type: Infect\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "None": {},
+    "Symptom(Event)": {
+        "DisplayName": "Event Type: Symptom\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Prevent(Event)": {
+        "DisplayName": "Event Type: Prevent\nParent Event Type: Event",
+        "Arguments": []
+    }
+}

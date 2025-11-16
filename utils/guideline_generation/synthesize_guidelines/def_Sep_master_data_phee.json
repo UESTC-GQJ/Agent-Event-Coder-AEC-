@@ -1,0 +1,44 @@
+{
+    "Adverse_event(Event)": {
+        "DisplayName": "Event Type: Adverse_event\nParent Event Type: Event",
+        "Arguments": [
+            "subject_disorder",
+            "treatment",
+            "subject_age",
+            "treatment_disorder",
+            "subject_race",
+            "subject_gender",
+            "treatment_duration",
+            "treatment_drug",
+            "effect",
+            "subject_population",
+            "combination_drug",
+            "treatment_dosage",
+            "treatment_time_elapsed",
+            "treatment_route",
+            "treatment_freq",
+            "subject"
+        ]
+    },
+    "Potential_therapeutic_event(Event)": {
+        "DisplayName": "Event Type: Potential_therapeutic_event\nParent Event Type: Event",
+        "Arguments": [
+            "subject_disorder",
+            "treatment",
+            "subject_age",
+            "treatment_disorder",
+            "subject_race",
+            "treatment_duration",
+            "subject_gender",
+            "treatment_drug",
+            "effect",
+            "combination_drug",
+            "treatment_dosage",
+            "subject_population",
+            "treatment_time_elapsed",
+            "treatment_route",
+            "treatment_freq",
+            "subject"
+        ]
+    }
+}

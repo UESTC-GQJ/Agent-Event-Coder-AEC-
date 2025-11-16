@@ -1,0 +1,14 @@
+{
+    "Symptom(Event)": {
+        "description": [
+            "A Symptom event refers to the manifestation of a physical or mental condition that indicates the presence of a disease or disorder. The event can be triggered by words or phrases that describe the onset, presence, or experience of symptoms. Examples include 'fever', 'sick', 'show symptoms', 'enter a wave of illness', and 'got a fever'. The event can be triggered by both explicit mentions of symptoms and implicit references to feeling unwell.",
+            "A Symptom event captures instances where an individual experiences or reports signs of illness or discomfort. The event can be triggered by terms that denote the occurrence of symptoms, such as 'fever', 'chills', 'muscle pains', 'fatigue', and 'fainting spells'. It is important to identify both direct and indirect mentions of symptoms to accurately annotate this event.",
+            "The Symptom event type involves the identification of expressions that indicate the presence of symptoms related to a health condition. Triggers for this event include words like 'sick', 'symptoms', 'fever', 'got a fever', and 'show symptoms'. This event type is crucial for understanding the manifestation of diseases and the experiences of individuals affected by them.",
+            "Symptom events are characterized by the mention of physical or psychological signs that suggest an underlying health issue. Triggers for this event can be diverse, including terms like 'fever', 'sick', 'symptoms', 'enter a wave of illness', and 'got a fever'. Annotators should look for both explicit and implicit references to symptoms in the text.",
+            "A Symptom event is defined by the occurrence of signs or indications of a health problem. This event can be triggered by various terms such as 'fever', 'sick', 'symptoms', 'show symptoms', and 'got a fever'. The event can be identified through direct mentions of symptoms or through descriptions of feeling unwell or experiencing health issues."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event."
+    }
+}

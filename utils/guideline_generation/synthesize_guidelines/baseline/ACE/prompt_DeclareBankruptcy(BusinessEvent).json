@@ -1,0 +1,28 @@
+{
+    "DeclareBankruptcy(BusinessEvent)": {
+        "description": [
+            "The DeclareBankruptcy event refers to the formal declaration by an organization that it is unable to meet its financial obligations and is seeking legal relief from its debts. The event can be triggered by terms such as 'bankruptcy', 'file for bankruptcy', 'chapter 11', 'broke', 'insolvency', and similar phrases. This event is a subset of BusinessEvent and specifically pertains to financial distress and legal proceedings related to insolvency.",
+            "DeclareBankruptcy is an event where an organization officially announces its inability to pay its debts, often leading to legal proceedings to manage or discharge the debt. The event can be triggered by phrases like 'declared bankruptcy', 'filed for chapter 11', 'went bankrupt', 'insolvency filing', and other related terms. This event falls under the broader category of BusinessEvent.",
+            "The DeclareBankruptcy event involves an organization formally stating that it cannot fulfill its debt obligations, typically resulting in legal action to address the financial situation. Triggers for this event include 'bankruptcy', 'chapter 11 filing', 'insolvency', 'financial collapse', and similar expressions. It is a specific type of BusinessEvent focused on financial insolvency.",
+            "DeclareBankruptcy is defined as the event where an organization declares its financial insolvency and seeks legal protection or restructuring under bankruptcy laws. This event can be triggered by words and phrases such as 'bankruptcy', 'filed for chapter 11', 'declared insolvent', 'financial distress', and related terms. It is categorized under BusinessEvent.",
+            "The DeclareBankruptcy event occurs when an organization announces its inability to pay its debts and initiates legal proceedings to manage or discharge its financial obligations. Common triggers include 'bankruptcy', 'chapter 11', 'insolvency', 'financial failure', and similar terms. This event is a type of BusinessEvent that deals with financial insolvency."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "org": [
+            "The 'org' argument refers to the organization that is declaring bankruptcy. This can be a company, corporation, or any other type of business entity. Examples are 'worldcom', 'Enron Corp', 'united', 'amr', 'usairways', 'it', 'company', 'airline'. The organization is typically the subject of the sentence or clause where the bankruptcy event is mentioned.",
+            "The 'org' argument identifies the business entity that is filing for bankruptcy. This could be a corporation, firm, or any other organizational entity. Examples include 'worldcom', 'Enron Corp', 'united', 'amr', 'usairways', 'it', 'company', 'airline'. The organization is usually the main actor in the context of the bankruptcy event.",
+            "In the context of the DeclareBankruptcy event, the 'org' argument denotes the organization that is undergoing bankruptcy proceedings. This can be any business entity such as a corporation or company. Examples are 'worldcom', 'Enron Corp', 'united', 'amr', 'usairways', 'it', 'company', 'airline'. The organization is often the entity experiencing financial distress.",
+            "The 'org' argument in a DeclareBankruptcy event specifies the organization that has declared bankruptcy. This can be a company, corporation, or other business entity. Examples include 'worldcom', 'Enron Corp', 'united', 'amr', 'usairways', 'it', 'company', 'airline'. The organization is typically the entity that is unable to meet its financial obligations.",
+            "For the DeclareBankruptcy event, the 'org' argument represents the organization that is filing for bankruptcy. This could be any type of business entity such as a corporation or company. Examples are 'worldcom', 'Enron Corp', 'united', 'amr', 'usairways', 'it', 'company', 'airline'. The organization is generally the one initiating the bankruptcy process."
+        ],
+        "place": [
+            "The 'place' argument refers to the geographical location where the bankruptcy event is taking place. This can be a country, city, or specific jurisdiction. Examples are 'united states'. The place is often mentioned to provide context about the legal or economic environment of the bankruptcy.",
+            "In the DeclareBankruptcy event, the 'place' argument denotes the location associated with the bankruptcy filing. This could be a country, state, or city. Examples include 'united states'. The place helps to identify the jurisdiction under which the bankruptcy proceedings are occurring.",
+            "The 'place' argument in a DeclareBankruptcy event specifies the geographical area where the bankruptcy is declared. This can be a nation, region, or city. Examples are 'united states'. The place provides context about the legal framework and economic conditions relevant to the bankruptcy.",
+            "For the DeclareBankruptcy event, the 'place' argument indicates the location where the bankruptcy is being filed or declared. This could be a country, city, or specific legal jurisdiction. Examples include 'united states'. The place is important for understanding the legal and economic context of the bankruptcy.",
+            "The 'place' argument in the context of a DeclareBankruptcy event refers to the geographical location of the bankruptcy filing. This can be a country, city, or other jurisdiction. Examples are 'united states'. The place provides necessary context about the legal and economic environment in which the bankruptcy is taking place."
+        ]
+    }
+}

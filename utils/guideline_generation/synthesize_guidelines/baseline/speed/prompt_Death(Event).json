@@ -1,0 +1,14 @@
+{
+    "Death(Event)": {
+        "description": [
+            "The event type 'Death' refers to the cessation of life of an individual or individuals. The event can be triggered by words such as 'died', 'death', 'fatalities', 'deaths', and 'die'. The event can be triggered by various contexts, including natural causes, diseases, accidents, or other external factors. Annotators should be aware that the context in which these triggers appear is crucial for accurate annotation. For instance, 'death' in 'death penalty' does not refer to the cessation of life but to a legal punishment.",
+            "The 'Death' event type captures instances where an individual or group of individuals cease to live. This event can be triggered by terms like 'died', 'death', 'fatalities', 'deaths', and 'die'. The event can be triggered by mentions of natural causes, diseases, accidents, or other external factors. Annotators should consider the surrounding context to ensure the trigger word is used in the correct sense. For example, 'death' in 'death of a company' refers to the end of a business, not a human life.",
+            "The 'Death' event type is defined as the end of life of a person or persons. Triggers for this event include 'died', 'death', 'fatalities', 'deaths', and 'die'. The event can be triggered by various scenarios such as illness, accidents, or violence. Annotators should carefully examine the context to distinguish between literal and metaphorical uses of the trigger words. For instance, 'death' in 'death of a dream' is metaphorical and should not be annotated as a 'Death' event.",
+            "The 'Death' event type involves the termination of life of an individual or multiple individuals. Common triggers are 'died', 'death', 'fatalities', 'deaths', and 'die'. The event can be triggered by contexts involving natural causes, diseases, accidents, or other external factors. Annotators must pay attention to the context to ensure accurate annotation, as some uses of the trigger words may be metaphorical or refer to non-human entities, such as 'death of a project'.",
+            "The 'Death' event type refers to the occurrence of an individual's or individuals' life ending. Triggers for this event include 'died', 'death', 'fatalities', 'deaths', and 'die'. The event can be triggered by various contexts, including natural causes, diseases, accidents, or other external factors. Annotators should be vigilant about the context to differentiate between literal and non-literal uses of the trigger words. For example, 'death' in 'death of a star' in an astronomical context does not refer to a human death."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event."
+    }
+}

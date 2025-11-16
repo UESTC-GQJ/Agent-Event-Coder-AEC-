@@ -1,0 +1,2002 @@
+[
+  {
+    "doc_id": "Doc55371",
+    "text": " My tools travelled batteries and all and customs inspected nearly all my shipment If your packers wont ship them though all I can think of is sending the tools and taking batteries in your luggage - or shipping them separate if that is allowed",
+    "trigger": "travelled",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "shipment",
+    "gold_type": "Movement.Transport-Artifact"
+  },
+  {
+    "doc_id": "Doc82509",
+    "text": " It doesnt sound like Tom was fired per se but that his contract wasnt renewed and the fact that his distance and therefore lack of presence in the studio had more to do with it than Leo is ego This of course is based on what Leo wrote in those two blog posts Call it what you will but I dont view it as he is be fired as in let go because of wrong-doing Unless Tom speaks out and gives a different story that is what I choose to believe",
+    "trigger": "was fired",
+    "event_type": "Personnel.End-Position",
+    "gold_trigger": "let go",
+    "gold_type": "Personnel.End-Position"
+  },
+  {
+    "doc_id": "Doc55392",
+    "text": " Liu was quoted as saying that China wanted a resumption of talks that would result in the removal of nuclear weapons from the Korean Peninsula as soon as possible Chinese officials frequently make such appeals",
+    "trigger": "quoted",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "removal",
+    "gold_type": "Movement.Transport-Artifact"
+  },
+  {
+    "doc_id": "Doc51639",
+    "text": "Arthur Fleming Morrell (10 November 1788 – 13 September 1880) was British officer of the Royal Navy, an explorer, and a colonial administrator of Ascension Island, who saw service spanning the end of the Napoleonic era and well into the Victorian era.",
+    "trigger": "saw",
+    "event_type": "Military.Military-Service",
+    "gold_trigger": "service",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc55731",
+    "text": " What do the endorsements mean? It is more than a boost among communities of color and progressives or even their networks of impassioned supporters These guys also love to campaign They won’t just endorse and walk away",
+    "trigger": "",
+    "event_type": "None",
+    "gold_trigger": "walk",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc49650",
+    "text": " Remember that Foxconn isnt just based in China- it also has a factory in Czech republis where Mac-minis are made",
+    "trigger": "",
+    "event_type": "Manufacture.Artifact",
+    "gold_trigger": "made",
+    "gold_type": "Manufacture.Artifact"
+  },
+  {
+    "doc_id": "Doc85404",
+    "text": " Many people in the UK get a shock when buying off Ebay or Amazon when they get a bill because the product has come from outside of the EU",
+    "trigger": "get",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "buying",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc07397",
+    "text": " While he could step back a little at some time in the next couple decades like stop doing the keynotes barring a major health issue I cant see him retiring either If there was some new challenge for him I could see him jumping ship and taking on a new company but just retiring bacause he is old? Not a chance He is not",
+    "trigger": "step back",
+    "event_type": "Business.Employment",
+    "gold_trigger": "keynotes",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc55483",
+    "text": " Detain him until his age could be proven via a medical test Instead they just let him go with the proviso he report to the police And we wonder why the UK has been flooded with asylum seekers",
+    "trigger": "Detain",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "flooded",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc80304",
+    "text": "In the second part of the text, the author uses soccer \"to address economics: the consequences of migration, the persistence of corruption, and the rise of powerful new oligarchs like Silvio Berlusconi, the President of Italy and the AC Milan club\".",
+    "trigger": "uses",
+    "event_type": "Sports.Sports-Team-Roster",
+    "gold_trigger": "part",
+    "gold_type": "Organization.Organization-Board-Membership"
+  },
+  {
+    "doc_id": "Doc20070",
+    "text": "earlier this month o'brien narrowly escaped prosecution over his handling of sexual abuse allegations against priests",
+    "trigger": "escaped",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "prosecution",
+    "gold_type": "Justice.Trial-Hearing"
+  },
+  {
+    "doc_id": "Doc22218",
+    "text": "It is known that communist leaders die in office (as judges of the U.S. Supreme Court) and Ion Iliescu won't be different",
+    "trigger": "die",
+    "event_type": "Life.Die",
+    "gold_trigger": "die",
+    "gold_type": "Life.Die"
+  },
+  {
+    "doc_id": "Doc83685",
+    "text": "The Raiders have ended their season on a 2-game winning streak and finish their season with a 5–11 record; the best since they also went 5–11 in 2004 and the Raiders knocked the Buccaneers out of Playoff contention.",
+    "trigger": "ended",
+    "event_type": "Sports.Sports-Team-Season-Record",
+    "gold_trigger": "finish",
+    "gold_type": "Sports.Sports-Team-Season-Record"
+  },
+  {
+    "doc_id": "Doc17635",
+    "text": "Harring is most well known for her performance in David Lynch's cult film \"Mulholland Drive\" (2001), opposite Naomi Watts and Justin Theroux.",
+    "trigger": "performance",
+    "event_type": "Film.Film-Production",
+    "gold_trigger": "film",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc55457",
+    "text": " Tyler Clay a forklift driver who worked at the Goldman warehouses until early this year called the process a merry-go-round of metal",
+    "trigger": "worked",
+    "event_type": "Personnel.End-Position",
+    "gold_trigger": "process",
+    "gold_type": "Movement.Transport-Artifact"
+  },
+  {
+    "doc_id": "Doc83148",
+    "text": "And the rest of us who won't hire anyone to work for us unless they're paying their taxes, even if it means we pay more",
+    "trigger": "hire",
+    "event_type": "Business.Employment",
+    "gold_trigger": "hire",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc06828",
+    "text": "I wonder why they protest the war with Iraq",
+    "trigger": "wonder",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "protest",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc07992",
+    "text": " Reading some of the comments from Ontarians Im glad Im not living in that Province anymore",
+    "trigger": "Reading",
+    "event_type": "Life.Travel",
+    "gold_trigger": "comments",
+    "gold_type": "Contact.Contact"
+  },
+  {
+    "doc_id": "Doc19309",
+    "text": "The waiver of extradition that she signed simply means that if she skips out and goes to another state, she can't contest the right of the original court to have her hauled back to its jurisdiction, and that the court won't have to initiate the time-consuming process of extraditing her",
+    "trigger": "signed",
+    "event_type": "Justice.Extradite",
+    "gold_trigger": "extraditing",
+    "gold_type": "Justice.Extradite"
+  },
+  {
+    "doc_id": "Doc18936",
+    "text": "But as for the assault weapons ban issue, the man accused of the brutal killings, Chai Vang of St. Paul, Minn, used a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+    "trigger": "accused",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "accused",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc78063",
+    "text": "Under IOC rules, the lighting of the Olympic cauldron must be witnessed by those attending the opening ceremony, implying that it must be lit at the location where the ceremony is taking place.",
+    "trigger": "witnessed",
+    "event_type": "Olympics.Opening-Ceremony",
+    "gold_trigger": "witnessed",
+    "gold_type": "Olympics.Opening-Ceremony"
+  },
+  {
+    "doc_id": "Doc80495",
+    "text": "Sheekey serves on the board of the ONE Campaign, alongside the likes of U2's lead singer Bono, Sheryl Sandberg, John Doerr, Lawrence Summers, and Susan Buffett.",
+    "trigger": "serves",
+    "event_type": "Organization.Organization-Board-Membership",
+    "gold_trigger": "board",
+    "gold_type": "Organization.Organization-Board-Membership"
+  },
+  {
+    "doc_id": "Doc01894",
+    "text": "Gen. Richard Myers, chairman of the Joint Chiefs of Staff, suggested isolating members of the old regime in the capital  _  cut off from the rest of the country  _  while an ``interim administration'' is put in place to begin work on a postwar government",
+    "trigger": "suggested",
+    "event_type": "Military.Military-Command",
+    "gold_trigger": "Gen . Richard Myers , chairman of the Joint Chiefs of Staff , suggested isolating members of the old regime in the capital _ cut off from the rest of the country _ while an ``interim administration '' is put in place to begin work on a postwar government",
+    "gold_type": "Business.Start-Org"
+  },
+  {
+    "doc_id": "Doc20431",
+    "text": "I am on the large side but I am so worried about how I'm going to cope with a natural childbirth without a pool (not available round here",
+    "trigger": "coping",
+    "event_type": "Life.Pregnancy",
+    "gold_trigger": "childbirth",
+    "gold_type": "Life.Be-Born"
+  },
+  {
+    "doc_id": "Doc22467",
+    "text": " The men Michael Adebolajo 28 and Michael Adebowale 22 both of Nigerian descent face murder charges in the May 22 death of the soldier Lee Rigby 25 a military drummer and machine-gunner who had served with British forces in Afghanistan and elsewhere After the soldier is killing both suspects were shot and wounded by police",
+    "trigger": "face",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "death",
+    "gold_type": "Life.Die"
+  },
+  {
+    "doc_id": "Doc06965",
+    "text": "The city assigned 2,000 police officers to the rally, including undercover officers who carried beeper-sized radiation detectors and other counter-terrorism equipment",
+    "trigger": "carried",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "rally",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc84644",
+    "text": " Other exchanges have also filed for bankruptcy due to stolen/lost Bitcoins and many well know Bitcoin players have been prosecuted for money laundering and other schemes",
+    "trigger": "filed",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "stolen",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc07971",
+    "text": " Ask Obama",
+    "trigger": "Ask",
+    "event_type": "People.Appointment",
+    "gold_trigger": "Ask",
+    "gold_type": "Contact.Contact"
+  },
+  {
+    "doc_id": "Doc84406",
+    "text": " It depends on where attempt is made and the person is citizenship/nationality The person is almost always detained either for a threshold screening before an asylum officer or to appear directly before an immigration judge There is generally no right to bail/bond for arriving aliens",
+    "trigger": "attempt",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "bail",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc84631",
+    "text": " Generally I keep it under 20 or order from within the EU",
+    "trigger": "keep",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "order",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc18646",
+    "text": "yesterday a silent dee ana laney waited as the judge read the charges against her",
+    "trigger": "waited",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "charges",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc80290",
+    "text": "Communication networks may affect the group's completion of the assigned task on time, the position of the de facto leader in the group, or they may affect the group members' satisfaction from occupying certain positions in the network.",
+    "trigger": "affect",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "assigned",
+    "gold_type": "Organization.Org-Communication"
+  },
+  {
+    "doc_id": "Doc22681",
+    "text": "Bush should torture the al Qaeda chief operations officer",
+    "trigger": "torture",
+    "event_type": "Justice.Sentence",
+    "gold_trigger": "torture",
+    "gold_type": "Life.Injure"
+  },
+  {
+    "doc_id": "Doc18964",
+    "text": "If you can't charge someone for killing a fetus via abortion during the eighth month, then surely you can't make a big deal about a woman who kidnapped a fetus that survived the knifing",
+    "trigger": "killing",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "charge",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc84616",
+    "text": " Soros funded organized protests to push Soros is traitorous communist propaganda that the youth are buying into then they go back to Mommy for support ",
+    "trigger": "funded",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "funded",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc51904",
+    "text": "Troy A. McGill (July 15, 1914 – March 4, 1944) was a United States Army soldier and a recipient of the United States military's highest decoration—the Medal of Honor—for his actions during the Admiralty Islands campaign of World War II.",
+    "trigger": "was",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "soldier",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc20283",
+    "text": "Feminists have a reason to celebrate today as an appeals court just threw out the convictions of their martyr, Andrea Yates, by ruling that one of the prosecutor's expert witnesses gave false testimony at her trial",
+    "trigger": "celebrate",
+    "event_type": "Justice.Acquit",
+    "gold_trigger": "trial",
+    "gold_type": "Justice.Trial-Hearing"
+  },
+  {
+    "doc_id": "Doc18175",
+    "text": "Another appeal is now pending in the Federal Court",
+    "trigger": "appeal",
+    "event_type": "Justice.Appeal",
+    "gold_trigger": "appeal",
+    "gold_type": "Justice.Appeal"
+  },
+  {
+    "doc_id": "Doc18795",
+    "text": "law stepped down in december amid charges of widespread child sexual abuse in the church",
+    "trigger": "stepped down",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "charges of widespread child sexual abuse in",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc55252",
+    "text": " Except the historical shipments are relatively flat quarter to quarter so though it is not as simple as Ive laid out it is not rocket science either to take a reasonable guess at capacity",
+    "trigger": "laid",
+    "event_type": "Business.Layoff",
+    "gold_trigger": "shipments",
+    "gold_type": "Movement.Transport-Artifact"
+  },
+  {
+    "doc_id": "Doc17581",
+    "text": "On 9 August 2011, numerous outlets reported that Team Bondi's intellectual property and assets had been sold to Kennedy Miller Mitchell, a Sydney-based multimedia production firm founded by Mad Max director George Miller and producer Byron Kennedy.",
+    "trigger": "reported",
+    "event_type": "Business.End-Org",
+    "gold_trigger": "director",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc01591",
+    "text": "Now US Airways has reduced flights out of Pittsburgh by 28% since January of 2004 and is in real danger of folding completely",
+    "trigger": "has reduced",
+    "event_type": "Business.Layoff",
+    "gold_trigger": "folding",
+    "gold_type": "Business.End-Org"
+  },
+  {
+    "doc_id": "Doc09666",
+    "text": "The campaign of Senator John Kerry says it has regular conference calls to keep its key supporters up to date on campaign plans and developments",
+    "trigger": "says",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "calls",
+    "gold_type": "Contact.Phone-Write"
+  },
+  {
+    "doc_id": "Doc06926",
+    "text": "Anti-war protests took place around the world Saturday after the start of the bombing of Baghdad",
+    "trigger": "took place",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "protests",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc82772",
+    "text": "You who put the Shah in power",
+    "trigger": "",
+    "event_type": "None",
+    "gold_trigger": "put",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc18217",
+    "text": "It would be, certainly, to know, to apprehend him, to bring him before a court of justice",
+    "trigger": "apprehend",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "apprehend",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc80988",
+    "text": "During his two-day stay in Bucharest, Abbas met Traian Băsescu the President of Romania as well as the then-Prime Minister Călin Popescu-Tăriceanu, Senate Chairman of Romania Ilie Sârbu, and also leaders of both chambers of the Romanian parliament.",
+    "trigger": "met",
+    "event_type": "Contact.Meet",
+    "gold_trigger": "stay",
+    "gold_type": "People.Place-Lived"
+  },
+  {
+    "doc_id": "Doc18539",
+    "text": " Back to the original question why havent the magistrates had him put away in one way or another?",
+    "trigger": "had",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "put away",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc82443",
+    "text": "Both companies have been penalized for these actions and have continued to restructure operations, sell assets, and layoff employees",
+    "trigger": "penalized",
+    "event_type": "Business.Layoff",
+    "gold_trigger": "layoff",
+    "gold_type": "Personnel.End-Position"
+  },
+  {
+    "doc_id": "Doc50524",
+    "text": "Under the command of General Erwin Rommel, the Italian-German force gained the upper hand during the Battle of Gazala and inflicted a major defeat upon the British Eighth Army.",
+    "trigger": "gained",
+    "event_type": "Military.Military-Command",
+    "gold_trigger": "command",
+    "gold_type": "Military.Military-Command"
+  },
+  {
+    "doc_id": "Doc17792",
+    "text": "He was nominated at the 83rd Academy Awards in the category of Best Visual Effects, for the film \"Alice in Wonderland\", along with Ken Ralston, David Schaub and Carey Villegas.",
+    "trigger": "nominated",
+    "event_type": "Film.Film-Crew-Gig",
+    "gold_trigger": "film",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc49605",
+    "text": " People keep your second gen ipads they are the last thing Steve Jobs crafted and a solid device indeed",
+    "trigger": "keep",
+    "event_type": "Manufacture.Artifact",
+    "gold_trigger": "crafted",
+    "gold_type": "Manufacture.Artifact"
+  },
+  {
+    "doc_id": "Doc81144",
+    "text": "An employee may be demoted for violating the rules of the organization by a behavior such as excessive lateness, misconduct, or negligence.",
+    "trigger": "demoted",
+    "event_type": "Personnel.Demotion",
+    "gold_trigger": "demoted",
+    "gold_type": "Personnel.Demotion"
+  },
+  {
+    "doc_id": "Doc78813",
+    "text": "LGBT rights activists, Human rights activists, and other critics stated that the broad and vague wording of the law, which was characterized as a ban on \"gay propaganda\" by the media, made it a crime to publicly make statements or distribute materials in support of LGBT rights, hold pride parades or similar demonstrations, state that gay relationships are equal to heterosexual relationships, or according to Human Rights Campaign (HRC) president Chad Griffin, even display LGBT symbols such as the rainbow flag or kiss a same-sex partner in public.",
+    "trigger": "stated",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "president",
+    "gold_type": "Organization.Leadership"
+  },
+  {
+    "doc_id": "Doc80807",
+    "text": "The Paul Hornung Award is a college football award that was created in January 2010 by the Louisville Sports Commission (LSC) with the support of Paul Hornung, a native and resident of Louisville, Kentucky and member of the College Football Hall of Fame and the Pro Football Hall of Fame.",
+    "trigger": "created",
+    "event_type": "Sports.Tournament",
+    "gold_trigger": "resident",
+    "gold_type": "People.Place-Lived"
+  },
+  {
+    "doc_id": "Doc06847",
+    "text": "Well Judy, this is the largest group really we've seen of the support the troops rallies that have been over the last few weeks",
+    "trigger": "seen",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "rallies",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc18794",
+    "text": "just one day after being charged with a felony",
+    "trigger": "being charged",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "charged",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc06942",
+    "text": "We don't want to see more innocent people die,'' said Susan Sonz, who joined tens of thousands marching down Broadway in New York City",
+    "trigger": "want",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "marching",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc54369",
+    "text": "The government struggled to respond, moving dozens of ambulances, 3,000 police and security agents and electrical workers into the quake zone",
+    "trigger": "struggled",
+    "event_type": "Life.Injure",
+    "gold_trigger": "moving",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc84478",
+    "text": " Now the ship date and back orders wont be exactly accurate but it has to correlate to some degree",
+    "trigger": "correlate",
+    "event_type": "Business.Investment",
+    "gold_trigger": "orders",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc17662",
+    "text": "The name of the studio is taken from the 1999 David Lynch film.",
+    "trigger": "taken",
+    "event_type": "Film.Film-Production",
+    "gold_trigger": "film",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc18806",
+    "text": "Ranjha was accused of tearing down a billboard carrying verses from the Koran in Faisalabad during a Christian demonstration after the city's bishop committed suicide over the 1985 blasphemy law",
+    "trigger": "accused",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "accused",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc71029",
+    "text": "He formed a music and art group called Puzzle Punks, with Yamatsuka Eye who is a member of Boredoms.",
+    "trigger": "formed",
+    "event_type": "Music.Group-Membership",
+    "gold_trigger": "music",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc78090",
+    "text": "The cost of job specialization is what limits small organizations from dividing their labour responsibilities, but as organizations increase in size there is a correlation in the rise of the division of labour.",
+    "trigger": "limits",
+    "event_type": "Organization.Division-Of-Labour",
+    "gold_trigger": "dividing",
+    "gold_type": "Organization.Division-Of-Labour"
+  },
+  {
+    "doc_id": "Doc51156",
+    "text": "Clément Gosselin (June 12, 1747 – March 9, 1816) was a French Canadian soldier who served in Moses Hazen's 2nd Canadian Regiment of the Continental Army during the American Revolutionary War.",
+    "trigger": "served",
+    "event_type": "Military.Military-Service",
+    "gold_trigger": "soldier",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc04003",
+    "text": "after the journalists shout, another gunshot",
+    "trigger": "shout",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "gunshot",
+    "gold_type": "Conflict.Attack"
+  },
+  {
+    "doc_id": "Doc51257",
+    "text": "Benjamin Franklin Potts (January 29, 1836 – June 17, 1887) was a lawyer, politician, and soldier from the state of Ohio who served as a general in the Union Army during the American Civil War, as well as a postbellum Governor of the Montana Territory from 1870 to 1883.",
+    "trigger": "served",
+    "event_type": "Military.Military-Service",
+    "gold_trigger": "soldier",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc47766",
+    "text": "The current aquarium was built in 1921 next to the Mappin Terraces, and was officially opened by King George V and his wife Queen Mary in April 1924.",
+    "trigger": "was built",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "wife",
+    "gold_type": "Life.Marry"
+  },
+  {
+    "doc_id": "Doc58124",
+    "text": "Values of the existing instruments soared when rockabilly artist Brian Setzer of the Stray Cats was seen playing an old 6120 in his early-80s music videos.",
+    "trigger": "was seen playing",
+    "event_type": "Music.Sing",
+    "gold_trigger": "music",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc10060",
+    "text": "Some voicemail systems will scramble the message for further security.",
+    "trigger": "will scramble",
+    "event_type": "Contact.Voice-Mail",
+    "gold_trigger": "scramble",
+    "gold_type": "Contact.Voice-Mail"
+  },
+  {
+    "doc_id": "Doc08042",
+    "text": " As the french revolution proceeded Robespierre came to associate himself more and more with the essence of the conflict at hand In the revolutions worst years Robespierre was often noted to speak of an illness he acquired he said that his life was not interwoven with the revolution through the massacres and even the terror Robespierre defended these acts b/c he was convinced that they were needed for the revolution to really come to fruition i believe Robespierre compromised himself to become this greater cause and went to extreme lengths to excuse the revolution and allow it to proceed uncontrolled extreme? yes but i feel robespierre really did come to represent the cause and errors that were the revolution",
+    "trigger": "proceeded",
+    "event_type": "Conflict.Riot",
+    "gold_trigger": "noted",
+    "gold_type": "Contact.Contact"
+  },
+  {
+    "doc_id": "Doc18385",
+    "text": "Anwar led large protests against Mahathir before he was arrested, charged and convicted on corruption and sodomy charges",
+    "trigger": "arrested",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "arrested",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc07304",
+    "text": "raq man dies of self-immolation to protest rising unemployment.",
+    "trigger": "dies",
+    "event_type": "Life.Die",
+    "gold_trigger": "dies",
+    "gold_type": "Conflict.Self-Immolation"
+  },
+  {
+    "doc_id": "Doc02699",
+    "text": "He said this long before the conflict ever began",
+    "trigger": "",
+    "event_type": "None",
+    "gold_trigger": "conflict",
+    "gold_type": "Conflict.Attack"
+  },
+  {
+    "doc_id": "Doc82611",
+    "text": " President-elect Park Geun-hye who replaces Lee later this month strongly condemned the test and vowed to make joint efforts with the international community to denuclearize the DPRK Park is spokeswoman Cho Yoon-sun told reporters",
+    "trigger": "replaces",
+    "event_type": "Personnel.Start-Position",
+    "gold_trigger": "replaces",
+    "gold_type": "Personnel.End-Position"
+  },
+  {
+    "doc_id": "Doc19918",
+    "text": "and, um,  but then -- Edwards fought back kind of -- you know and then all the stuff you hear about Edwards too, about the, uh,  how he's a trial lawyer and how he made all his millions -- suing insurance companies and, um, you know, there- there's -- bad stuff you hear about both of them that, you know, obviously they want to tell you",
+    "trigger": "fought back",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "suing",
+    "gold_type": "Justice.Sue"
+  },
+  {
+    "doc_id": "Doc07364",
+    "text": " Exactly That is why it is funny it makes the TV station and their news dept look really stupid Sorry but I dont really see what is racist about making up a silly name such as Sum Ting Wong it is mildly funny in a wacky way but the person who read the list on air without seeing what is up is an idiot",
+    "trigger": "makes",
+    "event_type": "People.Place-Lived",
+    "gold_trigger": "read",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc75357",
+    "text": "He competed at the 2004 Summer Olympics in Athens in the team sprint track cycling event, together with his brother Theo Bos, who won the silver at the individual sprint, and Teun Mulder.",
+    "trigger": "competed",
+    "event_type": "Sports.Tournament",
+    "gold_trigger": "together",
+    "gold_type": "Olympics.Olympic-Athlete-Affiliation"
+  },
+  {
+    "doc_id": "Doc85526",
+    "text": " Following this ruling the ITC issued an exclusion order that prohibited unlicensed importing of infringing devices The Commission also issued a cease and desist order to prevent sales of the products in the United States",
+    "trigger": "issued",
+    "event_type": "Justice.Sentence",
+    "gold_trigger": "sales",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc22557",
+    "text": "despite prince charles' ugly divorce with princess di anna, the affection between father and son is now palpable and enviable",
+    "trigger": "divorce",
+    "event_type": "Life.Divorce",
+    "gold_trigger": "divorce",
+    "gold_type": "Life.Divorce"
+  },
+  {
+    "doc_id": "Doc80441",
+    "text": "The placement of the Joffrey Ballet in this building appears to have involved political dealings with the Mayor of Chicago, Richard M. Daley and his brother, William M. Daley, a co-chairman of the Joffrey board of trustees.",
+    "trigger": "placement",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "board",
+    "gold_type": "Organization.Organization-Board-Membership"
+  },
+  {
+    "doc_id": "Doc83125",
+    "text": "Hire a bunch of lawyers with the company's (shareholders') money",
+    "trigger": "Hire",
+    "event_type": "Business.Employment",
+    "gold_trigger": "Hire",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc82847",
+    "text": "Who are they, and why do you think they should be appointed",
+    "trigger": "think",
+    "event_type": "Personnel.Nominate",
+    "gold_trigger": "appointed",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc06896",
+    "text": "Some of the slogans sought to rebut war supporters' arguments that the protests are unpatriotic",
+    "trigger": "sought",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "protests",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc01657",
+    "text": "A large umbrella group of churches representing more than half a billion Christians worldwide announced Thursday that it would pull all of its investments in fossil fuels, saying it had determined the investments were no longer ethical.",
+    "trigger": "announced",
+    "event_type": "Business.Investment",
+    "gold_trigger": "pull",
+    "gold_type": "Business.Investment"
+  },
+  {
+    "doc_id": "Doc18526",
+    "text": " On our local NPR station I heard comment that this includes suspects detained",
+    "trigger": "heard",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "detained",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc80886",
+    "text": "Mahesh Bhupathi, the winner of many Grand Slam doubles titles, is a resident of Bangalore and has set up a Tennis Academy here with the help of Nike.",
+    "trigger": "has set up",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "resident",
+    "gold_type": "People.Place-Lived"
+  },
+  {
+    "doc_id": "Doc08299",
+    "text": " Hidden Video Catches Hillary on Emails - She Knew It All Along",
+    "trigger": "Catches",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "Emails",
+    "gold_type": "Contact.Correspondence"
+  },
+  {
+    "doc_id": "Doc20403",
+    "text": "Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14",
+    "trigger": "gave birth",
+    "event_type": "Life.Be-Born",
+    "gold_trigger": "birth",
+    "gold_type": "Life.Be-Born"
+  },
+  {
+    "doc_id": "Doc22840",
+    "text": "walter castle, as we said, was in the building, was not injured physically on the outside, but had internal damages, he says, and that is one of things we're going to talk with him about",
+    "trigger": "was",
+    "event_type": "Life.Injure",
+    "gold_trigger": "injured",
+    "gold_type": "Life.Injure"
+  },
+  {
+    "doc_id": "Doc55621",
+    "text": " I have visited twice within that time each visit lasting a month now my point is my immigration process is taking so long! and i dont want to come across like so many posters who expect it to be immediate but its been around eighteen months now and although it seems close to the end with a couple of delays form resubmission my wifes tax and earnings its made us consider a couple of options bearing? baring? in mind ive been doing some research and it seems that the government shutdown will potentially delay it even further!",
+    "trigger": "visited",
+    "event_type": "Movement.Transportperson",
+    "gold_trigger": "immigration",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc83458",
+    "text": "In 1995, he signed with Corinthians Alagoano, who loans him to Benfica in 1997, together with Marcos Alemão, Cáju and Deco.",
+    "trigger": "signed",
+    "event_type": "Sports.Sports-Team-Roster",
+    "gold_trigger": "together",
+    "gold_type": "Sports.Sports-Team-Roster"
+  },
+  {
+    "doc_id": "Doc06923",
+    "text": "More than 1,000 people also gathered at Cairo's Al-Azhar Islamic University, where they burned an American flag and demanded the expulsion of the ambassadors of the United States, Britain, Spain and Israel",
+    "trigger": "gathered",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "gathered",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc79763",
+    "text": "After the capitulation of Italy most of the Slovene Chetniks were destroyed in the battle of Grcarice (quietly helped by the Partisans, who then became the only resistance group in Slovenia) and members of the 'White Guard' were killed, captured, dispersed or fled to the Germans, where they formed the core of the newly established the Slovenian Home Guard corps led by former general of the Royal Yugoslav Army Leon Rupnik.",
+    "trigger": "capitulation",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "general",
+    "gold_type": "Organization.Leadership"
+  },
+  {
+    "doc_id": "Doc09533",
+    "text": " China is CPC leadership elected at a Party congress last November introduced an eight-point rules to fight bureaucratism and formalism late last year urging CPC officials to reduce pomp ceremony and bureaucratic visits and meetings",
+    "trigger": "elected",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "visits",
+    "gold_type": "Contact.Meet"
+  },
+  {
+    "doc_id": "Doc01892",
+    "text": "Annan wants to revive the U.N. aid program as quickly as possible",
+    "trigger": "wants",
+    "event_type": "Projects.Project-Participation",
+    "gold_trigger": "revive",
+    "gold_type": "Business.Start-Org"
+  },
+  {
+    "doc_id": "Doc23090",
+    "text": "A lone gunman opened fire with an assault rifle Sunday inside a crowded mall in upstate New York, wounding one person before running out of ammunition and being subdued by employees, authorities said",
+    "trigger": "opened fire",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "wounding",
+    "gold_type": "Life.Injure"
+  },
+  {
+    "doc_id": "Doc18655",
+    "text": "first, though with some believe is a case in point from tampa, florida, samuel arianna a former college professor in florida who was arrested in february and charged of being a north america head of a palestinian group islamic jihad",
+    "trigger": "believe",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "charged",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc07670",
+    "text": " So there the three of them were in ÂEgleston Square Tuesday Barros and ÂArroyo enthusiastically endorsing Walsh and in doing so possibly changing the calculus of the mayor is race Together they boost Walsh among constituencies with which he was expected to struggle",
+    "trigger": "were",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "endorsing",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc18400",
+    "text": "Within weeks he was arrested and charged with sodomising an official driver several years previously and with abusing his powers to cover up the offence",
+    "trigger": "arrested",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "arrested",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc81303",
+    "text": "President Bush has just been elected to another term in office, and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign",
+    "trigger": "started",
+    "event_type": "Personnel.Start-Position",
+    "gold_trigger": "elected",
+    "gold_type": "Personnel.Elect"
+  },
+  {
+    "doc_id": "Doc54655",
+    "text": "Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2",
+    "trigger": "arrested",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "moved",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc22577",
+    "text": "A judge ruled in February that depositions in the divorce case will remain confidential",
+    "trigger": "rulled",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "divorce",
+    "gold_type": "Life.Divorce"
+  },
+  {
+    "doc_id": "Doc09365",
+    "text": "Perhaps because longtime NBC News anchor Tom Brokaw put his stamp of approval on the UNA-USA and BCUN by acting as master of ceremonies at their 2001 Global Leadership Dinner",
+    "trigger": "put",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "Dinner",
+    "gold_type": "Contact.Meet"
+  },
+  {
+    "doc_id": "Doc40094",
+    "text": "He also proceeded to cancel the betrothal of Licinia’s daughter, Eudocia, to Huneric, the son of the Vandal king Geiseric.",
+    "trigger": "proceeded",
+    "event_type": "Contact.Correspondence",
+    "gold_trigger": "betrothal",
+    "gold_type": "Life.Marry"
+  },
+  {
+    "doc_id": "Doc83330",
+    "text": "He also played for Fiorentina, where he was a part of the so-called \"Ba-Ba\" strikers duo together with Gabriel Batistuta (he scored 29 goals in 118 games for Fiorentina), winning the 1995–96 Coppa Italia and the 1996 Supercoppa Italiana.",
+    "trigger": "played",
+    "event_type": "Sports.Tournament",
+    "gold_trigger": "together",
+    "gold_type": "Sports.Sports-Team-Roster"
+  },
+  {
+    "doc_id": "Doc21395",
+    "text": "Well, I I guess now that that he's he's died -- it'll be, uh,  or it it should be a change for the ~PLO",
+    "trigger": "died",
+    "event_type": "Life.Die",
+    "gold_trigger": "died",
+    "gold_type": "Life.Die"
+  },
+  {
+    "doc_id": "Doc55397",
+    "text": " In the war-battered Syrian city of Homs the refugee agency using a fleet of some 250 trucks provides aid to 14000-15000 households every week Some of these people live in areas that are difficult to reach because of the conflict and insecurity",
+    "trigger": "provides",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "provides",
+    "gold_type": "Movement.Transport-Artifact"
+  },
+  {
+    "doc_id": "Doc84907",
+    "text": "And how'd they get them",
+    "trigger": "get",
+    "event_type": "Transaction.Transfer-Money",
+    "gold_trigger": "get",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc07278",
+    "text": "Mark Duggan, whose death sparked riots in England in 2011, was lawfully killed, inquest jury says by majority 8 to 2.",
+    "trigger": "death",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "killed",
+    "gold_type": "Conflict.Riot"
+  },
+  {
+    "doc_id": "Doc17438",
+    "text": "Seohyun and her bandmate Taeyeon were casted as voice actors for the Korean-dubbed versions of the computer-animated films \"Despicable Me\" and its sequel \"Despicable Me 2\".",
+    "trigger": "casted",
+    "event_type": "Film.Dubbing-Performance",
+    "gold_trigger": "casted",
+    "gold_type": "Film.Dubbing-Performance"
+  },
+  {
+    "doc_id": "Doc08583",
+    "text": "the big focus is american airlines, the board of the company meeting today, possibly discussing the future of ceo don carty, he got in trouble when he jacked up pensions of the guys in top while asking employees to take big pay cuts",
+    "trigger": "meeting",
+    "event_type": "Business.Employment-Tenure",
+    "gold_trigger": "meeting",
+    "gold_type": "Contact.Meet"
+  },
+  {
+    "doc_id": "Doc01546",
+    "text": "Australia will keep open its embassy in Saudi Arabia despite decisions by the United States, Britain and Germany to close their diplomatic outposts in the country amid growing terror fears",
+    "trigger": "keep",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "Australia will keep open its embassy in Saudi Arabia despite decisions by the United States , Britain and Germany to close their diplomatic outposts in the country amid growing terror fears",
+    "gold_type": "Business.End-Org"
+  },
+  {
+    "doc_id": "Doc18006",
+    "text": "The Sahara International Film Festival, held annually in the Sahrawi refugee camps in western Algeria near the border of Western Sahara, is notable as the only film festival in the world to take place in a refugee camp.",
+    "trigger": "held",
+    "event_type": "Film.Film-Festival",
+    "gold_trigger": "held",
+    "gold_type": "Film.Film-Festival"
+  },
+  {
+    "doc_id": "Doc06907",
+    "text": "Hundreds of thousands of demonstrators took to the streets in Britain, Spain and Italy, whose governments approved of the war",
+    "trigger": "took",
+    "event_type": "Movement.Transportperson",
+    "gold_trigger": "took",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc55807",
+    "text": " Investigators now have the task of determining why on a piece of track which has being described as being in perfect conditions something apparently went badly wrong for while it may well be that the driver was pushing the train beyond the limit in order to make up a slight delay on arrival time the fact is that the automatic system should still have prevented the tragedy",
+    "trigger": "determining",
+    "event_type": "Movement.Driving",
+    "gold_trigger": "pushing",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc85466",
+    "text": " Obviously some cash for food and travel before you get paid as well - are you thinking of purchasing a car here or using public?",
+    "trigger": "get",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "cash",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc82743",
+    "text": "In Robert's Rules of Order, this is called a request to be excused from a duty.",
+    "trigger": "request",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "excused from a duty",
+    "gold_type": "Personnel.Resignation"
+  },
+  {
+    "doc_id": "Doc55601",
+    "text": " Why cant this employees just get good pay and equal share? They bust their asses to bring us great products At least their not jumping off buildings this time",
+    "trigger": "bust",
+    "event_type": "Personnel.Performance-Appraisal",
+    "gold_trigger": "jumping",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc85470",
+    "text": " As a comparison my 10yr old ford focus cost me $5500 with 3 months rego ",
+    "trigger": "cost",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "cost",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc50587",
+    "text": "An auxiliary officer in 1782, as a lieutenant, Rolland was promoted captain en 1796 and was in command of 74-gun ship of the line \"Atlas\" with Villeneuve's fleet in 1805, fighing at the Battle of Cape Finisterre in which he was badly wounded.",
+    "trigger": "fighing",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "command",
+    "gold_type": "Military.Military-Command"
+  },
+  {
+    "doc_id": "Doc09748",
+    "text": "then the baby's mother made a frantic call to police",
+    "trigger": "made a frantic call",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "call",
+    "gold_type": "Contact.Phone-Write"
+  },
+  {
+    "doc_id": "Doc51501",
+    "text": "John Leonard Hines (May 21, 1868 – October 13, 1968) was an American soldier who served as Chief of Staff of the U.S. Army from 1924 to 1926.",
+    "trigger": "served",
+    "event_type": "Military.Military-Service",
+    "gold_trigger": "soldier",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc81146",
+    "text": "Within the continuum of disciplinary options available within most organizations, a demotion falls in the middle range of severity.",
+    "trigger": "falls",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "demotion",
+    "gold_type": "Personnel.Demotion"
+  },
+  {
+    "doc_id": "Doc85207",
+    "text": "Of course, there have been companies whose performance would perfectly mimic the validity of this idea, but Psuedo.com failed without producing a single show, and Broadcast.com was swallowed for $6 billion by Yahoo!, to Yahoo!'s great regret",
+    "trigger": "mimic",
+    "event_type": "Business.End-Org",
+    "gold_trigger": "swallowed",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc07857",
+    "text": " Funeral dirges - he used that form to lament the state of Africa the oppression said Esi Sutherland-Addy an associate professor at the University of Ghana It was a convenient form to talk about oppression",
+    "trigger": "used",
+    "event_type": "Music.Compose",
+    "gold_trigger": "talk",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc20317",
+    "text": "Historically, abortions have been attempted using herbal medicines, sharp tools, forceful massage, or through other traditional methods.",
+    "trigger": "attempted",
+    "event_type": "Life.Abortion",
+    "gold_trigger": "forceful massage",
+    "gold_type": "Life.Abortion"
+  },
+  {
+    "doc_id": "Doc80485",
+    "text": "On October 30, 2013 Viniar became a director on the board of Square, Inc., the mobile payments firm run by Jack Dorsey.",
+    "trigger": "became",
+    "event_type": "Personnel.Elect",
+    "gold_trigger": "board",
+    "gold_type": "Organization.Organization-Board-Membership"
+  },
+  {
+    "doc_id": "Doc00094",
+    "text": "And that was a long time ago, and we just c- oh, all that money,  for just about bankrupting us",
+    "trigger": "bankrupting",
+    "event_type": "Business.Declare-Bankruptcy",
+    "gold_trigger": "bankrupting",
+    "gold_type": "Business.Declare-Bankruptcy"
+  },
+  {
+    "doc_id": "Doc17874",
+    "text": "For the special effects shots in the film, Cameron wanted Dick Smith who had previously worked on \"The Godfather\" and \"Taxi Driver\".",
+    "trigger": "wanted",
+    "event_type": "Film.Film-Crew-Gig",
+    "gold_trigger": "film",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc26256",
+    "text": "María de las Mercedes, Princess of Asturias (María de las Mercedes de Borbón y Habsburgo-Lorena) (11 September 1880 – 17 October 1904), was the eldest daughter of King Alfonso XII of Spain and his second wife, Maria Christina of Austria.",
+    "trigger": "was",
+    "event_type": "Life.Be-Born",
+    "gold_trigger": "wife",
+    "gold_type": "Life.Marry"
+  },
+  {
+    "doc_id": "Doc02016",
+    "text": "Saddam wouldn't be destroying missiles unless he thought he was going to be destroyed if he didn't",
+    "trigger": "destroying",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "destroyed",
+    "gold_type": "Conflict.Attack"
+  },
+  {
+    "doc_id": "Doc01723",
+    "text": "Frenetic merger and acquisition activity doesn't mean much in the early days of a business -- it's just as likely that ridiculously overfunded startups are buying out their bankrupt competitors to create larger and less stable conglomerates as it is that forward-thinking visionaries are cutting off their competitors early",
+    "trigger": "mean",
+    "event_type": "Business.Merge-Org",
+    "gold_trigger": "create",
+    "gold_type": "Business.Merge-Org"
+  },
+  {
+    "doc_id": "Doc81704",
+    "text": " He also announced that he would step down from the helm of the Catholic Church at 800 pm local time 1900 GMT on Feb28 leaving the papacy vacant so that a Conclave to elect the new Supreme Pontiff will have to be convoked",
+    "trigger": "announced",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "elect",
+    "gold_type": "Personnel.Elect"
+  },
+  {
+    "doc_id": "Doc08144",
+    "text": " Memorial services and funerals for the three girls are scheduled for a later date one of the relatives said",
+    "trigger": "scheduled",
+    "event_type": "Life.Die",
+    "gold_trigger": "said",
+    "gold_type": "Contact.Contact"
+  },
+  {
+    "doc_id": "Doc05726",
+    "text": "Police believed Ba'asyir was the spiritual leader of Jemaah Islamiyah, the terrorist network in Southeast Asia which is widely blamed for the Bali bombing",
+    "trigger": "believed",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "bombing",
+    "gold_type": "Conflict.Attack"
+  },
+  {
+    "doc_id": "Doc07703",
+    "text": " Fukuda introduced that next Tuesday and also next Thursday if needed WHO would convene the emergency committee on MERS-CoV consisted of international experts specialized in different fields and whose names to be get publicly known on next Monday",
+    "trigger": "introduced",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "publicly",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc78660",
+    "text": "On November 2004 he was widely criticized for meeting with the leader of Hizbollah, Sheik Hassan Nasrallah, during a visit to Lebanon.",
+    "trigger": "was criticized",
+    "event_type": "Contact.Meet",
+    "gold_trigger": "leader",
+    "gold_type": "Organization.Leadership"
+  },
+  {
+    "doc_id": "Doc10045",
+    "text": "Missing Milly Dowler's voicemail was hacked by Rupert Murdoch's News of the World newspaper",
+    "trigger": "was hacked",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "hacked",
+    "gold_type": "Contact.Voice-Mail"
+  },
+  {
+    "doc_id": "Doc10364",
+    "text": "Harvard Law School professor Alan Dershowitz stated that \"The two statutes under which Gov. Perry was indicted are reminiscent of the old Soviet Union — you know, abuse of authority.",
+    "trigger": "stated",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "professor",
+    "gold_type": "Education.Education"
+  },
+  {
+    "doc_id": "Doc77442",
+    "text": "Julie Maree McDonald (born 14 March 1970) is an Australian former long-distance freestyle swimmer of the 1980s and 1990s, who won a bronze medal in the 800-metre freestyle, swimming at the 1988 Summer Olympics in Seoul.",
+    "trigger": "born",
+    "event_type": "Life.Be-Born",
+    "gold_trigger": "medal",
+    "gold_type": "Olympics.Olympic-Medal-Honor"
+  },
+  {
+    "doc_id": "Doc80528",
+    "text": "Since 1949, two monarchs of the House of Windsor, George VI and Elizabeth II, have also been Head of the Commonwealth of Nations, comprising most (but not all) parts of the former British Empire and some states that were never part of it.",
+    "trigger": "comprising",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "parts",
+    "gold_type": "Organization.Organization-Board-Membership"
+  },
+  {
+    "doc_id": "Doc75501",
+    "text": "She competed in double sculls together with Sarah Trowbridge at the 2012 Summer Olympics in London, where they placed sixth.",
+    "trigger": "competed",
+    "event_type": "Sports.Tournament",
+    "gold_trigger": "together",
+    "gold_type": "Olympics.Olympic-Athlete-Affiliation"
+  },
+  {
+    "doc_id": "Doc17596",
+    "text": "Lon Chaney, Sr.'s characterization of Erik in the silent film \"The Phantom of the Opera\" (1925) remains closest to the book in content, in that Erik's face resembles a skull with an elongated nose slit and protruding, crooked teeth.",
+    "trigger": "characterization",
+    "event_type": "Film.Film-Production",
+    "gold_trigger": "film",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc27107",
+    "text": "The School's namesake is Queen Margaret, who was married to King Malcolm.",
+    "trigger": "married",
+    "event_type": "Life.Marry",
+    "gold_trigger": "married",
+    "gold_type": "Life.Marry"
+  },
+  {
+    "doc_id": "Doc19223",
+    "text": "If convicted, he could have been sentenced to prison for 2-60 years; however on September 4, 2003 a Mexican court ruled that the statute of limitations had run and Rodarte was acquitted and released",
+    "trigger": "convicted",
+    "event_type": "Justice.Acquit",
+    "gold_trigger": "convicted",
+    "gold_type": "Justice.Convict"
+  },
+  {
+    "doc_id": "Doc09929",
+    "text": "But they didn't know whom to tell",
+    "trigger": "tell",
+    "event_type": "Contact.Contact",
+    "gold_trigger": "tell",
+    "gold_type": "Contact.Phone-Write"
+  },
+  {
+    "doc_id": "Doc55732",
+    "text": " He added that neighboring countries were under pressure from an increasing number of refugees something he saw first-hand during a visit to a refugee camp in Lebanon last week and that led to the decision to increase the funding the Foreign Ministry stated in a press release",
+    "trigger": "added",
+    "event_type": "Movement.Transportperson",
+    "gold_trigger": "visit",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc78281",
+    "text": "Earlier, at the end of the war in 1945, the colonial government had announced the public trial of three senior officers of Subhas Chandra Bose's defeated Indian National Army who stood accused of treason.",
+    "trigger": "announced",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "government",
+    "gold_type": "Organization.Leadership"
+  },
+  {
+    "doc_id": "Doc05599",
+    "text": "Meanwhile, the U.S. military faced sharp criticism over assaults that killed three foreign journalists",
+    "trigger": "faced",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "assaults",
+    "gold_type": "Conflict.Attack"
+  },
+  {
+    "doc_id": "Doc81061",
+    "text": "The work dates to Dürer's sojourn in Venice, and had been commissioned by Jacob Fugger, intermediary between emperor Maximilian I and Pope Julius II, during the painter's stay as the banker's guest in Augsburg.",
+    "trigger": "dates",
+    "event_type": "Life.Travel",
+    "gold_trigger": "stay",
+    "gold_type": "People.Place-Lived"
+  },
+  {
+    "doc_id": "Doc00068",
+    "text": "perks that included a trust fund to protect some of the pensions in the event of a bankruptcy as well as retention bonuses",
+    "trigger": "included",
+    "event_type": "Business.Financing",
+    "gold_trigger": "bankruptcy",
+    "gold_type": "Business.Declare-Bankruptcy"
+  },
+  {
+    "doc_id": "Doc55800",
+    "text": " Relatives of Asiana crash victims leave for China",
+    "trigger": "leave",
+    "event_type": "Movement.Transportperson",
+    "gold_trigger": "leave",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc65615",
+    "text": "Hamit Ðogaj \"Đole Đogani on 1 July 1960, is a Serbian singer and founder of Đogani, a popular dance/pop-folk music duo, together with his wife Vesna Trivić.",
+    "trigger": "is",
+    "event_type": "Music.Group-Membership",
+    "gold_trigger": "singer",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc84836",
+    "text": " WASHINGTON Aug 3 Xinhua -- The Obama administration on Saturday vetoed a US trade panel is ban on the import and sale of some older iPhones and iPads a rare move that has not been seen since 1987",
+    "trigger": "vetoed",
+    "event_type": "Business.Financing",
+    "gold_trigger": "sale",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc22586",
+    "text": "The divorce settlement called for Giuliani to pay Hanover more than $6.8 million",
+    "trigger": "settlement",
+    "event_type": "Justice.Sentence",
+    "gold_trigger": "divorce",
+    "gold_type": "Life.Divorce"
+  },
+  {
+    "doc_id": "Doc83189",
+    "text": " As teachers we had expected to be able to get jobs no problem  wrong!! We now know that teaching jobs in south Brisbane simply dont exist as people simply do not move on ",
+    "trigger": "exist",
+    "event_type": "Education.Education",
+    "gold_trigger": "get jobs",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc55922",
+    "text": "The epitaph, written sometime between 200 BC and 100 AD, is the oldest surviving example of a complete musical composition, including musical notation, in the world.",
+    "trigger": "written",
+    "event_type": "Music.Compose",
+    "gold_trigger": "written",
+    "gold_type": "Music.Compose"
+  },
+  {
+    "doc_id": "Doc20194",
+    "text": "The trial will start on March 13, the court said",
+    "trigger": "start",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "trial",
+    "gold_type": "Justice.Trial-Hearing"
+  },
+  {
+    "doc_id": "Doc18626",
+    "text": "they're facing misdemeanor charges",
+    "trigger": "face",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "charges",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc78065",
+    "text": "In the 2016 ceremony, children with dove shaped kites were seen running with the first Olympic Laurel winner, Kipchoge Keino.",
+    "trigger": "running",
+    "event_type": "Olympics.Opening-Ceremony",
+    "gold_trigger": "dove",
+    "gold_type": "Olympics.Opening-Ceremony"
+  },
+  {
+    "doc_id": "Doc65864",
+    "text": "The Fireman is the duo of Paul McCartney and Youth (Martin Glover), which records electronic music experiments.",
+    "trigger": "records",
+    "event_type": "Music.Group-Membership",
+    "gold_trigger": "music",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc17888",
+    "text": "Further such credits include Jim Mickle's second feature film, the vampire/post-apocalyptic epic \"Stake Land\", ', ', \"See No Evil 2\" and Michael Biehn's \"The Victim\", in addition to providing the voice and basis for an animated Barbara in \"\", director Zebediah de Soto's prequel/re-telling of George A. Romero's 1968 original.",
+    "trigger": "include",
+    "event_type": "Film.Film-Crew-Gig",
+    "gold_trigger": "director",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc82294",
+    "text": "Staff reductions were clearly in the works pending system changes that would be facilitated by any move, Miami, PBG, Crossville or elsewhere",
+    "trigger": "reductions",
+    "event_type": "Personnel.End-Position",
+    "gold_trigger": "reductions",
+    "gold_type": "Personnel.End-Position"
+  },
+  {
+    "doc_id": "Doc00241",
+    "text": "From 2002 to 2007 she worked as a freelance director, with her work including the 2002–03 \"Crazyblackmuthafuckin'self\" by DeObia Oparei at the Royal Court Theatre, and 2006 RSC productions of \"Believe What You Will\" and \"King John\" (the latter starring Joseph Millson as 'the bastard' and Richard McCabe as 'King John').",
+    "trigger": "worked",
+    "event_type": "Personnel.Start-Position",
+    "gold_trigger": "worked",
+    "gold_type": "Business.Employment-Tenure"
+  },
+  {
+    "doc_id": "Doc08329",
+    "text": " lol oh no the history major has spoken i enjoyed the brief recap you gave about the revolution and apple is history but that wasnt what i was going for im strictly talking about the two men themselves",
+    "trigger": "spoken",
+    "event_type": "People.Place-Lived",
+    "gold_trigger": "spoken",
+    "gold_type": "Contact.Correspondence"
+  },
+  {
+    "doc_id": "Doc18653",
+    "text": "after pleading not guilty to a laundry list of charges brought by the justice department and the sec, insider trading, obstruction of justice, conspiracy to hide what they say is an illegal stock sale, we're talking about 4,000 shares of stock that netted her about $225,000",
+    "trigger": "pleading",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "charges",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc19187",
+    "text": "On Monday, Anwar completed his sentence for a separate conviction on corruption charges, after the six-year sentence was reduced by one-third for good behavior",
+    "trigger": "completed",
+    "event_type": "Justice.Release-Parole",
+    "gold_trigger": "conviction",
+    "gold_type": "Justice.Convict"
+  },
+  {
+    "doc_id": "Doc54505",
+    "text": "It was to begin the six-hour journey into Umm Qasr on Wednesday, according to a pool report",
+    "trigger": "begin",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "journey",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc20264",
+    "text": "Naxakis and two of Ocalan's Kurdish associates are being tried on criminal charges of endangering national security",
+    "trigger": "tried",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "tried",
+    "gold_type": "Justice.Trial-Hearing"
+  },
+  {
+    "doc_id": "Doc50393",
+    "text": "At the same time Giuseppe Garibaldi was launching his Expedition of the Thousand, and the Kingdom of the Two Sicilies was soon on the verge of collapse, requiring all forces remaining at its command to confront Garibaldi.",
+    "trigger": "launching",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "command",
+    "gold_type": "Military.Military-Command"
+  },
+  {
+    "doc_id": "Doc67792",
+    "text": "David Bowie who wanted the \"best beginners band of the moment\" invited La Place as an opening band for his concert with Tin Machine at la Cigale (1989).",
+    "trigger": "wanted",
+    "event_type": "Music.Group-Membership",
+    "gold_trigger": "concert",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc85321",
+    "text": " Mmmm never thought about the iPad 2 like that Good info on that one maybe I will buy the 2 ",
+    "trigger": "thought",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "buy",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc83795",
+    "text": "HSBC paid CEO Stuart Gulliver $11 million last year despite record money laundering fine.",
+    "trigger": "paid",
+    "event_type": "Transaction.Transfer-Money",
+    "gold_trigger": "paid",
+    "gold_type": "Transaction.Money-Laundering"
+  },
+  {
+    "doc_id": "Doc77577",
+    "text": "Sara Simeoni (born 19 April 1953) is an Italian former high jumper, who won a gold medal at the 1980 Summer Olympics and twice set a world record in the women's high jump.",
+    "trigger": "is",
+    "event_type": "Sports.Tournament",
+    "gold_trigger": "medal",
+    "gold_type": "Olympics.Olympic-Medal-Honor"
+  },
+  {
+    "doc_id": "Doc49748",
+    "text": "Lean is founded on the concept of continuous and incremental improvements on product and process while eliminating redundant activities.",
+    "trigger": "founded",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "eliminating redundant",
+    "gold_type": "Manufacture.Lean-Manufacturing"
+  },
+  {
+    "doc_id": "Doc55669",
+    "text": " NEW DELHI Aug 24 Xinhua -- Indian police will bring the second suspect arrested in the case of gangrape of a woman photographer on Thursday in Mumbai to court later on Saturday while looking for three other suspects",
+    "trigger": "bring",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "bring",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc78081",
+    "text": "The division of labour is the separation of tasks in any system so that participants may specialize.",
+    "trigger": "division",
+    "event_type": "Business.Employment",
+    "gold_trigger": "specialize",
+    "gold_type": "Organization.Division-Of-Labour"
+  },
+  {
+    "doc_id": "Doc61130",
+    "text": "Jerry Lawrence Dixon (born September 15, 1967) is an American musician, and one of the original members of the 1980s rock band Warrant.",
+    "trigger": "born",
+    "event_type": "Life.Be-Born",
+    "gold_trigger": "musician",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc55727",
+    "text": " Walsh is a finalist for mayor and he doesn’t have time to meet with everyone especially at the end of a long day of campaigning said Arroyo his former rival But he said Look just come over I went to his house at 1030 with my papers on poverty and the achievement gap and I didn’t leave until 1230 It was a great conversation He didn’t even ask whether I would support him We just talked",
+    "trigger": "meet",
+    "event_type": "Contact.Meet",
+    "gold_trigger": "leave",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc75319",
+    "text": "In Moscow, Soviet Union, during the 1980 Summer Olympics boycott, the flag raised to represent the next games host was that of the City of Los Angeles instead of the flag of the United States.",
+    "trigger": "raised",
+    "event_type": "Olympics.Closing-Ceremony",
+    "gold_trigger": "represent the next games",
+    "gold_type": "Olympics.Closing-Ceremony"
+  },
+  {
+    "doc_id": "Doc18654",
+    "text": "but the question is she being unfairly singled out for prosecution",
+    "trigger": "singled out",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "prosecution",
+    "gold_type": "Justice.Charge-Indict"
+  },
+  {
+    "doc_id": "Doc55596",
+    "text": " Well when you piss off the electorate for whom you need their vote and have to travel to where that electorate lives you have to deal with the consequences that the fruit made by your rhetoric bears",
+    "trigger": "deal",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "travel",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc54797",
+    "text": "Start on Texas Ave. and head away from Bryan",
+    "trigger": "Start",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "head",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc19955",
+    "text": "They are not being sued",
+    "trigger": "being sued",
+    "event_type": "Justice.Sue",
+    "gold_trigger": "sued",
+    "gold_type": "Justice.Sue"
+  },
+  {
+    "doc_id": "Doc19876",
+    "text": "Let me set aside the hypocrisy of a man who became president because of a lawsuit trying to eliminate everybody else's lawsuits, but instead focus on his own experience",
+    "trigger": "set",
+    "event_type": "Justice.Sue",
+    "gold_trigger": "lawsuits",
+    "gold_type": "Justice.Sue"
+  },
+  {
+    "doc_id": "Doc53647",
+    "text": "airlines are getting flyers to destinations ontime more often",
+    "trigger": "getting",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "getting",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc23022",
+    "text": "Three people were killed and about 50 injured when another Briton, Asif Muhammad Hanif, 21, from London, detonated explosives strapped to his body",
+    "trigger": "killed",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "injured",
+    "gold_type": "Life.Injure"
+  },
+  {
+    "doc_id": "Doc08596",
+    "text": "well, joining us now, the chairman of the securities and exchange commission, william donaldson",
+    "trigger": "joining",
+    "event_type": "Organization.Organization-Board-Membership",
+    "gold_trigger": "joining",
+    "gold_type": "Contact.Meet"
+  },
+  {
+    "doc_id": "Doc18614",
+    "text": " One of the five has been arrested and he admitted he was there along with some others Singh said at a news conference Friday afternoon The police have released sketches of the five men",
+    "trigger": "arrested",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "arrested",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc80311",
+    "text": "The device was widely promoted by then-Apple director Larry Ellison, apparently as part of his Oracle Network Computer initiative.",
+    "trigger": "was promoted",
+    "event_type": "Business.Employment",
+    "gold_trigger": "part",
+    "gold_type": "Organization.Organization-Board-Membership"
+  },
+  {
+    "doc_id": "Doc50127",
+    "text": "During the Hundred Days, Napoleon activated the Army of the Alps and placed it under the command of Marshal Louis Gabriel Suchet.",
+    "trigger": "placed",
+    "event_type": "Military.Military-Command",
+    "gold_trigger": "command",
+    "gold_type": "Military.Military-Command"
+  },
+  {
+    "doc_id": "Doc09237",
+    "text": "Rumsfeld also met Friday with King Abdullah of Jordan, an American ally in the Middle East",
+    "trigger": "met",
+    "event_type": "Contact.Meet",
+    "gold_trigger": "met",
+    "gold_type": "Contact.Meet"
+  },
+  {
+    "doc_id": "Doc83118",
+    "text": "The employers who hire them instead of raising wages to attract native-born Americans and legal immigrants",
+    "trigger": "hire",
+    "event_type": "Business.Employment",
+    "gold_trigger": "hire",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc51880",
+    "text": "James K. Okubo (May 30, 1920 – January 29, 1967) was a United States Army soldier.",
+    "trigger": "was",
+    "event_type": "Military.Military-Service",
+    "gold_trigger": "soldier",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc52970",
+    "text": "Although the Iraqis retreated from this area, at dusk they fired what observers say were seven artillery rounds back at their former stronghold creating new fear and potentially new casualties",
+    "trigger": "retreated",
+    "event_type": "Conflict.Attack",
+    "gold_trigger": "retreated",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc84372",
+    "text": "Arafat's death means his followers may never know just how much more they may be owed, \"writes TIME's Matt Rees in \"Where's Arafat's Money",
+    "trigger": "death",
+    "event_type": "Life.Die",
+    "gold_trigger": "owed",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc17647",
+    "text": "It combines comic gore, film noir and B-movie style and Hollywood spectacle, resulting in \"a bizarre concoction...reminiscent of David Lynch's \"Mulholland Drive\"...Quentin Tarantino's \"Pulp Fiction\", and angst-laden love scenes that would not be out of place in a Scandinavian drama\".",
+    "trigger": "combines",
+    "event_type": "Film.Film-Production",
+    "gold_trigger": "film",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc55687",
+    "text": " Few diplomats believe that the North is prepared to be involved in six-party talks that aim to strip North Korea of its nuclear weapons Such talks among the United States North Korea South Korea China Japan and Russia collapsed in 2008 after North Korea walked out The regime has continued to persist with its nuclear weapons program ever since despite constant pleas by China to stop",
+    "trigger": "believe",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "walked out",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc18499",
+    "text": "Lisa M. Montgomery, 36, of Melvern, Kan., was arrested later Friday and charged with kidnapping resulting in death",
+    "trigger": "arrested",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "arrested",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc09341",
+    "text": "Attorneys representing Bush and his inaugural committee argued that prayers have been widely accepted at inaugurals for more than 200 years and that Bush's decision to have a minister recite the invocation was a personal choice the court had no power to prevent",
+    "trigger": "argued",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "inaugurals",
+    "gold_type": "Contact.Meet"
+  },
+  {
+    "doc_id": "Doc83205",
+    "text": " I was talking to my 26 yr youngest daughter yesterday and it appears she is considering upping sticks and moving back to the UK Actually that is just the excuse she wants as she has expressed the desire to move back for a while now but it appears a Trump presidency would the last straw Not sure going back to the UK is brilliant idea but I understand the sentiment",
+    "trigger": "talking",
+    "event_type": "Contact.Meet",
+    "gold_trigger": "presidency",
+    "gold_type": "Personnel.Start-Position"
+  },
+  {
+    "doc_id": "Doc19967",
+    "text": "i agree that the buyer probably didn't read the credit terms to find themselves with an unexpected rate... i always see that \"for qualified customers\" in all of their advertisements that probably releases them of any wrong doing... but i also believe in the court systems so let it take its course and see what happens",
+    "trigger": "read",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "its",
+    "gold_type": "Justice.Sue"
+  },
+  {
+    "doc_id": "Doc07948",
+    "text": " Kristin Huguet an Apple spokeswoman said We applaud the administration for standing up for innovation in this landmark case She added Samsung was wrong to abuse the patent system in this way",
+    "trigger": "said",
+    "event_type": "Justice.Sue",
+    "gold_trigger": "said",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc78962",
+    "text": "Mort worked for Mike Ashley on his takeover of Newcastle United, and took over as chairman of the club on 24 July 2007, representing Ashley.",
+    "trigger": "worked",
+    "event_type": "Sports.Sports-Team-Roster",
+    "gold_trigger": "chairman",
+    "gold_type": "Organization.Leadership"
+  },
+  {
+    "doc_id": "Doc53928",
+    "text": "Your gran- you go to your grandma's house",
+    "trigger": "go",
+    "event_type": "Movement.Transportperson",
+    "gold_trigger": "go",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc83761",
+    "text": "How long do I have to keep the money in the account?",
+    "trigger": "",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "keep",
+    "gold_type": "Transaction.Deposit"
+  },
+  {
+    "doc_id": "Doc53643",
+    "text": "looks like it will be some time before we make our way to mars",
+    "trigger": "make",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "way",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc17812",
+    "text": "The museum is the setting for director Jem Cohen's 2012 feature film \"Museum Hours\", which premiered at the 2012 Locarno International Film Festival and screened within such festivals as Toronto International Film Festival and Maryland Film Festival.",
+    "trigger": "premiered",
+    "event_type": "Film.Film-Festival",
+    "gold_trigger": "director",
+    "gold_type": "Film.Film-Crew-Gig"
+  },
+  {
+    "doc_id": "Doc22591",
+    "text": "Before the divorce, Crichton's fortune was estimated at 65 million dollars, built on such hit novels as \"The Andromeda Strain,\" \"The Great American Train Robbery\" and \"Westworld\" and his hit television series \"ER",
+    "trigger": "was estimated",
+    "event_type": "People.Place-Lived",
+    "gold_trigger": "divorce",
+    "gold_type": "Life.Divorce"
+  },
+  {
+    "doc_id": "Doc07142",
+    "text": " Thus causing everyone to not care about whatever cause they are protesting about Pissing people off is terrible strategy",
+    "trigger": "causing",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "protesting",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc83401",
+    "text": "During his time at Primary School in Birmingham, Obadeyi's strike partner was Daniel Sturridge and the two were reunited in February 2011 when the latter moved to Bolton on loan from Chelsea for the remainder of the season.",
+    "trigger": "was",
+    "event_type": "Sports.Sports-Team-Roster",
+    "gold_trigger": "partner",
+    "gold_type": "Sports.Sports-Team-Roster"
+  },
+  {
+    "doc_id": "Doc07508",
+    "text": " As I said earlier Trump rally is are dangerous!!! Ive been to one and it was 11K inside the arena and 5K people just standing outside and a s load of protestors! It was ridiculous so many people were arguing and causing all types of problems",
+    "trigger": "said",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "one",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc54184",
+    "text": "Naxakis is one of 13 people on trial for bringing the fugitive guerrilla leader to Greece",
+    "trigger": "is",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "bringing",
+    "gold_type": "Movement.Transport"
+  },
+  {
+    "doc_id": "Doc01733",
+    "text": "The No. 41 Ganassi team was planned to continue, but was ultimately shut down when driver Reed Sorenson left for Gillett Evernham Motorsports and when sponsor Target was moved to the No. 42, with the number transferred by NASCAR to Jeremy Mayfield's new race team.",
+    "trigger": "planned",
+    "event_type": "Sports.Sports-Team-Roster",
+    "gold_trigger": "sponsor",
+    "gold_type": "Business.Sponsorship"
+  },
+  {
+    "doc_id": "Doc18161",
+    "text": "Ngor said the paper would pay the fine but it would also appeal the verdict",
+    "trigger": "said",
+    "event_type": "Justice.Appeal",
+    "gold_trigger": "appeal",
+    "gold_type": "Justice.Appeal"
+  },
+  {
+    "doc_id": "Doc17970",
+    "text": "A simultaneous release takes place when a movie is made available on many media (cinema, DVD, internet...) at the same time or with very little difference in timing.",
+    "trigger": "takes place",
+    "event_type": "Film.Film-Distribution",
+    "gold_trigger": "made available",
+    "gold_type": "Film.Film-Distribution"
+  },
+  {
+    "doc_id": "Doc01794",
+    "text": "Now, I would hope that sooner rather than later we could see a civilian government emerge in Iraq, a democratically elected one, that there'd be more cooperation from the international community, on both the peacekeeping side as well as the political restructuring that's necessary in Iraq",
+    "trigger": "see",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "emerge",
+    "gold_type": "Business.Start-Org"
+  },
+  {
+    "doc_id": "Doc83475",
+    "text": "On February 16, 2008, Williams was waived by Sacramento together with teammate Dahntay Jones to make room for a trade that sent the Kings' veteran point guard Mike Bibby to the Atlanta Hawks.",
+    "trigger": "waived",
+    "event_type": "Sports.Sports-Team-Roster",
+    "gold_trigger": "together",
+    "gold_type": "Sports.Sports-Team-Roster"
+  },
+  {
+    "doc_id": "Doc10765",
+    "text": "However, his views on race were not passively incorporated; Thomas Underwood documents Tate's pursuit of racist ideology: \"Tate also drew ideas from nineteenth-century proslavery theorists such as Thomas Roderick Dew, a professor at The College of William and Mary, and William Harper, of the University of South Carolina — \"We must revive these men, he said.\"",
+    "trigger": "incorporated",
+    "event_type": "Education.Education",
+    "gold_trigger": "professor",
+    "gold_type": "Education.Education"
+  },
+  {
+    "doc_id": "Doc07996",
+    "text": " Another Email today my I-485 interview is being scheduled within 30 days everything is starting to happen now !!!",
+    "trigger": "being scheduled",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "interview",
+    "gold_type": "Contact.Contact"
+  },
+  {
+    "doc_id": "Doc06838",
+    "text": "We'll check out some of the anti-war demonstrations and support the troop rallies",
+    "trigger": "check",
+    "event_type": "Conflict.Demonstrate",
+    "gold_trigger": "demonstrations",
+    "gold_type": "Conflict.Demonstrate"
+  },
+  {
+    "doc_id": "Doc09624",
+    "text": "Time now for \"Fireback,\" where our wacky and kooky fans and friends and critics right in",
+    "trigger": "",
+    "event_type": "None",
+    "gold_trigger": "right",
+    "gold_type": "Contact.Phone-Write"
+  },
+  {
+    "doc_id": "Doc51651",
+    "text": "Garfield McConnell Langhorn (September 10, 1948 – January 15, 1969) was a United States Army soldier and a recipient of America's highest military decoration—the Medal of Honor—for his actions in the Vietnam War.",
+    "trigger": "was",
+    "event_type": "Military.Military-Service",
+    "gold_trigger": "soldier",
+    "gold_type": "Military.Military-Service"
+  },
+  {
+    "doc_id": "Doc19933",
+    "text": "Hunter, 34, filed for divorce in Los Angeles Superior Court, citing irreconcilable differences with the 58-year-old rock star to whom she has been married for nearly 13 years",
+    "trigger": "citing",
+    "event_type": "Justice.Sue",
+    "gold_trigger": "filed",
+    "gold_type": "Justice.Sue"
+  },
+  {
+    "doc_id": "Doc22576",
+    "text": "Hunter, 34, filed for divorce in Los Angeles Superior Court, citing irreconcilable differences with the 58-year-old rock star to whom she has been married for nearly 13 years",
+    "trigger": "filed",
+    "event_type": "Justice.Sue",
+    "gold_trigger": "divorce",
+    "gold_type": "Life.Divorce"
+  },
+  {
+    "doc_id": "Doc55407",
+    "text": " The anti-gun group has identified Starbucks as its first economic target and has sponsored a 2-year-old boycott of the company by gun victims survivors their friends family members faith groups and all who want sane gun laws It says that the boycott has cost the company $115 million per year and that it plans to step up its pressure on Starbucks in the future The group says the efforts to openly display handguns at restaurants and coffee shops is part of a national effort to normalize the carrying of guns in public places",
+    "trigger": "identified",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "carrying",
+    "gold_type": "Movement.Transport-Artifact"
+  },
+  {
+    "doc_id": "Doc49779",
+    "text": "11 December 1955, under the command of Ariel Sharon, Israel sent two paratroop battalions backed by artillery and mortar batteries and attacks Syrian gun emplacements at Buteiha Farm and the village of Kursi (El Koursi) outside the DMZ, on the northeastern shore of the Sea of Galilee).",
+    "trigger": "command",
+    "event_type": "Military.Military-Command",
+    "gold_trigger": "command",
+    "gold_type": "Military.Military-Command"
+  },
+  {
+    "doc_id": "Doc09926",
+    "text": "Contact the UACC before buying and ask if they are a member",
+    "trigger": "contact",
+    "event_type": "Transaction.Transaction",
+    "gold_trigger": "Contact",
+    "gold_type": "Contact.Phone-Write"
+  },
+  {
+    "doc_id": "Doc78100",
+    "text": "This can be attributed to their high levels of specialization.",
+    "trigger": "attributed",
+    "event_type": "Organization.Division-Of-Labour",
+    "gold_trigger": "attributed",
+    "gold_type": "Organization.Division-Of-Labour"
+  },
+  {
+    "doc_id": "Doc19570",
+    "text": "he was sentenced in an sten shah to 124 years in prison",
+    "trigger": "sentenced",
+    "event_type": "Justice.Sentence",
+    "gold_trigger": "sentenced",
+    "gold_type": "Justice.Sentence"
+  },
+  {
+    "doc_id": "Doc82569",
+    "text": " The best known example involved Pope Celestine V in 1294 who after five months as the bishop of Rome issued a decree declaring it possible that a pope can resign and then lived the rest of his days as a hermit",
+    "trigger": "issued",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "resign",
+    "gold_type": "Personnel.End-Position"
+  },
+  {
+    "doc_id": "Doc22394",
+    "text": " And practically seeing the death on TV Truly awful It is times like this that we could learn from the ME laws as I guarantee they would be dead inside a year",
+    "trigger": "seeing",
+    "event_type": "Justice.Execute",
+    "gold_trigger": "dead",
+    "gold_type": "Life.Die"
+  },
+  {
+    "doc_id": "Doc19882",
+    "text": "that's interesting because leading into it, while she was new jersey governor, she sued the epa and she was very much considering herself to be an environmentalist, and then only to end up becoming the head of the epa and then of course, there was a lot of criticism over relaxed regulations",
+    "trigger": "sued",
+    "event_type": "Justice.Sue",
+    "gold_trigger": "sued",
+    "gold_type": "Justice.Sue"
+  },
+  {
+    "doc_id": "Doc85565",
+    "text": " In the case of aluminum Goldman bought Metro International Trade Services one of the country is biggest traders of the metal",
+    "trigger": "bought",
+    "event_type": "Transaction.Transfer-Ownership",
+    "gold_trigger": "bought",
+    "gold_type": "Transaction.Transfer-Ownership"
+  },
+  {
+    "doc_id": "Doc81684",
+    "text": " Potential candidates are required to submit their applications from June 20 to 21 Party members will cast their ballots from July 20 and the result will be announced on July 22",
+    "trigger": "submit",
+    "event_type": "Organization.Leadership",
+    "gold_trigger": "cast",
+    "gold_type": "Personnel.Elect"
+  },
+  {
+    "doc_id": "Doc19041",
+    "text": "Do you think he is guilty of the crimes he's been convicted of",
+    "trigger": "think",
+    "event_type": "Justice.Convict",
+    "gold_trigger": "convicted",
+    "gold_type": "Justice.Convict"
+  },
+  {
+    "doc_id": "Doc19008",
+    "text": "we are told he pled guilty to conspiracy to provide material support to terrorists and actually providing material support",
+    "trigger": "pled",
+    "event_type": "Justice.Convict",
+    "gold_trigger": "pled guilty",
+    "gold_type": "Justice.Convict"
+  },
+  {
+    "doc_id": "Doc18218",
+    "text": "And I'm curious, how can Democrats claim that President Bush is ignoring the war on terror if al Qaeda's second key operative was just caught",
+    "trigger": "claim",
+    "event_type": "Justice.Arrest-Jail",
+    "gold_trigger": "caught",
+    "gold_type": "Justice.Arrest-Jail"
+  },
+  {
+    "doc_id": "Doc72811",
+    "text": "It featured new music from Amon Tobin (also as Two Fingers), Roots Manuva, The Cinematic Orchestra, Kid Koala, Mr Scruff, The Bug, King Geedorah, Zomby, Bonobo, Toddla T, Daedelus, Dorian Concept, Floating Points, Wagon Christ, cLOUDDEAD and many others.",
+    "trigger": "featured",
+    "event_type": "Music.Track-Contribution",
+    "gold_trigger": "music",
+    "gold_type": "Music.Group-Membership"
+  },
+  {
+    "doc_id": "Doc84898",
+    "text": " The inflated aluminum pricing is just one way that Wall Street is capitalizing on loosened federal regulations to sway a variety of commodities markets according to financial records regulatory documents and interviews with people involved in the activities The maneuvering in markets for oil wheat cotton coffee and more have brought billions in profits to investment banks while forcing consumers to pay more",
+    "trigger": "capitalizing",
+    "event_type": "Business.Investment",
+    "gold_trigger": "pay",
+    "gold_type": "Transaction.Transfer-Money"
+  },
+  {
+    "doc_id": "Doc07714",
+    "text": " The Izmir court that issued the order said the suspects are accused of provoking protests damaging public and private property joining a terrorist organization and attacking police officers",
+    "trigger": "issued",
+    "event_type": "Justice.Charge-Indict",
+    "gold_trigger": "said",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc10020",
+    "text": "It's harder to telegraph emotions and maintain eye contact during a video chat.",
+    "trigger": "maintain",
+    "event_type": "Contact.Video-Chat",
+    "gold_trigger": "video chat",
+    "gold_type": "Contact.Video-Chat"
+  },
+  {
+    "doc_id": "Doc07942",
+    "text": " Charles McGarry a former Stamford Conn resident who stood among the crowd listening to Jefferies speak said the NRA has a powerful grip on the political process and it is up to citizens to make a difference",
+    "trigger": "speak",
+    "event_type": "Movement.Transportperson",
+    "gold_trigger": "speak",
+    "gold_type": "Contact.Broadcast"
+  },
+  {
+    "doc_id": "Doc81040",
+    "text": "The trip ended with a stay in Calcutta, where he witnessed the attempts of Abanindranath Tagore to revive the techniques and aesthetics of traditional Indian painting.",
+    "trigger": "ended",
+    "event_type": "Movement.Transport",
+    "gold_trigger": "stay",
+    "gold_type": "People.Place-Lived"
+  },
+  {
+    "doc_id": "Doc20141",
+    "text": "What other criminal trials have gotten a lot of media attention, and why",
+    "trigger": "gotten",
+    "event_type": "Justice.Trial-Hearing",
+    "gold_trigger": "trials",
+    "gold_type": "Justice.Trial-Hearing"
+  },
+  {
+    "doc_id": "Doc81548",
+    "text": "What if Chichester had been elected Lt. Gov, instead of Wilder, all those years ago",
+    "trigger": "",
+    "event_type": "None",
+    "gold_trigger": "elected",
+    "gold_type": "Personnel.Elect"
+  },
+  {
+    "doc_id": "Doc55546",
+    "text": " We are not where we wanted to be and the boat is unlikely to see the ocean for a while  but we are doing ok There is always a silver lining if you look for it and we are now looking at buying an expedition camper and going off road around Australia as we have gotten a taste of the outback Yee ha!",
+    "trigger": "are",
+    "event_type": "Life.Travel",
+    "gold_trigger": "going",
+    "gold_type": "Movement.Transportperson"
+  },
+  {
+    "doc_id": "Doc08120",
+    "text": " The committee would be provided with information that WHO has and then review the situation with part of input coming from countries with cases which could directly tell the committee members their perspectives and concerns as Fukuda noted and then it would be asked to provide views on whether the event constitutes a public health emergency of international concern and whether should WHO make additional temporary recommendations beyond what has already set   Enditem",
+    "trigger": "tell",
+    "event_type": "Organization.Org-Communication",
+    "gold_trigger": "asked",
+    "gold_type": "Contact.Contact"
+  },
+  {
+    "doc_id": "Doc82444",
+    "text": "   resigned as CEO I was at my grandma is I called my dad when I heard the news",
+    "trigger": "resigned",
+    "event_type": "Business.Employment-Tenure",
+    "gold_trigger": "resigned",
+    "gold_type": "Personnel.End-Position"
+  }
+]

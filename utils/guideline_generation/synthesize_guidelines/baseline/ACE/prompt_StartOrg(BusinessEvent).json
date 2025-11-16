@@ -1,0 +1,35 @@
+{
+    "StartOrg(BusinessEvent)": {
+        "description": [
+            "The StartOrg event, a subtype of BusinessEvent, refers to the initiation or establishment of a new organization or entity. This can include the founding, launching, or creation of a business, group, or other formal entity.",
+            "StartOrg events are triggered by actions that signify the beginning or formation of an organization. This includes verbs like 'found', 'launch', 'create', 'build', and 'establish'.",
+            "The event can be triggered by phrases indicating the start of an organization, such as 'founding a company', 'launching a new group', or 'creating a new entity'.",
+            "StartOrg events capture the moment an organization comes into existence, often marked by formal announcements, public declarations, or significant milestones.",
+            "This event type is concerned with the initial formation of an organization, distinguishing it from other business events that may involve ongoing operations or changes within an existing entity."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The agent argument refers to the individual, group, or entity responsible for initiating the StartOrg event. This could be a person, a company, or any other entity that plays a key role in the establishment of the new organization.",
+            "Examples are 'Kim Dae-Jung' in 'founded by former president Kim Dae-Jung', 'Daily Planet Ltd' in 'The Daily Planet Ltd plans to follow up its May Day launching', and 'we' in 'we are going to build a monster'.",
+            "The agent is typically the subject or actor in the sentence who performs the action of starting the organization.",
+            "In cases where multiple agents are involved, all relevant entities should be annotated, such as 'Twentieth Century Fox' and 'he' in 'he helped launch the Fox Television network'.",
+            "The agent can be an individual or a collective entity, and it is important to capture the primary initiator(s) of the event."
+        ],
+        "org": [
+            "The org argument identifies the organization or entity that is being started, founded, or created in the StartOrg event.",
+            "Examples are 'Millennium Democratic Party' in 'founded by former president Kim Dae-Jung', 'Disneyland' in 'opening a sex Disneyland', and 'network' in 'helped launch the Fox Television network'.",
+            "The org is the direct object of the action, representing the new entity that comes into existence as a result of the event.",
+            "In some cases, the organization may be referred to by a descriptive term rather than a proper name, such as 'group' in 'creating the sixth largest private sector banking group'.",
+            "The org argument should capture the full span of the entity being created, even if it includes additional descriptive information, such as 'sex Disneyland' or 'sixth largest life insurer'."
+        ],
+        "place": [
+            "The place argument specifies the location where the StartOrg event occurs. This can be a city, country, or any other geographical location relevant to the establishment of the organization.",
+            "Examples are 'here' in 'opening a sex Disneyland here', 'Sydney' in 'we are going to build a monster in Sydney', and 'Japan' in 'create Japan's sixth largest life insurer'.",
+            "The place argument provides context about the geographical setting of the event, which can be crucial for understanding the scope and impact of the new organization.",
+            "In some cases, the place may be implied or indirectly mentioned, such as 'premises' in 'we have found much bigger premises in a much better location to create a sex Disneyland'.",
+            "The place should be annotated even if it is part of a larger phrase, ensuring that the full location context is captured."
+        ]
+    }
+}

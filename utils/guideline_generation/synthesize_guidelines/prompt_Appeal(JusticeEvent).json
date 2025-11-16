@@ -1,0 +1,42 @@
+{
+    "Appeal(JusticeEvent)": {
+        "description": [
+            "The event is triggered by actions or processes where a decision made by a lower court or authority is challenged and reviewed by a higher court or authority. Example triggers include 'appeal', 'appealed', 'appellate', and 'appeals'.",
+            "The event is triggered by the formal request to a higher court to review and change the decision of a lower court. Key characteristics include the involvement of legal representatives and judicial bodies. Example triggers include 'appeal' and 'appealed'.",
+            "The event is triggered by the act of seeking a reversal of a court's decision. This event typically involves legal arguments and the presentation of new evidence or legal interpretations. Example triggers include 'appeal' and 'appeals'.",
+            "The event is triggered by the process of contesting a legal decision, often involving multiple stages and legal proceedings. Unlike the 'Convict' event, this event focuses on challenging an existing decision rather than the initial judgment. Example triggers include 'appeal' and 'appellate'.",
+            "The event is triggered by the legal process where a party requests a higher court to review the decision of a lower court. This event is distinct from 'Acquit' or 'Convict' as it deals with the review process rather than the initial judgment. Example triggers include 'appeal' and 'appealed'."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "Examples are 'Supreme court', 'bench', 'court', and 'He'. The adjudicator is the authority or body that reviews the appeal and makes a decision on it. This can be a judge, a panel of judges, or a specific court.",
+            "Examples are 'Supreme court', 'bench', 'court', and 'He'. The adjudicator plays a crucial role in the appeal process as they have the authority to uphold, reverse, or modify the original decision.",
+            "Examples are 'Supreme court', 'bench', 'court', and 'He'. The adjudicator is responsible for ensuring that the appeal is conducted fairly and in accordance with legal standards.",
+            "Examples are 'Supreme court', 'bench', 'court', and 'He'. The adjudicator's decision can have significant implications for the defendant and the legal outcome of the case.",
+            "Examples are 'Supreme court', 'bench', 'court', and 'He'. The adjudicator is distinct from the prosecutor and defendant, as they are the neutral party responsible for reviewing the appeal."
+        ],
+        "defendant": [
+            "Examples are 'i', 'his', 'Rodriguez', and 'Alex Rodriguez'. The defendant is the individual or entity that is appealing the decision made by a lower court.",
+            "Examples are 'i', 'his', 'Rodriguez', and 'Alex Rodriguez'. The defendant is the party that seeks to overturn or modify the original decision through the appeal process.",
+            "Examples are 'i', 'his', 'Rodriguez', and 'Alex Rodriguez'. The defendant's role is to present arguments and evidence to support their appeal.",
+            "Examples are 'i', 'his', 'Rodriguez', and 'Alex Rodriguez'. The defendant is distinct from the prosecutor, who represents the state or the party opposing the appeal.",
+            "Examples are 'i', 'his', 'Rodriguez', and 'Alex Rodriguez'. The defendant's involvement is crucial as they are directly affected by the outcome of the appeal."
+        ],
+        "place": [
+            "Examples are 'U.S.', 'London', 'Supreme court', and 'appellate courts'. The place refers to the location where the appeal is being heard or the jurisdiction of the adjudicating body.",
+            "Examples are 'U.S.', 'London', 'Supreme court', and 'appellate courts'. The place can indicate the specific court or geographic location involved in the appeal process.",
+            "Examples are 'U.S.', 'London', 'Supreme court', and 'appellate courts'. The place is important as it provides context for the legal proceedings and the authority of the adjudicator.",
+            "Examples are 'U.S.', 'London', 'Supreme court', and 'appellate courts'. The place can also highlight the legal system and jurisdiction under which the appeal is being conducted.",
+            "Examples are 'U.S.', 'London', 'Supreme court', and 'appellate courts'. The place is distinct from the adjudicator and defendant, as it refers to the physical or jurisdictional location of the appeal."
+        ],
+        "prosecutor": [
+            "Examples are 'representative', 'he', 'Justice Department', and 'prosecutors'. The prosecutor is the individual or entity representing the state or the party opposing the appeal.",
+            "Examples are 'representative', 'he', 'Justice Department', and 'prosecutors'. The prosecutor's role is to argue against the appeal and support the original decision.",
+            "Examples are 'representative', 'he', 'Justice Department', and 'prosecutors'. The prosecutor presents evidence and legal arguments to counter the defendant's appeal.",
+            "Examples are 'representative', 'he', 'Justice Department', and 'prosecutors'. The prosecutor is distinct from the adjudicator, who is the neutral party reviewing the appeal.",
+            "Examples are 'representative', 'he', 'Justice Department', and 'prosecutors'. The prosecutor's involvement is crucial as they represent the interests of the state or the party that won the original case."
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "Positive_regulation(Event)": {
+        "DisplayName": "Event Type: Positive_regulation\nParent Event Type: Event",
+        "Arguments": [
+            "csite",
+            "theme",
+            "site",
+            "cause"
+        ]
+    },
+    "Phosphorylation(Event)": {
+        "DisplayName": "Event Type: Phosphorylation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "cause",
+            "site"
+        ]
+    },
+    "Gene_expression(Event)": {
+        "DisplayName": "Event Type: Gene_expression\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Regulation(Event)": {
+        "DisplayName": "Event Type: Regulation\nParent Event Type: Event",
+        "Arguments": [
+            "csite",
+            "theme",
+            "site",
+            "cause"
+        ]
+    },
+    "Binding(Event)": {
+        "DisplayName": "Event Type: Binding\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "theme2",
+            "site2",
+            "site"
+        ]
+    },
+    "Localization(Event)": {
+        "DisplayName": "Event Type: Localization\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "toloc"
+        ]
+    },
+    "None": {},
+    "Negative_regulation(Event)": {
+        "DisplayName": "Event Type: Negative_regulation\nParent Event Type: Event",
+        "Arguments": [
+            "csite",
+            "theme",
+            "site",
+            "cause"
+        ]
+    },
+    "Transcription(Event)": {
+        "DisplayName": "Event Type: Transcription\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Protein_catabolism(Event)": {
+        "DisplayName": "Event Type: Protein_catabolism\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Protein_modification(Event)": {
+        "DisplayName": "Event Type: Protein_modification\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Ubiquitination(Event)": {
+        "DisplayName": "Event Type: Ubiquitination\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "cause",
+            "site"
+        ]
+    },
+    "Acetylation(Event)": {
+        "DisplayName": "Event Type: Acetylation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "site"
+        ]
+    },
+    "Deacetylation(Event)": {
+        "DisplayName": "Event Type: Deacetylation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "site",
+            "cause"
+        ]
+    }
+}

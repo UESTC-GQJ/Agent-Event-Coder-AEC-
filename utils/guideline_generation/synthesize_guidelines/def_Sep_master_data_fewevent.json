@@ -1,0 +1,402 @@
+{
+    "Collaboration(BusinessEvent)": {
+        "DisplayName": "Event Type: Collaboration\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "DeclareBankruptcy(BusinessEvent)": {
+        "DisplayName": "Event Type: Declare Bankruptcy\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "Employment(BusinessEvent)": {
+        "DisplayName": "Event Type: Employment\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "EmploymentTenure(BusinessEvent)": {
+        "DisplayName": "Event Type: Employment Tenure\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "EndOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: End Org\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "Financing(BusinessEvent)": {
+        "DisplayName": "Event Type: Financing\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "Investment(BusinessEvent)": {
+        "DisplayName": "Event Type: Investment\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "Layoff(BusinessEvent)": {
+        "DisplayName": "Event Type: Layoff\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "MergeOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: Merge Org\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "Sponsorship(BusinessEvent)": {
+        "DisplayName": "Event Type: Sponsorship\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "StartOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: Start Org\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "StartSubsidiary(BusinessEvent)": {
+        "DisplayName": "Event Type: Start Subsidiary\nParent Event Type: Business Event",
+        "Arguments": []
+    },
+    "Attack(ConflictEvent)": {
+        "DisplayName": "Event Type: Attack\nParent Event Type: Conflict Event",
+        "Arguments": []
+    },
+    "Demonstrate(ConflictEvent)": {
+        "DisplayName": "Event Type: Demonstrate\nParent Event Type: Conflict Event",
+        "Arguments": []
+    },
+    "Riot(ConflictEvent)": {
+        "DisplayName": "Event Type: Riot\nParent Event Type: Conflict Event",
+        "Arguments": []
+    },
+    "SelfImmolation(ConflictEvent)": {
+        "DisplayName": "Event Type: Self Immolation\nParent Event Type: Conflict Event",
+        "Arguments": []
+    },
+    "Broadcast(ContactEvent)": {
+        "DisplayName": "Event Type: Broadcast\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "Contact(Event)": {
+        "DisplayName": "Event Type: Contact\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "Correspondence(ContactEvent)": {
+        "DisplayName": "Event Type: Correspondence\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "EMail(ContactEvent)": {
+        "DisplayName": "Event Type: E Mail\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "LetterCommunication(ContactEvent)": {
+        "DisplayName": "Event Type: Letter Communication\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "Meet(ContactEvent)": {
+        "DisplayName": "Event Type: Meet\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "OnlineChat(ContactEvent)": {
+        "DisplayName": "Event Type: Online Chat\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "PhoneWrite(ContactEvent)": {
+        "DisplayName": "Event Type: Phone Write\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "VideoChat(ContactEvent)": {
+        "DisplayName": "Event Type: Video Chat\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "VoiceMail(ContactEvent)": {
+        "DisplayName": "Event Type: Voice Mail\nParent Event Type: Contact Event",
+        "Arguments": []
+    },
+    "Education(Event)": {
+        "DisplayName": "Event Type: Education\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "DubbingPerformance(FilmEvent)": {
+        "DisplayName": "Event Type: Dubbing Performance\nParent Event Type: Film Event",
+        "Arguments": []
+    },
+    "FilmCrewGig(FilmEvent)": {
+        "DisplayName": "Event Type: Film Crew Gig\nParent Event Type: Film Event",
+        "Arguments": []
+    },
+    "FilmDistribution(FilmEvent)": {
+        "DisplayName": "Event Type: Film Distribution\nParent Event Type: Film Event",
+        "Arguments": []
+    },
+    "FilmFestival(FilmEvent)": {
+        "DisplayName": "Event Type: Film Festival\nParent Event Type: Film Event",
+        "Arguments": []
+    },
+    "FilmProduction(FilmEvent)": {
+        "DisplayName": "Event Type: Film Production\nParent Event Type: Film Event",
+        "Arguments": []
+    },
+    "Acquit(JusticeEvent)": {
+        "DisplayName": "Event Type: Acquit\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Appeal(JusticeEvent)": {
+        "DisplayName": "Event Type: Appeal\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "ArrestJail(JusticeEvent)": {
+        "DisplayName": "Event Type: Arrest Jail\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "ChargeIndict(JusticeEvent)": {
+        "DisplayName": "Event Type: Charge Indict\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Convict(JusticeEvent)": {
+        "DisplayName": "Event Type: Convict\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Execute(JusticeEvent)": {
+        "DisplayName": "Event Type: Execute\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Extradite(JusticeEvent)": {
+        "DisplayName": "Event Type: Extradite\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Fine(JusticeEvent)": {
+        "DisplayName": "Event Type: Fine\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Pardon(JusticeEvent)": {
+        "DisplayName": "Event Type: Pardon\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "ReleaseParole(JusticeEvent)": {
+        "DisplayName": "Event Type: Release Parole\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Sentence(JusticeEvent)": {
+        "DisplayName": "Event Type: Sentence\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Sue(JusticeEvent)": {
+        "DisplayName": "Event Type: Sue\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "TrialHearing(JusticeEvent)": {
+        "DisplayName": "Event Type: Trial Hearing\nParent Event Type: Justice Event",
+        "Arguments": []
+    },
+    "Abortion(LifeEvent)": {
+        "DisplayName": "Event Type: Abortion\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "BeBorn(LifeEvent)": {
+        "DisplayName": "Event Type: Be Born\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Die(LifeEvent)": {
+        "DisplayName": "Event Type: Die\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Divorce(LifeEvent)": {
+        "DisplayName": "Event Type: Divorce\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Homesick(LifeEvent)": {
+        "DisplayName": "Event Type: Homesick\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Injure(LifeEvent)": {
+        "DisplayName": "Event Type: Injure\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Marry(LifeEvent)": {
+        "DisplayName": "Event Type: Marry\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Pregnancy(LifeEvent)": {
+        "DisplayName": "Event Type: Pregnancy\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Sick(LifeEvent)": {
+        "DisplayName": "Event Type: Sick\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Travel(LifeEvent)": {
+        "DisplayName": "Event Type: Travel\nParent Event Type: Life Event",
+        "Arguments": []
+    },
+    "Artifact(ManufactureEvent)": {
+        "DisplayName": "Event Type: Artifact\nParent Event Type: Manufacture Event",
+        "Arguments": []
+    },
+    "LeanManufacturing(ManufactureEvent)": {
+        "DisplayName": "Event Type: Lean Manufacturing\nParent Event Type: Manufacture Event",
+        "Arguments": []
+    },
+    "MilitaryCommand(MilitaryEvent)": {
+        "DisplayName": "Event Type: Military Command\nParent Event Type: Military Event",
+        "Arguments": []
+    },
+    "MilitaryService(MilitaryEvent)": {
+        "DisplayName": "Event Type: Military Service\nParent Event Type: Military Event",
+        "Arguments": []
+    },
+    "RecruitTraining(MilitaryEvent)": {
+        "DisplayName": "Event Type: Recruit Training\nParent Event Type: Military Event",
+        "Arguments": []
+    },
+    "Recruitment(MilitaryEvent)": {
+        "DisplayName": "Event Type: Recruitment\nParent Event Type: Military Event",
+        "Arguments": []
+    },
+    "Driving(MovementEvent)": {
+        "DisplayName": "Event Type: Driving\nParent Event Type: Movement Event",
+        "Arguments": []
+    },
+    "Parking(MovementEvent)": {
+        "DisplayName": "Event Type: Parking\nParent Event Type: Movement Event",
+        "Arguments": []
+    },
+    "Transport(MovementEvent)": {
+        "DisplayName": "Event Type: Transport\nParent Event Type: Movement Event",
+        "Arguments": []
+    },
+    "TransportArtifact(MovementEvent)": {
+        "DisplayName": "Event Type: Transport Artifact\nParent Event Type: Movement Event",
+        "Arguments": []
+    },
+    "Transportperson(MovementEvent)": {
+        "DisplayName": "Event Type: Transportperson\nParent Event Type: Movement Event",
+        "Arguments": []
+    },
+    "Compose(MusicEvent)": {
+        "DisplayName": "Event Type: Compose\nParent Event Type: Music Event",
+        "Arguments": []
+    },
+    "Dance(MusicEvent)": {
+        "DisplayName": "Event Type: Dance\nParent Event Type: Music Event",
+        "Arguments": []
+    },
+    "GroupMembership(MusicEvent)": {
+        "DisplayName": "Event Type: Group Membership\nParent Event Type: Music Event",
+        "Arguments": []
+    },
+    "Sing(MusicEvent)": {
+        "DisplayName": "Event Type: Sing\nParent Event Type: Music Event",
+        "Arguments": []
+    },
+    "TrackContribution(MusicEvent)": {
+        "DisplayName": "Event Type: Track Contribution\nParent Event Type: Music Event",
+        "Arguments": []
+    },
+    "ClosingCeremony(OlympicsEvent)": {
+        "DisplayName": "Event Type: Closing Ceremony\nParent Event Type: Olympics Event",
+        "Arguments": []
+    },
+    "OlympicAthleteAffiliation(OlympicsEvent)": {
+        "DisplayName": "Event Type: Olympic Athlete Affiliation\nParent Event Type: Olympics Event",
+        "Arguments": []
+    },
+    "OlympicMedalHonor(OlympicsEvent)": {
+        "DisplayName": "Event Type: Olympic Medal Honor\nParent Event Type: Olympics Event",
+        "Arguments": []
+    },
+    "OpeningCeremony(OlympicsEvent)": {
+        "DisplayName": "Event Type: Opening Ceremony\nParent Event Type: Olympics Event",
+        "Arguments": []
+    },
+    "DivisionOfLabour(OrganizationEvent)": {
+        "DisplayName": "Event Type: Division Of Labour\nParent Event Type: Organization Event",
+        "Arguments": []
+    },
+    "Leadership(OrganizationEvent)": {
+        "DisplayName": "Event Type: Leadership\nParent Event Type: Organization Event",
+        "Arguments": []
+    },
+    "OrgCommunication(OrganizationEvent)": {
+        "DisplayName": "Event Type: Org Communication\nParent Event Type: Organization Event",
+        "Arguments": []
+    },
+    "OrganizationBoardMembership(OrganizationEvent)": {
+        "DisplayName": "Event Type: Organization Board Membership\nParent Event Type: Organization Event",
+        "Arguments": []
+    },
+    "Appointment(PeopleEvent)": {
+        "DisplayName": "Event Type: Appointment\nParent Event Type: People Event",
+        "Arguments": []
+    },
+    "PlaceLived(PeopleEvent)": {
+        "DisplayName": "Event Type: Place Lived\nParent Event Type: People Event",
+        "Arguments": []
+    },
+    "Demotion(PersonnelEvent)": {
+        "DisplayName": "Event Type: Demotion\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "Elect(PersonnelEvent)": {
+        "DisplayName": "Event Type: Elect\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "EndPosition(PersonnelEvent)": {
+        "DisplayName": "Event Type: End Position\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "Nominate(PersonnelEvent)": {
+        "DisplayName": "Event Type: Nominate\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "PerformanceAppraisal(PersonnelEvent)": {
+        "DisplayName": "Event Type: Performance Appraisal\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "Promotion(PersonnelEvent)": {
+        "DisplayName": "Event Type: Promotion\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "Resignation(PersonnelEvent)": {
+        "DisplayName": "Event Type: Resignation\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "StartPosition(PersonnelEvent)": {
+        "DisplayName": "Event Type: Start Position\nParent Event Type: Personnel Event",
+        "Arguments": []
+    },
+    "ProjectParticipation(ProjectsEvent)": {
+        "DisplayName": "Event Type: Project Participation\nParent Event Type: Projects Event",
+        "Arguments": []
+    },
+    "FairPlay(SportsEvent)": {
+        "DisplayName": "Event Type: Fair Play\nParent Event Type: Sports Event",
+        "Arguments": []
+    },
+    "SportsTeamRoster(SportsEvent)": {
+        "DisplayName": "Event Type: Sports Team Roster\nParent Event Type: Sports Event",
+        "Arguments": []
+    },
+    "SportsTeamSeasonRecord(SportsEvent)": {
+        "DisplayName": "Event Type: Sports Team Season Record\nParent Event Type: Sports Event",
+        "Arguments": []
+    },
+    "Tournament(SportsEvent)": {
+        "DisplayName": "Event Type: Tournament\nParent Event Type: Sports Event",
+        "Arguments": []
+    },
+    "Deposit(TransactionEvent)": {
+        "DisplayName": "Event Type: Deposit\nParent Event Type: Transaction Event",
+        "Arguments": []
+    },
+    "MoneyLaundering(TransactionEvent)": {
+        "DisplayName": "Event Type: Money Laundering\nParent Event Type: Transaction Event",
+        "Arguments": []
+    },
+    "Transaction(Event)": {
+        "DisplayName": "Event Type: Transaction\nParent Event Type: Event",
+        "Arguments": []
+    },
+    "TransferMoney(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Money\nParent Event Type: Transaction Event",
+        "Arguments": []
+    },
+    "TransferOwnership(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Ownership\nParent Event Type: Transaction Event",
+        "Arguments": []
+    },
+    "GrapeVarietyComposition(WineEvent)": {
+        "DisplayName": "Event Type: Grape Variety Composition\nParent Event Type: Wine Event",
+        "Arguments": []
+    }
+}

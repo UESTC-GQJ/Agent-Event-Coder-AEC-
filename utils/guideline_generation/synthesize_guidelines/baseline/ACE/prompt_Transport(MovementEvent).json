@@ -1,0 +1,63 @@
+{
+    "Transport(MovementEvent)": {
+        "description": [
+            "The Transport event, a subtype of MovementEvent, involves the movement of entities (people, objects, etc.) from one location to another. The event can be triggered by verbs or phrases indicating movement such as 'transport', 'drive', 'fly', 'bring', 'head', 'parachute', etc. The event can be triggered by both explicit and implicit mentions of movement. For example, 'The troops were flown to the base' explicitly mentions the movement, while 'The troops arrived at the base' implies it.",
+            "The Transport event, under the MovementEvent category, captures scenarios where entities are moved between locations. This event can be triggered by words like 'transport', 'drive', 'fly', 'bring', 'head', 'parachute', etc. The event can be triggered by both direct and indirect references to movement. For instance, 'She drove to the city' directly mentions the movement, while 'She is now in the city' implies it.",
+            "The Transport event, classified under MovementEvent, refers to the relocation of entities from one place to another. Triggers for this event include verbs and phrases such as 'transport', 'drive', 'fly', 'bring', 'head', 'parachute', etc. The event can be triggered by both clear and inferred mentions of movement. For example, 'The goods were shipped to the warehouse' clearly indicates movement, while 'The goods are now in the warehouse' suggests it.",
+            "The Transport event, a child of MovementEvent, involves the transfer of entities between locations. This event can be triggered by terms like 'transport', 'drive', 'fly', 'bring', 'head', 'parachute', etc. The event can be triggered by both explicit and implicit mentions of movement. For example, 'The children were taken to school' explicitly mentions the movement, while 'The children are at school' implies it.",
+            "The Transport event, under the MovementEvent superclass, captures the movement of entities from one location to another. Triggers for this event include words and phrases such as 'transport', 'drive', 'fly', 'bring', 'head', 'parachute', etc. The event can be triggered by both direct and indirect references to movement. For instance, 'The supplies were delivered to the site' directly mentions the movement, while 'The supplies are now at the site' implies it."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The agent is the entity that initiates or causes the transport event. Examples are 'forces' in 'U.S. forces in getting back into Iraq'. The agent is typically a person, group, or organization responsible for the movement.",
+            "The agent refers to the entity responsible for initiating the transport. Examples are 'forces' in 'U.S. forces in getting back into Iraq'. The agent can be an individual, group, or organization.",
+            "The agent is the entity that causes the transport to occur. Examples are 'forces' in 'U.S. forces in getting back into Iraq'. The agent is usually a person, group, or organization.",
+            "The agent is the entity that initiates the transport event. Examples are 'forces' in 'U.S. forces in getting back into Iraq'. The agent is often a person, group, or organization.",
+            "The agent is the entity responsible for causing the transport. Examples are 'forces' in 'U.S. forces in getting back into Iraq'. The agent can be a person, group, or organization."
+        ],
+        "artifact": [
+            "The artifact is the entity being transported. Examples are 'women', 'children' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The artifact can be people, objects, or animals.",
+            "The artifact refers to the entity that is being moved. Examples are 'women', 'children' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The artifact can include people, objects, or animals.",
+            "The artifact is the entity that is transported. Examples are 'women', 'children' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The artifact can be people, objects, or animals.",
+            "The artifact is the entity being moved in the transport event. Examples are 'women', 'children' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The artifact can be people, objects, or animals.",
+            "The artifact refers to the entity that is transported. Examples are 'women', 'children' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The artifact can include people, objects, or animals."
+        ],
+        "destination": [
+            "The destination is the endpoint or target location of the transport. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The destination is where the artifact is moved to.",
+            "The destination refers to the final location where the artifact is transported. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The destination is the endpoint of the movement.",
+            "The destination is the location where the artifact is transported to. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The destination is the endpoint of the transport.",
+            "The destination is the final location of the transport event. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The destination is where the artifact ends up.",
+            "The destination refers to the endpoint of the transport. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The destination is the final location of the artifact."
+        ],
+        "origin": [
+            "The origin is the starting point of the transport. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The origin is where the artifact begins its movement.",
+            "The origin refers to the initial location from where the artifact is transported. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The origin is the starting point of the movement.",
+            "The origin is the location where the transport begins. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The origin is the starting point of the transport.",
+            "The origin is the starting location of the transport event. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The origin is where the artifact starts its journey.",
+            "The origin refers to the starting point of the transport. Examples are 'Sudan' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The origin is the initial location of the artifact."
+        ],
+        "place": [
+            "The place is a general location associated with the transport event. Examples are 'Iraq' in 'U.S. forces in getting back into Iraq'. The place can be any location mentioned in the context of the transport.",
+            "The place refers to a location related to the transport event. Examples are 'Iraq' in 'U.S. forces in getting back into Iraq'. The place can be any location mentioned in the context of the movement.",
+            "The place is a location associated with the transport. Examples are 'Iraq' in 'U.S. forces in getting back into Iraq'. The place can be any location mentioned in the context of the transport.",
+            "The place is a general location mentioned in the transport event. Examples are 'Iraq' in 'U.S. forces in getting back into Iraq'. The place can be any location related to the movement.",
+            "The place refers to a location mentioned in the context of the transport. Examples are 'Iraq' in 'U.S. forces in getting back into Iraq'. The place can be any location associated with the transport."
+        ],
+        "vehicle": [
+            "The vehicle is the means of transport used in the event. Examples are 'trains' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The vehicle can be any mode of transportation like cars, planes, ships, etc.",
+            "The vehicle refers to the mode of transport used in the event. Examples are 'trains' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The vehicle can include cars, planes, ships, etc.",
+            "The vehicle is the means by which the transport is carried out. Examples are 'trains' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The vehicle can be any mode of transportation like cars, planes, ships, etc.",
+            "The vehicle is the mode of transport used in the event. Examples are 'trains' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The vehicle can include cars, planes, ships, etc.",
+            "The vehicle refers to the means of transport used in the event. Examples are 'trains' in 'trains running to and from southern Sudan were used to transport abducted women and children'. The vehicle can be any mode of transportation like cars, planes, ships, etc."
+        ],
+        "victim": [
+            "The victim is the entity that is affected by the transport event, often involuntarily. Examples are 'who' in 'Mr. Chalabi, who was assisted by U.S. forces in getting back into Iraq'. The victim can be people or animals.",
+            "The victim refers to the entity affected by the transport, often without their consent. Examples are 'who' in 'Mr. Chalabi, who was assisted by U.S. forces in getting back into Iraq'. The victim can include people or animals.",
+            "The victim is the entity that is moved in the transport event, often involuntarily. Examples are 'who' in 'Mr. Chalabi, who was assisted by U.S. forces in getting back into Iraq'. The victim can be people or animals.",
+            "The victim is the entity affected by the transport, often without their consent. Examples are 'who' in 'Mr. Chalabi, who was assisted by U.S. forces in getting back into Iraq'. The victim can include people or animals.",
+            "The victim refers to the entity that is moved in the transport event, often involuntarily. Examples are 'who' in 'Mr. Chalabi, who was assisted by U.S. forces in getting back into Iraq'. The victim can be people or animals."
+        ]
+    }
+}

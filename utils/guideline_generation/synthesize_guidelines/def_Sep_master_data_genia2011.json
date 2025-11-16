@@ -1,0 +1,74 @@
+{
+    "Positive_regulation(Event)": {
+        "DisplayName": "Event Type: Positive_regulation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "csite",
+            "cause",
+            "site"
+        ]
+    },
+    "Phosphorylation(Event)": {
+        "DisplayName": "Event Type: Phosphorylation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "site"
+        ]
+    },
+    "Gene_expression(Event)": {
+        "DisplayName": "Event Type: Gene_expression\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Regulation(Event)": {
+        "DisplayName": "Event Type: Regulation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "csite",
+            "cause",
+            "site"
+        ]
+    },
+    "Binding(Event)": {
+        "DisplayName": "Event Type: Binding\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "site2",
+            "theme4",
+            "theme2",
+            "site",
+            "theme3"
+        ]
+    },
+    "Localization(Event)": {
+        "DisplayName": "Event Type: Localization\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "toloc",
+            "atloc"
+        ]
+    },
+    "None": {},
+    "Negative_regulation(Event)": {
+        "DisplayName": "Event Type: Negative_regulation\nParent Event Type: Event",
+        "Arguments": [
+            "theme",
+            "csite",
+            "cause",
+            "site"
+        ]
+    },
+    "Transcription(Event)": {
+        "DisplayName": "Event Type: Transcription\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Protein_catabolism(Event)": {
+        "DisplayName": "Event Type: Protein_catabolism\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    }
+}

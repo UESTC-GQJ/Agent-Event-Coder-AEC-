@@ -1,0 +1,35 @@
+{
+    "Fine(JusticeEvent)": {
+        "description": [
+            "A 'Fine' event refers to a legal or regulatory action where an individual or entity is required to pay a monetary penalty. The event can be triggered by words such as 'fine', 'fined', 'pay a fine', 'slapped fines', etc. The event typically involves an adjudicator who imposes the fine, an entity that is fined, and sometimes a place where the fine is imposed. The event can occur in various contexts, including court rulings, regulatory actions, and administrative decisions.",
+            "The 'Fine' event is a type of JusticeEvent where a monetary penalty is imposed on an individual or organization. This event can be triggered by terms like 'fine', 'fined', 'pay a fine', and similar phrases. It involves an adjudicator who imposes the fine, the entity being fined, and occasionally the location where the fine is imposed. This event can be found in legal, regulatory, and administrative contexts.",
+            "In the context of a 'Fine' event, an individual or organization is required to pay a monetary penalty as a result of a legal or regulatory decision. The event can be triggered by terms such as 'fine', 'fined', 'pay a fine', and others. Key participants include the adjudicator who imposes the fine, the entity that is fined, and sometimes the place where the fine is imposed. This event is common in legal and regulatory scenarios.",
+            "A 'Fine' event involves the imposition of a monetary penalty on an individual or entity by a legal or regulatory authority. The event can be triggered by words like 'fine', 'fined', 'pay a fine', etc. It typically includes an adjudicator who imposes the fine, the entity being fined, and occasionally the place where the fine is imposed. This event is relevant in legal, regulatory, and administrative contexts.",
+            "The 'Fine' event is characterized by the imposition of a monetary penalty on an individual or organization by a legal or regulatory authority. Trigger words for this event include 'fine', 'fined', 'pay a fine', and similar terms. The event usually involves an adjudicator who imposes the fine, the entity that is fined, and sometimes the place where the fine is imposed. This event is commonly seen in legal and regulatory contexts."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The 'adjudicator' in a Fine event is the authority or individual who imposes the fine. Examples are 'judge', 'SEC', 'court', 'regulatory body', etc. The adjudicator is responsible for determining the fine and ensuring it is enforced. In some cases, multiple adjudicators may be involved.",
+            "In a Fine event, the 'adjudicator' refers to the person or entity that imposes the fine. Examples include 'judge', 'SEC', 'court', 'regulatory agency', etc. The adjudicator plays a crucial role in deciding the fine and ensuring compliance. There can be instances where more than one adjudicator is involved.",
+            "The 'adjudicator' is the authority or individual who imposes the fine in a Fine event. Examples include 'judge', 'SEC', 'court', 'regulatory commission', etc. The adjudicator is responsible for determining the fine amount and enforcing it. Sometimes, multiple adjudicators may be involved in the decision.",
+            "In the context of a Fine event, the 'adjudicator' is the person or entity that imposes the fine. Examples are 'judge', 'SEC', 'court', 'regulatory authority', etc. The adjudicator decides the fine and ensures it is paid. There can be cases where more than one adjudicator is involved.",
+            "The 'adjudicator' in a Fine event refers to the authority or individual who imposes the fine. Examples include 'judge', 'SEC', 'court', 'regulatory body', etc. The adjudicator determines the fine and ensures its enforcement. Multiple adjudicators may sometimes be involved."
+        ],
+        "entity": [
+            "The 'entity' in a Fine event is the individual or organization that is required to pay the fine. Examples are 'Ranjha', 'Monitor', 'MCI', 'SEC', 'brokerages', etc. The entity is the recipient of the fine and is responsible for paying the specified amount. The entity can be a person, company, or any other legal entity.",
+            "In a Fine event, the 'entity' refers to the person or organization that is fined. Examples include 'Ranjha', 'Monitor', 'MCI', 'SEC', 'brokerages', etc. The entity is obligated to pay the fine imposed by the adjudicator. The entity can be an individual, corporation, or any other legal entity.",
+            "The 'entity' in a Fine event is the individual or organization that must pay the fine. Examples are 'Ranjha', 'Monitor', 'MCI', 'SEC', 'brokerages', etc. The entity is the one penalized and responsible for paying the fine. The entity can be a person, company, or other legal entity.",
+            "In the context of a Fine event, the 'entity' is the person or organization that is fined. Examples include 'Ranjha', 'Monitor', 'MCI', 'SEC', 'brokerages', etc. The entity is required to pay the fine imposed by the adjudicator. The entity can be an individual, corporation, or other legal entity.",
+            "The 'entity' in a Fine event refers to the individual or organization that is fined. Examples are 'Ranjha', 'Monitor', 'MCI', 'SEC', 'brokerages', etc. The entity is responsible for paying the fine. The entity can be a person, company, or any other legal entity."
+        ],
+        "place": [
+            "The 'place' in a Fine event refers to the location where the fine is imposed or where the entity is required to pay the fine. Examples are 'offices', 'court', 'regulatory agency', etc. The place can be a physical location or an institution involved in the fine process. Not all Fine events will have a place argument.",
+            "In a Fine event, the 'place' refers to the location where the fine is imposed or where the entity must pay the fine. Examples include 'offices', 'court', 'regulatory agency', etc. The place can be a physical location or an institution. Some Fine events may not include a place argument.",
+            "The 'place' in a Fine event is the location where the fine is imposed or where the entity is required to pay the fine. Examples are 'offices', 'court', 'regulatory agency', etc. The place can be a physical location or an institution. Not all Fine events will have a place argument.",
+            "In the context of a Fine event, the 'place' refers to the location where the fine is imposed or where the entity must pay the fine. Examples include 'offices', 'court', 'regulatory agency', etc. The place can be a physical location or an institution. Some Fine events may not include a place argument.",
+            "The 'place' in a Fine event refers to the location where the fine is imposed or where the entity is required to pay the fine. Examples are 'offices', 'court', 'regulatory agency', etc. The place can be a physical location or an institution. Not all Fine events will have a place argument."
+        ]
+    }
+}

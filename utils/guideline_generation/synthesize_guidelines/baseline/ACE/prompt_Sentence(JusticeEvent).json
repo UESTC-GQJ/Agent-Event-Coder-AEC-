@@ -1,0 +1,35 @@
+{
+    "Sentence(JusticeEvent)": {
+        "description": [
+            "The 'Sentence' event refers to the judicial decision where a punishment is assigned to a defendant by an adjudicator. The event can be triggered by words such as 'sentenced', 'sentence', 'sentences', 'punishable', etc. The event can occur in various contexts, including criminal cases, civil cases, and administrative decisions. Edge cases include situations where the term 'sentence' is used metaphorically or in non-judicial contexts, which should not be annotated as a 'Sentence' event.",
+            "The 'Sentence' event involves the formal declaration of a punishment by a judicial authority. This event is typically triggered by verbs like 'sentenced', 'sentence', and 'punishable'. It is important to distinguish between literal and metaphorical uses of these terms. For instance, 'sentence' in the context of a written or spoken statement should not be annotated as a 'Sentence' event.",
+            "A 'Sentence' event is characterized by the imposition of a legal penalty on an individual or entity by a court or judicial body. Triggers for this event include 'sentenced', 'sentence', and similar terms. Annotators should be cautious of context to ensure that only judicial sentences are captured, excluding non-legal uses of the term.",
+            "The 'Sentence' event denotes the act of assigning a legal punishment to a defendant by a court or judge. Common triggers include 'sentenced', 'sentence', and 'punishable'. It is crucial to focus on the judicial context and avoid annotating instances where 'sentence' refers to non-legal contexts, such as grammatical sentences.",
+            "In the context of event extraction, a 'Sentence' event refers to the judicial act of declaring a punishment for a defendant. This event is triggered by terms like 'sentenced', 'sentence', and 'punishable'. Annotators should ensure that the event is related to legal proceedings and not confuse it with other uses of the word 'sentence'."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The 'adjudicator' argument refers to the entity (usually a person or a judicial body) that imposes the sentence. Examples are 'court', 'judge', 'tribunal', etc. Edge cases include ensuring that the adjudicator is indeed the one delivering the sentence and not just mentioned in the context.",
+            "The 'adjudicator' is the authority responsible for delivering the sentence. This can be a judge, a court, or any legal body. Examples include 'Supreme Court', 'judge', 'magistrate'. Annotators should verify that the adjudicator is directly linked to the sentencing action.",
+            "In a 'Sentence' event, the 'adjudicator' is the person or institution that issues the sentence. Examples are 'court', 'judge', 'judicial panel'. It is important to distinguish the adjudicator from other legal entities mentioned in the text.",
+            "The 'adjudicator' argument identifies the legal authority that pronounces the sentence. Examples include 'court', 'judge', 'tribunal'. Annotators should ensure that the adjudicator is the one making the sentencing decision.",
+            "The 'adjudicator' in a 'Sentence' event is the entity that delivers the legal punishment. Examples are 'court', 'judge', 'judicial body'. It is crucial to confirm that the adjudicator is actively involved in the sentencing process."
+        ],
+        "defendant": [
+            "The 'defendant' argument refers to the individual or entity that is being sentenced. Examples are 'smugglers', 'billionaire', 'convict', 'Anwar Ibrahim', 'he'. Edge cases include ensuring that the defendant is the one receiving the sentence and not just mentioned in the context.",
+            "The 'defendant' is the person or entity upon whom the sentence is imposed. Examples include 'man', 'premier', 'he', 'Anwar Ibrahim'. Annotators should verify that the defendant is the subject of the sentencing action.",
+            "In a 'Sentence' event, the 'defendant' is the individual or entity receiving the sentence. Examples are 'smugglers', 'billionaire', 'convict'. It is important to ensure that the defendant is the one being sentenced.",
+            "The 'defendant' argument identifies the person or entity that is sentenced. Examples include 'man', 'he', 'Anwar Ibrahim'. Annotators should ensure that the defendant is the recipient of the sentence.",
+            "The 'defendant' in a 'Sentence' event is the individual or entity that the sentence is directed at. Examples are 'smugglers', 'billionaire', 'convict', 'Anwar Ibrahim'. It is crucial to confirm that the defendant is the one being sentenced."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the sentencing occurs. Examples are 'Indonesian', 'province'. Edge cases include ensuring that the place is directly related to the sentencing event and not just mentioned in the context.",
+            "The 'place' is the geographical location where the sentence is handed down. Examples include 'province', 'Indonesian'. Annotators should verify that the place is relevant to the sentencing action.",
+            "In a 'Sentence' event, the 'place' is the location where the sentencing takes place. Examples are 'Indonesian', 'province'. It is important to ensure that the place is directly associated with the sentencing event.",
+            "The 'place' argument identifies the location of the sentencing. Examples include 'province', 'Indonesian'. Annotators should ensure that the place is pertinent to the sentencing action.",
+            "The 'place' in a 'Sentence' event is the geographical area where the sentence is issued. Examples are 'Indonesian', 'province'. It is crucial to confirm that the place is directly related to the sentencing event."
+        ]
+    }
+}

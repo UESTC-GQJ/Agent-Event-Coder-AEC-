@@ -1,0 +1,35 @@
+{
+    "ReleaseParole(JusticeEvent)": {
+        "description": [
+            "The ReleaseParole event, a subtype of JusticeEvent, refers to the act of releasing an individual from custody or imprisonment, often under specific conditions such as parole. The event can be triggered by words like 'release', 'released', 'parole', 'freed', etc. It is important to note that the release may be conditional, such as being on parole, or unconditional. The event can also be triggered by phrases indicating the completion of a sentence or a reduction in sentence due to good behavior.",
+            "ReleaseParole is an event under the JusticeEvent category that involves the act of setting a person free from detention or imprisonment. This event can be identified by triggers such as 'release', 'released', 'parole', 'freed', and similar terms. The release can be due to various reasons including parole, completion of sentence, or remission for good behavior. The context of the release, such as the conditions or reasons, should be carefully considered.",
+            "The ReleaseParole event, categorized under JusticeEvent, signifies the act of freeing an individual from incarceration, typically under conditions like parole. Triggers for this event include terms like 'release', 'released', 'parole', 'freed', etc. The release might be conditional, such as parole, or due to sentence completion or good behavior. Annotators should look for contextual clues that indicate the nature and conditions of the release.",
+            "Under the JusticeEvent category, the ReleaseParole event denotes the act of releasing a person from prison or detention, often under specific conditions like parole. This event can be triggered by words such as 'release', 'released', 'parole', 'freed', and similar expressions. The release can be conditional or unconditional, and it is crucial to understand the context to determine the nature of the release.",
+            "ReleaseParole, a subtype of JusticeEvent, involves the act of releasing an individual from custody, typically under conditions such as parole. Triggers for this event include 'release', 'released', 'parole', 'freed', etc. The release may be due to various reasons like parole, sentence completion, or good behavior. Annotators should pay attention to the context to accurately capture the nature and conditions of the release."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "entity": [
+            "The 'entity' argument refers to the organization, group, or authority responsible for the release of the individual. Examples are 'negotiators', 'court', 'parole board', etc. This argument identifies who is facilitating or authorizing the release.",
+            "In the context of ReleaseParole, the 'entity' argument denotes the body or organization that is responsible for the release. Examples include 'negotiators', 'court', 'parole board', etc. This argument helps identify the authority behind the release.",
+            "The 'entity' argument in a ReleaseParole event refers to the organization or authority that is responsible for the release. Examples are 'negotiators', 'court', 'parole board', etc. This argument is crucial for understanding who is authorizing or facilitating the release.",
+            "For the ReleaseParole event, the 'entity' argument identifies the organization or authority responsible for the release. Examples include 'negotiators', 'court', 'parole board', etc. This argument provides context on who is behind the release.",
+            "The 'entity' argument in the ReleaseParole event refers to the group or authority that is responsible for the release. Examples are 'negotiators', 'court', 'parole board', etc. This argument is important for identifying the facilitator or authorizer of the release."
+        ],
+        "person": [
+            "The 'person' argument refers to the individual who is being released from custody or imprisonment. Examples are 'ramzi binalshibh', 'Anwar', 'Pasko', etc. This argument identifies the subject of the release.",
+            "In the context of ReleaseParole, the 'person' argument denotes the individual who is being set free. Examples include 'ramzi binalshibh', 'Anwar', 'Pasko', etc. This argument is essential for identifying who is being released.",
+            "The 'person' argument in a ReleaseParole event refers to the individual who is being released from detention or imprisonment. Examples are 'ramzi binalshibh', 'Anwar', 'Pasko', etc. This argument is crucial for identifying the person being released.",
+            "For the ReleaseParole event, the 'person' argument identifies the individual who is being released. Examples include 'ramzi binalshibh', 'Anwar', 'Pasko', etc. This argument provides information on who is the subject of the release.",
+            "The 'person' argument in the ReleaseParole event refers to the individual who is being released from custody. Examples are 'ramzi binalshibh', 'Anwar', 'Pasko', etc. This argument is important for identifying the person being released."
+        ],
+        "place": [
+            "The 'place' argument refers to the location from which the individual is being released. Examples are 'center', 'prison', 'detention center', etc. This argument identifies the physical location of the release.",
+            "In the context of ReleaseParole, the 'place' argument denotes the location from which the individual is being set free. Examples include 'center', 'prison', 'detention center', etc. This argument is essential for identifying where the release is taking place.",
+            "The 'place' argument in a ReleaseParole event refers to the location from which the individual is being released. Examples are 'center', 'prison', 'detention center', etc. This argument is crucial for identifying the place of the release.",
+            "For the ReleaseParole event, the 'place' argument identifies the location from which the individual is being released. Examples include 'center', 'prison', 'detention center', etc. This argument provides context on where the release is happening.",
+            "The 'place' argument in the ReleaseParole event refers to the location from which the individual is being released. Examples are 'center', 'prison', 'detention center', etc. This argument is important for identifying the place of the release."
+        ]
+    }
+}

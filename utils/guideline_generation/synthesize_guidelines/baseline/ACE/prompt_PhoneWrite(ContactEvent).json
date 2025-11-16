@@ -1,0 +1,28 @@
+{
+    "PhoneWrite(ContactEvent)": {
+        "description": [
+            "The PhoneWrite event, a subtype of ContactEvent, refers to any instance where communication occurs through a phone call or written message. This event can be triggered by verbs or nouns related to phone communication, such as 'call', 'telephone', 'told', 'discussed', 'phone', 'chatted', 'contacted', 'written'. The event can be triggered by direct mentions of phone communication or indirect references where the context implies such communication.",
+            "PhoneWrite is an event under the ContactEvent category that captures instances of communication via phone calls or written messages. Triggers for this event include words like 'call', 'telephone', 'told', 'discussed', 'phone', 'chatted', 'contacted', 'written'. The event can be triggered by explicit mentions of phone calls or written messages, as well as by contextual clues indicating such communication.",
+            "The PhoneWrite event, classified under ContactEvent, involves communication through phone calls or written messages. Typical triggers include 'call', 'telephone', 'told', 'discussed', 'phone', 'chatted', 'contacted', 'written'. This event can be identified by both direct and indirect references to phone or written communication.",
+            "PhoneWrite, a child event type of ContactEvent, denotes communication via phone calls or written messages. Common triggers are 'call', 'telephone', 'told', 'discussed', 'phone', 'chatted', 'contacted', 'written'. The event can be triggered by explicit mentions or contextual indications of phone or written communication.",
+            "The PhoneWrite event, part of the ContactEvent superclass, captures instances of communication through phone calls or written messages. Triggers include 'call', 'telephone', 'told', 'discussed', 'phone', 'chatted', 'contacted', 'written'. This event can be identified by direct mentions or contextual clues suggesting phone or written communication."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "entity": [
+            "The 'entity' argument refers to the individuals or groups involved in the PhoneWrite event. Examples are 'spokesman', 'he', 'Bush', 'George W. Bush', 'Jean Chretien', 'leaders', 'Stinnett', 'mother', 'woman', 'she', 'Montgomery', 'husband', 'her', 'Baxley', 'who'. This argument captures the participants in the communication.",
+            "In the context of the PhoneWrite event, the 'entity' argument identifies the people or entities participating in the communication. Examples include 'spokesman', 'he', 'Bush', 'George W. Bush', 'Jean Chretien', 'leaders', 'Stinnett', 'mother', 'woman', 'she', 'Montgomery', 'husband', 'her', 'Baxley', 'who'. This argument highlights the communicators.",
+            "The 'entity' argument in a PhoneWrite event denotes the participants in the communication. Examples are 'spokesman', 'he', 'Bush', 'George W. Bush', 'Jean Chretien', 'leaders', 'Stinnett', 'mother', 'woman', 'she', 'Montgomery', 'husband', 'her', 'Baxley', 'who'. This argument captures the entities involved in the phone or written communication.",
+            "For the PhoneWrite event, the 'entity' argument represents the individuals or groups engaged in the communication. Examples include 'spokesman', 'he', 'Bush', 'George W. Bush', 'Jean Chretien', 'leaders', 'Stinnett', 'mother', 'woman', 'she', 'Montgomery', 'husband', 'her', 'Baxley', 'who'. This argument identifies the communicators.",
+            "The 'entity' argument in the PhoneWrite event captures the participants in the communication. Examples are 'spokesman', 'he', 'Bush', 'George W. Bush', 'Jean Chretien', 'leaders', 'Stinnett', 'mother', 'woman', 'she', 'Montgomery', 'husband', 'her', 'Baxley', 'who'. This argument highlights the entities involved in the phone or written communication."
+        ],
+        "place": [
+            "The 'place' argument refers to the location associated with the PhoneWrite event. Examples are 'Agartala'. This argument captures the geographical context of the communication.",
+            "In the context of the PhoneWrite event, the 'place' argument identifies the location where the communication occurs or is associated with. Examples include 'Agartala'. This argument provides the geographical setting for the event.",
+            "The 'place' argument in a PhoneWrite event denotes the location related to the communication. Examples are 'Agartala'. This argument captures the geographical context of the phone or written communication.",
+            "For the PhoneWrite event, the 'place' argument represents the location associated with the communication. Examples include 'Agartala'. This argument identifies the geographical context of the event.",
+            "The 'place' argument in the PhoneWrite event captures the location related to the communication. Examples are 'Agartala'. This argument highlights the geographical setting for the phone or written communication."
+        ]
+    }
+}

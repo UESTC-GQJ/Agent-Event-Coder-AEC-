@@ -1,0 +1,28 @@
+{
+    "Acquit(JusticeEvent)": {
+        "description": [
+            "The 'Acquit' event refers to a legal decision where a defendant is found not guilty of the charges against them. This event is a subtype of the broader 'JusticeEvent' category. The event can be triggered by words such as 'acquitted', 'walk free', 'acquittal', or 'walk'. The event indicates that the legal process has concluded in favor of the defendant, absolving them of the alleged crime.",
+            "An 'Acquit' event occurs when a legal authority declares a defendant not guilty of the charges they faced. This event falls under the 'JusticeEvent' category. The event can be triggered by terms like 'acquitted', 'walk free', 'acquittal', or 'walk'. It signifies the end of a legal proceeding with a verdict of not guilty for the defendant.",
+            "The 'Acquit' event is a legal outcome where a defendant is declared not guilty by a court or legal authority. It is a specific type of 'JusticeEvent'. Triggers for this event include 'acquitted', 'walk free', 'acquittal', and 'walk'. This event marks the conclusion of a trial with the defendant being cleared of all charges.",
+            "In the context of legal proceedings, an 'Acquit' event denotes the exoneration of a defendant, meaning they are found not guilty. This event is categorized under 'JusticeEvent'. Common triggers are 'acquitted', 'walk free', 'acquittal', and 'walk'. It represents the final judgment in favor of the defendant.",
+            "The 'Acquit' event involves a legal decision where a defendant is found not guilty of the accusations against them. It is a subset of 'JusticeEvent'. The event can be triggered by phrases such as 'acquitted', 'walk free', 'acquittal', or 'walk'. This event indicates that the defendant has been legally cleared of the charges."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The 'adjudicator' argument refers to the person or entity responsible for delivering the verdict of not guilty. This could be a judge, a jury, or a court. Examples are 'court', 'judges Piet Streicher and Mohamed Navsa', or 'we' in a colloquial context. The adjudicator is the authority that has the power to acquit the defendant.",
+            "In an 'Acquit' event, the 'adjudicator' is the individual or body that declares the defendant not guilty. This can include judges, juries, or courts. Examples are 'court', 'Piet Streicher', 'Mohamed Navsa', or 'we'. The adjudicator is the legal authority making the acquittal decision.",
+            "The 'adjudicator' argument in an 'Acquit' event identifies the legal authority that pronounces the defendant not guilty. This could be a judge, a jury, or a court. Examples include 'court', 'judges Piet Streicher and Mohamed Navsa', or 'we'. The adjudicator is the entity with the jurisdiction to acquit.",
+            "For the 'Acquit' event, the 'adjudicator' is the person or institution that issues the not guilty verdict. This can be a judge, a jury, or a court. Examples are 'court', 'Piet Streicher', 'Mohamed Navsa', or 'we'. The adjudicator is the official body responsible for the acquittal.",
+            "The 'adjudicator' in an 'Acquit' event is the authority that delivers the verdict of not guilty. This includes judges, juries, or courts. Examples are 'court', 'judges Piet Streicher and Mohamed Navsa', or 'we'. The adjudicator is the entity that has the legal power to acquit the defendant."
+        ],
+        "defendant": [
+            "The 'defendant' argument refers to the individual who is being acquitted of the charges. This is the person who was on trial and has been found not guilty. Examples are 'Ayub Masih', 'character', 'defendant', 'Wouter Basson', or 'guy'. The defendant is the subject of the acquittal.",
+            "In an 'Acquit' event, the 'defendant' is the person who has been declared not guilty. This is the individual who faced charges and has been exonerated. Examples include 'Ayub Masih', 'character', 'defendant', 'Wouter Basson', or 'guy'. The defendant is the one who benefits from the acquittal.",
+            "The 'defendant' argument in an 'Acquit' event identifies the person who is found not guilty. This is the individual who was accused and has been cleared of the charges. Examples are 'Ayub Masih', 'character', 'defendant', 'Wouter Basson', or 'guy'. The defendant is the person acquitted.",
+            "For the 'Acquit' event, the 'defendant' is the individual who is acquitted of the charges. This is the person who was on trial and has been found not guilty. Examples include 'Ayub Masih', 'character', 'defendant', 'Wouter Basson', or 'guy'. The defendant is the one who is exonerated.",
+            "The 'defendant' in an 'Acquit' event is the person who has been declared not guilty. This is the individual who faced legal charges and has been acquitted. Examples are 'Ayub Masih', 'character', 'defendant', 'Wouter Basson', or 'guy'. The defendant is the subject of the acquittal."
+        ]
+    }
+}

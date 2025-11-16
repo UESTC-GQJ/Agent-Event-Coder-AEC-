@@ -1,0 +1,56 @@
+{
+    "Attack(ConflictEvent)": {
+        "description": [
+            "An 'Attack' event, a subtype of 'ConflictEvent', refers to an aggressive action or series of actions intended to cause harm or damage to a person, group, or place. The event can be triggered by verbs or nouns indicating violence or aggression, such as 'killed', 'raping', 'blast', 'tore', 'explosion', 'clashed', and 'war'. The event can involve multiple participants and instruments, and can occur in various locations.",
+            "The 'Attack' event, under the 'ConflictEvent' category, encompasses any violent act aimed at causing physical harm or destruction. This event can be identified by triggers like 'killed', 'raping', 'blast', 'tore', 'explosion', 'clashed', and 'war'. It involves entities such as attackers, victims, and instruments used in the attack, and can take place in diverse settings.",
+            "An 'Attack' event, classified under 'ConflictEvent', signifies an act of violence or aggression with the intent to harm or destroy. Triggers for this event include words like 'killed', 'raping', 'blast', 'tore', 'explosion', 'clashed', and 'war'. The event typically involves attackers, victims, and instruments, and can occur in various locations.",
+            "The 'Attack' event, a child of 'ConflictEvent', represents any aggressive action aimed at causing harm or damage. It can be triggered by terms such as 'killed', 'raping', 'blast', 'tore', 'explosion', 'clashed', and 'war'. This event involves participants like attackers and victims, and can happen in different places using various instruments.",
+            "An 'Attack' event, under the 'ConflictEvent' superclass, denotes a violent act intended to inflict harm or damage. Triggers for this event include 'killed', 'raping', 'blast', 'tore', 'explosion', 'clashed', and 'war'. It involves entities such as attackers, victims, and instruments, and can take place in multiple locations."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The 'agent' in an 'Attack' event refers to the entity that initiates or carries out the attack. Examples are 'luster' in 'luster skipped bail during his trial in January for raping and drugging three women'. The agent is often the person or group responsible for the attack.",
+            "In an 'Attack' event, the 'agent' is the individual or group that performs the attack. Examples include 'luster' in the context of 'raping and drugging three women'. The agent is typically the perpetrator of the violent act.",
+            "The 'agent' of an 'Attack' event is the entity that executes the attack. For instance, 'luster' in 'luster skipped bail during his trial in January for raping and drugging three women'. The agent is usually the attacker or aggressor.",
+            "Within an 'Attack' event, the 'agent' is the person or group responsible for initiating the attack. Examples are 'luster' in 'raping and drugging three women'. The agent is the one who carries out the violent action.",
+            "The 'agent' in an 'Attack' event denotes the entity that conducts the attack. For example, 'luster' in 'luster skipped bail during his trial in January for raping and drugging three women'. The agent is the attacker or the one who commits the act."
+        ],
+        "attacker": [
+            "The 'attacker' in an 'Attack' event is the entity that directly engages in the act of violence. Examples are 'mob' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The attacker is the one who physically carries out the attack.",
+            "In an 'Attack' event, the 'attacker' is the person or group that performs the violent act. Examples include 'demonstrators' and 'police' in 'Some 70 people were arrested Saturday as demonstrators clashed with police at the end of a major peace rally here'. The attacker is the entity that engages in the attack.",
+            "The 'attacker' of an 'Attack' event is the entity that commits the act of violence. For instance, 'mob' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The attacker is the one who executes the attack.",
+            "Within an 'Attack' event, the 'attacker' is the individual or group that carries out the attack. Examples are 'demonstrators' in 'Several police officers were treated for the effects of gas after the ensuing clashes -- a result, police said, of the demonstrators using self-defence devices'. The attacker is the one who performs the violent act.",
+            "The 'attacker' in an 'Attack' event denotes the entity that engages in the act of violence. For example, 'mob' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The attacker is the one who physically commits the attack."
+        ],
+        "instrument": [
+            "The 'instrument' in an 'Attack' event refers to the tool or weapon used to carry out the attack. Examples are 'machetes' and 'spears' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The instrument is the means by which the attack is executed.",
+            "In an 'Attack' event, the 'instrument' is the object or weapon used to perform the attack. Examples include 'devices' in 'Several police officers were treated for the effects of gas after the ensuing clashes -- a result, police said, of the demonstrators using self-defence devices'. The instrument is what facilitates the attack.",
+            "The 'instrument' of an 'Attack' event is the tool or weapon employed to carry out the attack. For instance, 'bomb' in 'A powerful bomb tore through a waiting shed at the Davao City international airport'. The instrument is the object used to execute the attack.",
+            "Within an 'Attack' event, the 'instrument' is the item or weapon used to conduct the attack. Examples are 'machetes' and 'spears' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The instrument is the means by which the attack is performed.",
+            "The 'instrument' in an 'Attack' event denotes the tool or weapon used to carry out the attack. For example, 'devices' in 'Several police officers were treated for the effects of gas after the ensuing clashes -- a result, police said, of the demonstrators using self-defence devices'. The instrument is what enables the attack."
+        ],
+        "place": [
+            "The 'place' in an 'Attack' event refers to the location where the attack occurs. Examples are 'area' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The place is the setting of the attack.",
+            "In an 'Attack' event, the 'place' is the location where the violent act takes place. Examples include 'airport' in 'At least 19 people were killed and 114 people were wounded in Tuesday's southern Philippines airport blast'. The place is where the attack happens.",
+            "The 'place' of an 'Attack' event is the location where the attack is carried out. For instance, 'shed' in 'A powerful bomb tore through a waiting shed at the Davao City international airport'. The place is the site of the attack.",
+            "Within an 'Attack' event, the 'place' is the location where the attack occurs. Examples are 'city' in 'A powerful bomb tore through a waiting shed at the Davao City international airport'. The place is the setting of the attack.",
+            "The 'place' in an 'Attack' event denotes the location where the attack happens. For example, 'Iraq' in 'Though opinion polls have shown public support for the war rising in the United States, opposition to military intervention in Iraq has given rise to an impassioned campaign'. The place is where the attack takes place."
+        ],
+        "target": [
+            "The 'target' in an 'Attack' event refers to the entity that is the focus of the attack. Examples are 'them' in 'The mob dragged out three members of a family and killed them with machetes and spears before fleeing the area'. The target is the entity that the attack is directed at.",
+            "In an 'Attack' event, the 'target' is the entity that the attack is aimed at. Examples include 'terminal' in 'A powerful bomb tore through a waiting shed at the Davao City international airport at about 5.15 pm (0915 GMT) while another explosion hit a bus terminal at the city'. The target is the focus of the attack.",
+            "The 'target' of an 'Attack' event is the entity that the attack is directed towards. For instance, 'shed' in 'The waiting shed literally exploded'. The target is the entity that the attack is aimed at.",
+            "Within an 'Attack' event, the 'target' is the entity that the attack is focused on. Examples are 'officers' in 'Several police officers were treated for the effects of gas after the ensuing clashes -- a result, police said, of the demonstrators using self-defence devices'. The target is the entity that the attack is directed at.",
+            "The 'target' in an 'Attack' event denotes the entity that the attack is aimed at. For example, 'terminal' in 'A powerful bomb tore through a waiting shed at the Davao City international airport at about 5.15 pm (0915 GMT) while another explosion hit a bus terminal at the city'. The target is the focus of the attack."
+        ],
+        "victim": [
+            "The 'victim' in an 'Attack' event refers to the entity that suffers harm or damage as a result of the attack. Examples are 'women' in 'luster skipped bail during his trial in January for raping and drugging three women'. The victim is the entity that is harmed by the attack.",
+            "In an 'Attack' event, the 'victim' is the person or group that is harmed by the attack. Examples include 'women' in 'luster skipped bail during his trial in January for raping and drugging three women'. The victim is the entity that suffers from the attack.",
+            "The 'victim' of an 'Attack' event is the entity that experiences harm or damage due to the attack. For instance, 'women' in 'luster skipped bail during his trial in January for raping and drugging three women'. The victim is the one who is harmed by the attack.",
+            "Within an 'Attack' event, the 'victim' is the entity that is affected by the attack. Examples are 'women' in 'luster skipped bail during his trial in January for raping and drugging three women'. The victim is the one who suffers from the attack.",
+            "The 'victim' in an 'Attack' event denotes the entity that is harmed or damaged by the attack. For example, 'women' in 'luster skipped bail during his trial in January for raping and drugging three women'. The victim is the entity that suffers from the attack."
+        ]
+    }
+}

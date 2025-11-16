@@ -1,0 +1,14 @@
+{
+    "Infect(Event)": {
+        "description": [
+            "The 'Infect' event refers to the occurrence where an individual or group contracts a disease or virus. The event can be triggered by words or phrases indicating the presence of an infection, such as 'positive', 'infected', 'had', 'cases', or specific disease names like 'COVID-19'. This event is characterized by the confirmation or suspicion of an infection.",
+            "The 'Infect' event captures instances where a person or population is diagnosed with or suspected to have a contagious disease. The event can be triggered by terms like 'positive', 'infected', 'had', 'cases', or the name of the disease itself. It is important to note that the context should clearly indicate an infection.",
+            "The 'Infect' event involves the identification of an infection in an individual or group. Triggers for this event include words such as 'positive', 'infected', 'had', 'cases', and specific disease names like 'COVID-19'. The event is defined by the confirmation or strong indication of an infectious disease.",
+            "The 'Infect' event is defined as the detection or suspicion of an infectious disease in a person or group. This event can be triggered by terms like 'positive', 'infected', 'had', 'cases', or the name of the disease. The context should clearly suggest an infection for the event to be annotated.",
+            "The 'Infect' event refers to the confirmation or suspicion of an infection in an individual or group. Triggers for this event include words such as 'positive', 'infected', 'had', 'cases', and specific disease names like 'COVID-19'. The event is characterized by the presence of an infectious disease."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event."
+    }
+}

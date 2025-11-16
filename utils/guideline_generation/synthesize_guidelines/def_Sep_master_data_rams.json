@@ -1,0 +1,1204 @@
+{
+    "life_die_deathcausedbyviolentevents(Event)": {
+        "DisplayName": "Event Type: life_die_deathcausedbyviolentevents\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "killer",
+            "victim"
+        ]
+    },
+    "movement_transportartifact_hide(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_hide\nParent Event Type: Event",
+        "Arguments": [
+            "vehicle",
+            "origin",
+            "transporter",
+            "artifact",
+            "hidingplace"
+        ]
+    },
+    "contact_commitmentpromiseexpressintent_Na(Event)": {
+        "DisplayName": "Event Type: contact_commitmentpromiseexpressintent_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "justice_arrestjaildetain_arrestjaildetain(Event)": {
+        "DisplayName": "Event Type: justice_arrestjaildetain_arrestjaildetain\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "detainee",
+            "jailer",
+            "crime"
+        ]
+    },
+    "contact_discussion_meet(Event)": {
+        "DisplayName": "Event Type: contact_discussion_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "life_injure_injurycausedbyviolentevents(Event)": {
+        "DisplayName": "Event Type: life_injure_injurycausedbyviolentevents\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "injurer",
+            "victim",
+            "instrument"
+        ]
+    },
+    "transaction_transferownership_Na(Event)": {
+        "DisplayName": "Event Type: transaction_transferownership_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "beneficiary",
+            "recipient",
+            "place",
+            "artifact"
+        ]
+    },
+    "justice_investigate_investigatecrime(Event)": {
+        "DisplayName": "Event Type: justice_investigate_investigatecrime\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "defendant",
+            "investigator",
+            "crime"
+        ]
+    },
+    "contact_collaborate_Na(Event)": {
+        "DisplayName": "Event Type: contact_collaborate_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "government_agreements_violateagreement(Event)": {
+        "DisplayName": "Event Type: government_agreements_violateagreement\nParent Event Type: Event",
+        "Arguments": [
+            "otherparticipant",
+            "violator",
+            "place"
+        ]
+    },
+    "movement_transportperson_prevententry(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_prevententry\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "preventer",
+            "origin",
+            "transporter"
+        ]
+    },
+    "personnel_endposition_Na(Event)": {
+        "DisplayName": "Event Type: personnel_endposition_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "placeofemployment",
+            "place",
+            "employee"
+        ]
+    },
+    "contact_commandorder_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_commandorder_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "transaction_transfermoney_Na(Event)": {
+        "DisplayName": "Event Type: transaction_transfermoney_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "beneficiary",
+            "money",
+            "recipient",
+            "place"
+        ]
+    },
+    "conflict_attack_selfdirectedbattle(Event)": {
+        "DisplayName": "Event Type: conflict_attack_selfdirectedbattle\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "justice_initiatejudicialprocess_Na(Event)": {
+        "DisplayName": "Event Type: justice_initiatejudicialprocess_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "prosecutor",
+            "defendant",
+            "crime",
+            "judgecourt",
+            "place"
+        ]
+    },
+    "contact_prevarication_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_prevarication_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "conflict_attack_stealrobhijack(Event)": {
+        "DisplayName": "Event Type: conflict_attack_stealrobhijack\nParent Event Type: Event",
+        "Arguments": [
+            "attacker",
+            "target",
+            "instrument",
+            "place",
+            "artifact"
+        ]
+    },
+    "life_injure_illnessdegradationhungerthirst(Event)": {
+        "DisplayName": "Event Type: life_injure_illnessdegradationhungerthirst\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "victim"
+        ]
+    },
+    "contact_negotiate_meet(Event)": {
+        "DisplayName": "Event Type: contact_negotiate_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "contact_threatencoerce_Na(Event)": {
+        "DisplayName": "Event Type: contact_threatencoerce_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "life_die_Na(Event)": {
+        "DisplayName": "Event Type: life_die_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "victim"
+        ]
+    },
+    "contact_commitmentpromiseexpressintent_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_commitmentpromiseexpressintent_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "personnel_elect_Na(Event)": {
+        "DisplayName": "Event Type: personnel_elect_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "candidate",
+            "voter"
+        ]
+    },
+    "contact_mediastatement_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_mediastatement_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "contact_requestadvise_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_requestadvise_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "movement_transportartifact_disperseseparate(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_disperseseparate\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "origin",
+            "transporter",
+            "artifact"
+        ]
+    },
+    "government_legislate_legislate(Event)": {
+        "DisplayName": "Event Type: government_legislate_legislate\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "law",
+            "governmentbody"
+        ]
+    },
+    "personnel_elect_winelection(Event)": {
+        "DisplayName": "Event Type: personnel_elect_winelection\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "candidate",
+            "voter"
+        ]
+    },
+    "movement_transportperson_preventexit(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_preventexit\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "preventer",
+            "origin",
+            "transporter"
+        ]
+    },
+    "conflict_yield_Na(Event)": {
+        "DisplayName": "Event Type: conflict_yield_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "yielder",
+            "recipient"
+        ]
+    },
+    "contact_negotiate_Na(Event)": {
+        "DisplayName": "Event Type: contact_negotiate_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "government_agreements_Na(Event)": {
+        "DisplayName": "Event Type: government_agreements_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "justice_judicialconsequences_extradite(Event)": {
+        "DisplayName": "Event Type: justice_judicialconsequences_extradite\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "defendant",
+            "extraditer",
+            "origin",
+            "crime"
+        ]
+    },
+    "personnel_endposition_firinglayoff(Event)": {
+        "DisplayName": "Event Type: personnel_endposition_firinglayoff\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "placeofemployment",
+            "employee"
+        ]
+    },
+    "justice_investigate_Na(Event)": {
+        "DisplayName": "Event Type: justice_investigate_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "defendant",
+            "investigator"
+        ]
+    },
+    "government_agreements_acceptagreementcontractceasefire(Event)": {
+        "DisplayName": "Event Type: government_agreements_acceptagreementcontractceasefire\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "disaster_fireexplosion_fireexplosion(Event)": {
+        "DisplayName": "Event Type: disaster_fireexplosion_fireexplosion\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "fireexplosionobject",
+            "instrument"
+        ]
+    },
+    "movement_transportperson_smuggleextract(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_smuggleextract\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "vehicle",
+            "origin",
+            "transporter"
+        ]
+    },
+    "transaction_transaction_transfercontrol(Event)": {
+        "DisplayName": "Event Type: transaction_transaction_transfercontrol\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "beneficiary",
+            "recipient",
+            "place",
+            "territoryorfacility"
+        ]
+    },
+    "transaction_transfermoney_giftgrantprovideaid(Event)": {
+        "DisplayName": "Event Type: transaction_transfermoney_giftgrantprovideaid\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "money",
+            "beneficiary",
+            "recipient",
+            "place"
+        ]
+    },
+    "movement_transportartifact_nonviolentthrowlaunch(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_nonviolentthrowlaunch\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "transporter",
+            "origin",
+            "artifact"
+        ]
+    },
+    "contact_commitmentpromiseexpressintent_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_commitmentpromiseexpressintent_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "conflict_attack_airstrikemissilestrike(Event)": {
+        "DisplayName": "Event Type: conflict_attack_airstrikemissilestrike\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "justice_judicialconsequences_Na(Event)": {
+        "DisplayName": "Event Type: justice_judicialconsequences_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "judgecourt",
+            "defendant",
+            "crime"
+        ]
+    },
+    "government_formation_Na(Event)": {
+        "DisplayName": "Event Type: government_formation_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "founder",
+            "gpe"
+        ]
+    },
+    "movement_transportperson_hide(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_hide\nParent Event Type: Event",
+        "Arguments": [
+            "passenger",
+            "vehicle",
+            "origin",
+            "transporter",
+            "hidingplace"
+        ]
+    },
+    "justice_judicialconsequences_execute(Event)": {
+        "DisplayName": "Event Type: justice_judicialconsequences_execute\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "executioner",
+            "defendant",
+            "crime"
+        ]
+    },
+    "transaction_transaction_embargosanction(Event)": {
+        "DisplayName": "Event Type: transaction_transaction_embargosanction\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "artifactmoney",
+            "preventer",
+            "recipient",
+            "place"
+        ]
+    },
+    "conflict_attack_stabbing(Event)": {
+        "DisplayName": "Event Type: conflict_attack_stabbing\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "personnel_startposition_hiring(Event)": {
+        "DisplayName": "Event Type: personnel_startposition_hiring\nParent Event Type: Event",
+        "Arguments": [
+            "placeofemployment",
+            "place",
+            "employee"
+        ]
+    },
+    "conflict_yield_retreat(Event)": {
+        "DisplayName": "Event Type: conflict_yield_retreat\nParent Event Type: Event",
+        "Arguments": [
+            "retreater",
+            "origin",
+            "destination"
+        ]
+    },
+    "transaction_transfermoney_embargosanction(Event)": {
+        "DisplayName": "Event Type: transaction_transfermoney_embargosanction\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "money",
+            "preventer",
+            "recipient",
+            "place"
+        ]
+    },
+    "manufacture_artifact_build(Event)": {
+        "DisplayName": "Event Type: manufacture_artifact_build\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "manufacturer",
+            "artifact",
+            "instrument"
+        ]
+    },
+    "inspection_sensoryobserve_Na(Event)": {
+        "DisplayName": "Event Type: inspection_sensoryobserve_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "observer",
+            "observedentity"
+        ]
+    },
+    "justice_initiatejudicialprocess_trialhearing(Event)": {
+        "DisplayName": "Event Type: justice_initiatejudicialprocess_trialhearing\nParent Event Type: Event",
+        "Arguments": [
+            "prosecutor",
+            "defendant",
+            "judgecourt",
+            "place",
+            "crime"
+        ]
+    },
+    "movement_transportperson_selfmotion(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_selfmotion\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "transporter",
+            "origin"
+        ]
+    },
+    "transaction_transferownership_purchase(Event)": {
+        "DisplayName": "Event Type: transaction_transferownership_purchase\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "beneficiary",
+            "recipient",
+            "place",
+            "artifact"
+        ]
+    },
+    "contact_requestadvise_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_requestadvise_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "contact_commitmentpromiseexpressintent_meet(Event)": {
+        "DisplayName": "Event Type: contact_commitmentpromiseexpressintent_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "movement_transportartifact_bringcarryunload(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_bringcarryunload\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "origin",
+            "transporter",
+            "artifact"
+        ]
+    },
+    "government_spy_spy(Event)": {
+        "DisplayName": "Event Type: government_spy_spy\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "spy",
+            "beneficiary",
+            "observedentity"
+        ]
+    },
+    "government_vote_violationspreventvote(Event)": {
+        "DisplayName": "Event Type: government_vote_violationspreventvote\nParent Event Type: Event",
+        "Arguments": [
+            "ballot",
+            "preventer",
+            "voter",
+            "place",
+            "candidate"
+        ]
+    },
+    "contact_discussion_Na(Event)": {
+        "DisplayName": "Event Type: contact_discussion_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "transaction_transferownership_giftgrantprovideaid(Event)": {
+        "DisplayName": "Event Type: transaction_transferownership_giftgrantprovideaid\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "beneficiary",
+            "recipient",
+            "place",
+            "artifact"
+        ]
+    },
+    "contact_commandorder_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_commandorder_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "conflict_attack_firearmattack(Event)": {
+        "DisplayName": "Event Type: conflict_attack_firearmattack\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "contact_prevarication_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_prevarication_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "conflict_attack_strangling(Event)": {
+        "DisplayName": "Event Type: conflict_attack_strangling\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "contact_requestadvise_Na(Event)": {
+        "DisplayName": "Event Type: contact_requestadvise_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "artifactexistence_damagedestroy_destroy(Event)": {
+        "DisplayName": "Event Type: artifactexistence_damagedestroy_destroy\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "destroyer",
+            "artifact",
+            "instrument"
+        ]
+    },
+    "movement_transportartifact_sendsupplyexport(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_sendsupplyexport\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "origin",
+            "transporter",
+            "artifact"
+        ]
+    },
+    "transaction_transaction_giftgrantprovideaid(Event)": {
+        "DisplayName": "Event Type: transaction_transaction_giftgrantprovideaid\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "giver",
+            "beneficiary",
+            "recipient"
+        ]
+    },
+    "conflict_attack_Na(Event)": {
+        "DisplayName": "Event Type: conflict_attack_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "personnel_endposition_quitretire(Event)": {
+        "DisplayName": "Event Type: personnel_endposition_quitretire\nParent Event Type: Event",
+        "Arguments": [
+            "placeofemployment",
+            "place",
+            "employee"
+        ]
+    },
+    "justice_initiatejudicialprocess_chargeindict(Event)": {
+        "DisplayName": "Event Type: justice_initiatejudicialprocess_chargeindict\nParent Event Type: Event",
+        "Arguments": [
+            "prosecutor",
+            "defendant",
+            "judgecourt",
+            "place",
+            "crime"
+        ]
+    },
+    "life_injure_Na(Event)": {
+        "DisplayName": "Event Type: life_injure_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "injurer",
+            "victim"
+        ]
+    },
+    "contact_requestadvise_meet(Event)": {
+        "DisplayName": "Event Type: contact_requestadvise_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "government_formation_startgpe(Event)": {
+        "DisplayName": "Event Type: government_formation_startgpe\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "founder",
+            "gpe"
+        ]
+    },
+    "transaction_transfermoney_payforservice(Event)": {
+        "DisplayName": "Event Type: transaction_transfermoney_payforservice\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "money",
+            "beneficiary",
+            "recipient",
+            "place"
+        ]
+    },
+    "disaster_accidentcrash_accidentcrash(Event)": {
+        "DisplayName": "Event Type: disaster_accidentcrash_accidentcrash\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "vehicle",
+            "crashobject",
+            "driverpassenger"
+        ]
+    },
+    "contact_threatencoerce_meet(Event)": {
+        "DisplayName": "Event Type: contact_threatencoerce_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "movement_transportperson_grantentryasylum(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_grantentryasylum\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "granter",
+            "origin",
+            "transporter"
+        ]
+    },
+    "contact_publicstatementinperson_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_publicstatementinperson_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "contact_discussion_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_discussion_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "movement_transportperson_disperseseparate(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_disperseseparate\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "vehicle",
+            "transporter",
+            "origin"
+        ]
+    },
+    "movement_transportartifact_Na(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "transporter",
+            "origin",
+            "artifact"
+        ]
+    },
+    "movement_transportperson_Na(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "vehicle",
+            "origin",
+            "transporter"
+        ]
+    },
+    "conflict_demonstrate_Na(Event)": {
+        "DisplayName": "Event Type: conflict_demonstrate_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "demonstrator",
+            "place"
+        ]
+    },
+    "life_injure_illnessdegradationphysical(Event)": {
+        "DisplayName": "Event Type: life_injure_illnessdegradationphysical\nParent Event Type: Event",
+        "Arguments": [
+            "victim"
+        ]
+    },
+    "transaction_transfermoney_purchase(Event)": {
+        "DisplayName": "Event Type: transaction_transfermoney_purchase\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "money",
+            "beneficiary",
+            "recipient",
+            "place"
+        ]
+    },
+    "inspection_sensoryobserve_physicalinvestigateinspect(Event)": {
+        "DisplayName": "Event Type: inspection_sensoryobserve_physicalinvestigateinspect\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "inspector",
+            "inspectedentity"
+        ]
+    },
+    "manufacture_artifact_createmanufacture(Event)": {
+        "DisplayName": "Event Type: manufacture_artifact_createmanufacture\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "manufacturer",
+            "artifact",
+            "instrument"
+        ]
+    },
+    "contact_publicstatementinperson_Na(Event)": {
+        "DisplayName": "Event Type: contact_publicstatementinperson_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "justice_judicialconsequences_convict(Event)": {
+        "DisplayName": "Event Type: justice_judicialconsequences_convict\nParent Event Type: Event",
+        "Arguments": [
+            "crime",
+            "judgecourt",
+            "defendant",
+            "place"
+        ]
+    },
+    "contact_funeralvigil_meet(Event)": {
+        "DisplayName": "Event Type: contact_funeralvigil_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant",
+            "deceased"
+        ]
+    },
+    "government_formation_mergegpe(Event)": {
+        "DisplayName": "Event Type: government_formation_mergegpe\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "transaction_transfermoney_borrowlend(Event)": {
+        "DisplayName": "Event Type: transaction_transfermoney_borrowlend\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "money",
+            "beneficiary",
+            "recipient",
+            "place"
+        ]
+    },
+    "transaction_transaction_Na(Event)": {
+        "DisplayName": "Event Type: transaction_transaction_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant",
+            "beneficiary"
+        ]
+    },
+    "transaction_transferownership_embargosanction(Event)": {
+        "DisplayName": "Event Type: transaction_transferownership_embargosanction\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "preventer",
+            "recipient",
+            "place",
+            "artifact"
+        ]
+    },
+    "contact_threatencoerce_broadcast(Event)": {
+        "DisplayName": "Event Type: contact_threatencoerce_broadcast\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "conflict_attack_bombing(Event)": {
+        "DisplayName": "Event Type: conflict_attack_bombing\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "attacker",
+            "target",
+            "instrument"
+        ]
+    },
+    "artifactexistence_damagedestroy_damage(Event)": {
+        "DisplayName": "Event Type: artifactexistence_damagedestroy_damage\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "artifact",
+            "damager",
+            "instrument"
+        ]
+    },
+    "contact_funeralvigil_Na(Event)": {
+        "DisplayName": "Event Type: contact_funeralvigil_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "deceased",
+            "participant"
+        ]
+    },
+    "contact_prevarication_Na(Event)": {
+        "DisplayName": "Event Type: contact_prevarication_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "government_vote_Na(Event)": {
+        "DisplayName": "Event Type: government_vote_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "result",
+            "ballot",
+            "voter",
+            "place",
+            "candidate"
+        ]
+    },
+    "movement_transportartifact_receiveimport(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_receiveimport\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "origin",
+            "transporter",
+            "artifact"
+        ]
+    },
+    "conflict_attack_invade(Event)": {
+        "DisplayName": "Event Type: conflict_attack_invade\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "contact_collaborate_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_collaborate_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "conflict_attack_biologicalchemicalpoisonattack(Event)": {
+        "DisplayName": "Event Type: conflict_attack_biologicalchemicalpoisonattack\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "life_die_nonviolentdeath(Event)": {
+        "DisplayName": "Event Type: life_die_nonviolentdeath\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "victim"
+        ]
+    },
+    "contact_collaborate_meet(Event)": {
+        "DisplayName": "Event Type: contact_collaborate_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "personnel_startposition_Na(Event)": {
+        "DisplayName": "Event Type: personnel_startposition_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "placeofemployment",
+            "place",
+            "employee"
+        ]
+    },
+    "contact_negotiate_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_negotiate_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "participant"
+        ]
+    },
+    "conflict_yield_surrender(Event)": {
+        "DisplayName": "Event Type: conflict_yield_surrender\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "surrenderer",
+            "recipient"
+        ]
+    },
+    "government_agreements_rejectnullifyagreementcontractceasefire(Event)": {
+        "DisplayName": "Event Type: government_agreements_rejectnullifyagreementcontractceasefire\nParent Event Type: Event",
+        "Arguments": [
+            "otherparticipant",
+            "place",
+            "rejecternullifier"
+        ]
+    },
+    "transaction_transferownership_borrowlend(Event)": {
+        "DisplayName": "Event Type: transaction_transferownership_borrowlend\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "beneficiary",
+            "recipient",
+            "place",
+            "artifact"
+        ]
+    },
+    "movement_transportartifact_preventexit(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_preventexit\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "preventer",
+            "origin",
+            "transporter",
+            "artifact"
+        ]
+    },
+    "conflict_demonstrate_marchprotestpoliticalgathering(Event)": {
+        "DisplayName": "Event Type: conflict_demonstrate_marchprotestpoliticalgathering\nParent Event Type: Event",
+        "Arguments": [
+            "demonstrator",
+            "place"
+        ]
+    },
+    "movement_transportartifact_grantentry(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_grantentry\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "artifact",
+            "origin",
+            "transporter"
+        ]
+    },
+    "government_vote_castvote(Event)": {
+        "DisplayName": "Event Type: government_vote_castvote\nParent Event Type: Event",
+        "Arguments": [
+            "result",
+            "ballot",
+            "voter",
+            "place",
+            "candidate"
+        ]
+    },
+    "contact_commandorder_meet(Event)": {
+        "DisplayName": "Event Type: contact_commandorder_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "contact_commandorder_Na(Event)": {
+        "DisplayName": "Event Type: contact_commandorder_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "movement_transportperson_evacuationrescue(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_evacuationrescue\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "vehicle",
+            "transporter",
+            "origin"
+        ]
+    },
+    "movement_transportartifact_smuggleextract(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_smuggleextract\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "vehicle",
+            "transporter",
+            "origin",
+            "artifact"
+        ]
+    },
+    "contact_prevarication_meet(Event)": {
+        "DisplayName": "Event Type: contact_prevarication_meet\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "artifactexistence_damagedestroy_Na(Event)": {
+        "DisplayName": "Event Type: artifactexistence_damagedestroy_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "artifact",
+            "damagerdestroyer"
+        ]
+    },
+    "manufacture_artifact_Na(Event)": {
+        "DisplayName": "Event Type: manufacture_artifact_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "manufacturer",
+            "artifact",
+            "instrument"
+        ]
+    },
+    "contact_threatencoerce_correspondence(Event)": {
+        "DisplayName": "Event Type: contact_threatencoerce_correspondence\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "inspection_sensoryobserve_inspectpeopleorganization(Event)": {
+        "DisplayName": "Event Type: inspection_sensoryobserve_inspectpeopleorganization\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "inspector",
+            "inspectedentity"
+        ]
+    },
+    "movement_transportperson_bringcarryunload(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_bringcarryunload\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "passenger",
+            "vehicle",
+            "origin",
+            "transporter"
+        ]
+    },
+    "movement_transportperson_fall(Event)": {
+        "DisplayName": "Event Type: movement_transportperson_fall\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "origin",
+            "passenger"
+        ]
+    },
+    "manufacture_artifact_createintellectualproperty(Event)": {
+        "DisplayName": "Event Type: manufacture_artifact_createintellectualproperty\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "manufacturer",
+            "artifact",
+            "instrument"
+        ]
+    },
+    "contact_mediastatement_Na(Event)": {
+        "DisplayName": "Event Type: contact_mediastatement_ Na\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "communicator",
+            "recipient"
+        ]
+    },
+    "movement_transportartifact_fall(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_fall\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "artifact",
+            "origin"
+        ]
+    },
+    "movement_transportartifact_prevententry(Event)": {
+        "DisplayName": "Event Type: movement_transportartifact_prevententry\nParent Event Type: Event",
+        "Arguments": [
+            "destination",
+            "preventer",
+            "origin",
+            "transporter",
+            "artifact"
+        ]
+    },
+    "conflict_attack_setfire(Event)": {
+        "DisplayName": "Event Type: conflict_attack_setfire\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    },
+    "inspection_sensoryobserve_monitorelection(Event)": {
+        "DisplayName": "Event Type: inspection_sensoryobserve_monitorelection\nParent Event Type: Event",
+        "Arguments": [
+            "monitor",
+            "place",
+            "monitoredentity"
+        ]
+    },
+    "conflict_attack_hanging(Event)": {
+        "DisplayName": "Event Type: conflict_attack_hanging\nParent Event Type: Event",
+        "Arguments": [
+            "place",
+            "instrument",
+            "target",
+            "attacker"
+        ]
+    }
+}

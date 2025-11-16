@@ -1,0 +1,35 @@
+{
+    "EndPosition(PersonnelEvent)": {
+        "description": [
+            "The EndPosition event, a subtype of PersonnelEvent, refers to the termination or conclusion of a person's role or position within an organization or entity. The event can be triggered by words or phrases indicating the end of a position, such as 'quit', 'resigned', 'stepped down', 'removed', 'left', 'ending', 'former', 'previously', and 'formerly'. The event can be triggered by both voluntary and involuntary terminations.",
+            "EndPosition is an event under the PersonnelEvent category that captures instances where an individual ceases to hold a particular position or role. This event can be identified by triggers like 'quit', 'resigned', 'stepped down', 'removed', 'left', 'ending', 'former', 'previously', and 'formerly'. It includes both voluntary departures and forced removals.",
+            "The EndPosition event, classified under PersonnelEvent, denotes the cessation of an individual's role or job within an organization. Triggers for this event include terms such as 'quit', 'resigned', 'stepped down', 'removed', 'left', 'ending', 'former', 'previously', and 'formerly'. It encompasses both resignations and dismissals.",
+            "EndPosition, a child event type of PersonnelEvent, signifies the end of a person's employment or role in an organization. This event is triggered by words like 'quit', 'resigned', 'stepped down', 'removed', 'left', 'ending', 'former', 'previously', and 'formerly'. It covers both voluntary exits and involuntary terminations.",
+            "The EndPosition event, part of the PersonnelEvent category, captures the termination of a person's role or position within an entity. Triggers for this event include 'quit', 'resigned', 'stepped down', 'removed', 'left', 'ending', 'former', 'previously', and 'formerly'. It includes both voluntary resignations and forced removals."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "entity": [
+            "The 'entity' argument refers to the organization, company, or institution from which the person is departing. Examples are 'Vivendi Universal Entertainment', 'Barclays Bank', 'Department of Trade and Industry'. This argument helps to identify the specific entity associated with the end of the position.",
+            "In the context of the EndPosition event, 'entity' denotes the organization or institution that the person is leaving. Examples include 'Vivendi Universal Entertainment', 'Barclays Bank', 'Department of Trade and Industry'. This argument specifies the entity related to the termination of the role.",
+            "The 'entity' argument in an EndPosition event identifies the organization or company from which the individual is stepping down. Examples are 'Vivendi Universal Entertainment', 'Barclays Bank', 'Department of Trade and Industry'. This argument is crucial for pinpointing the entity involved in the event.",
+            "For the EndPosition event, 'entity' refers to the organization or institution that the person is exiting. Examples include 'Vivendi Universal Entertainment', 'Barclays Bank', 'Department of Trade and Industry'. This argument provides context about the entity associated with the end of the position.",
+            "The 'entity' argument in the EndPosition event specifies the organization or company from which the person is departing. Examples are 'Vivendi Universal Entertainment', 'Barclays Bank', 'Department of Trade and Industry'. This argument is essential for identifying the entity involved in the termination."
+        ],
+        "person": [
+            "The 'person' argument refers to the individual whose position or role is ending. Examples are 'Barry Diller', 'Jean-Marie Messier', 'Callum McCarthy', 'Howard Davies', 'he', 'his'. This argument identifies the person associated with the EndPosition event.",
+            "In the EndPosition event, 'person' denotes the individual who is leaving their role or position. Examples include 'Barry Diller', 'Jean-Marie Messier', 'Callum McCarthy', 'Howard Davies', 'he', 'his'. This argument specifies the person involved in the event.",
+            "The 'person' argument in an EndPosition event identifies the individual whose employment or role is terminating. Examples are 'Barry Diller', 'Jean-Marie Messier', 'Callum McCarthy', 'Howard Davies', 'he', 'his'. This argument is crucial for pinpointing the person associated with the event.",
+            "For the EndPosition event, 'person' refers to the individual who is stepping down or being removed from their position. Examples include 'Barry Diller', 'Jean-Marie Messier', 'Callum McCarthy', 'Howard Davies', 'he', 'his'. This argument provides context about the person involved in the termination.",
+            "The 'person' argument in the EndPosition event specifies the individual whose role or position is ending. Examples are 'Barry Diller', 'Jean-Marie Messier', 'Callum McCarthy', 'Howard Davies', 'he', 'his'. This argument is essential for identifying the person involved in the event."
+        ],
+        "place": [
+            "The 'place' argument refers to the location associated with the end of the position. Examples are 'Chinese', 'London'. This argument helps to identify the geographical context related to the EndPosition event.",
+            "In the context of the EndPosition event, 'place' denotes the location where the person is leaving their role. Examples include 'Chinese', 'London'. This argument specifies the place associated with the termination of the role.",
+            "The 'place' argument in an EndPosition event identifies the geographical location related to the individual's departure. Examples are 'Chinese', 'London'. This argument is crucial for pinpointing the place involved in the event.",
+            "For the EndPosition event, 'place' refers to the location associated with the person's exit from their position. Examples include 'Chinese', 'London'. This argument provides context about the place related to the end of the position.",
+            "The 'place' argument in the EndPosition event specifies the location where the person is stepping down or being removed. Examples are 'Chinese', 'London'. This argument is essential for identifying the place involved in the termination."
+        ]
+    }
+}

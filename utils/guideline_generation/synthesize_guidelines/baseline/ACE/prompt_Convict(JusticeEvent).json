@@ -1,0 +1,35 @@
+{
+    "Convict(JusticeEvent)": {
+        "description": [
+            "The Convict event refers to the formal declaration by a legal authority that someone is guilty of a criminal offense. The event can be triggered by words such as 'convicted', 'conviction', 'guilty', etc. This event is a subset of the broader JusticeEvent category. The event can be triggered by various terms related to the legal process of finding someone guilty, and it is important to identify the context in which these terms are used to ensure accurate annotation.",
+            "The Convict event involves the legal determination that an individual or group has committed a crime. This event is typically indicated by terms like 'convicted', 'conviction', or 'found guilty'. It is crucial to distinguish between the actual legal finding and other uses of these terms in different contexts. The event can be triggered by legal terms indicating a guilty verdict, and annotators should be careful to differentiate between legal and non-legal contexts.",
+            "A Convict event occurs when a legal body, such as a court or jury, declares someone guilty of a crime. Triggers for this event include 'convicted', 'conviction', and 'guilty'. This event is part of the JusticeEvent category and requires careful consideration of the legal context to ensure proper annotation. The event can be triggered by legal declarations of guilt, and it is important to focus on the legal context to avoid misannotation.",
+            "The Convict event is defined as the official finding of guilt by a legal authority. Common triggers include 'convicted', 'conviction', and 'guilty'. This event falls under the JusticeEvent category and involves identifying the legal context in which these terms are used. The event can be triggered by legal terms indicating a guilty verdict, and annotators should ensure that the context is indeed legal to avoid errors.",
+            "In the context of event extraction, a Convict event signifies the legal determination of guilt. Triggers for this event include 'convicted', 'conviction', and 'guilty'. This event is a subset of JusticeEvent and requires attention to the legal context to ensure accurate identification. The event can be triggered by legal terms indicating a guilty verdict, and it is essential to focus on the legal context to ensure proper annotation."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The adjudicator is the legal authority or body that declares the defendant guilty. Examples are 'jury', 'judge', 'court'. This argument identifies the entity responsible for the conviction. It is important to distinguish the adjudicator from other legal entities mentioned in the text.",
+            "The adjudicator refers to the person or group that makes the legal decision of guilt. Examples include 'jury', 'judge', 'court'. This argument specifies who or what entity is responsible for the conviction. Annotators should ensure that the adjudicator is the entity making the legal decision.",
+            "In a Convict event, the adjudicator is the authority that issues the guilty verdict. Examples are 'jury', 'judge', 'court'. This argument identifies the decision-making body. It is crucial to correctly identify the adjudicator to ensure accurate event annotation.",
+            "The adjudicator is the entity that formally declares the defendant guilty. Examples include 'jury', 'judge', 'court'. This argument specifies the legal authority responsible for the conviction. Annotators should focus on identifying the correct adjudicator in the context of the event.",
+            "The adjudicator in a Convict event is the legal body or individual that determines guilt. Examples are 'jury', 'judge', 'court'. This argument identifies who is responsible for the conviction. It is important to accurately identify the adjudicator to ensure proper annotation."
+        ],
+        "defendant": [
+            "The defendant is the individual or group that is declared guilty in the Convict event. Examples are 'Alfred Taubman', 'Five', 'those', 'offenders', 'men'. This argument identifies the party being convicted. Annotators should ensure that the defendant is the entity being found guilty.",
+            "In a Convict event, the defendant is the person or group found guilty. Examples include 'Alfred Taubman', 'Five', 'those', 'offenders', 'men'. This argument specifies who is being convicted. It is crucial to correctly identify the defendant to ensure accurate event annotation.",
+            "The defendant refers to the party that is convicted in the Convict event. Examples are 'Alfred Taubman', 'Five', 'those', 'offenders', 'men'. This argument identifies the individual or group being found guilty. Annotators should focus on accurately identifying the defendant in the context of the event.",
+            "The defendant in a Convict event is the person or group declared guilty. Examples include 'Alfred Taubman', 'Five', 'those', 'offenders', 'men'. This argument specifies who is being convicted. It is important to correctly identify the defendant to ensure proper annotation.",
+            "The defendant is the entity that is found guilty in the Convict event. Examples are 'Alfred Taubman', 'Five', 'those', 'offenders', 'men'. This argument identifies the party being convicted. Annotators should ensure that the defendant is accurately identified in the context of the event."
+        ],
+        "place": [
+            "The place is the location where the conviction occurs. Examples are 'Manhattan', 'Indonesia', 'court', 'city'. This argument identifies the geographical or institutional location of the conviction. Annotators should ensure that the place is correctly identified in the context of the event.",
+            "In a Convict event, the place refers to the location of the conviction. Examples include 'Manhattan', 'Indonesia', 'court', 'city'. This argument specifies where the conviction takes place. It is crucial to correctly identify the place to ensure accurate event annotation.",
+            "The place in a Convict event is the location where the guilty verdict is issued. Examples are 'Manhattan', 'Indonesia', 'court', 'city'. This argument identifies the setting of the conviction. Annotators should focus on accurately identifying the place in the context of the event.",
+            "The place refers to the location of the conviction in a Convict event. Examples include 'Manhattan', 'Indonesia', 'court', 'city'. This argument specifies the geographical or institutional setting. It is important to correctly identify the place to ensure proper annotation.",
+            "The place is the location where the conviction is declared in a Convict event. Examples are 'Manhattan', 'Indonesia', 'court', 'city'. This argument identifies where the conviction occurs. Annotators should ensure that the place is accurately identified in the context of the event."
+        ]
+    }
+}

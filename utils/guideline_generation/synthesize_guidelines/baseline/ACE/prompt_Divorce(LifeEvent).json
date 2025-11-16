@@ -1,0 +1,28 @@
+{
+    "Divorce(LifeEvent)": {
+        "description": [
+            "A Divorce event represents the legal dissolution of a marriage between two individuals. The event can be triggered by terms such as 'divorce', 'filed for divorce', 'sued for divorce', 'divorce settlement', and similar phrases. The event can occur in various contexts, including legal documents, personal narratives, and news reports. Edge cases include mentions of divorce in hypothetical scenarios or historical references, which should be carefully considered to ensure they represent actual events.",
+            "The Divorce event signifies the termination of a marital relationship through legal proceedings. It can be identified by triggers like 'divorce', 'divorce case', 'divorce settlement', and 'filed for divorce'. This event is often found in legal contexts, news articles, and personal stories. Annotators should be cautious of ambiguous cases where the term 'divorce' might be used metaphorically or in a non-legal context.",
+            "Divorce is an event that marks the end of a marriage through legal means. Triggers for this event include 'divorce', 'divorce proceedings', 'divorce papers', and 'divorce court'. This event is typically mentioned in legal documents, news stories, and personal accounts. Annotators should distinguish between actual divorce events and discussions about divorce in general or hypothetical situations.",
+            "A Divorce event occurs when a marriage is legally dissolved. Common triggers include 'divorce', 'divorce settlement', 'filed for divorce', and 'divorce case'. This event is usually found in legal contexts, media reports, and personal narratives. Special attention should be given to ensure that the event refers to an actual legal process rather than a figurative or hypothetical use of the term.",
+            "The Divorce event represents the legal ending of a marriage. It can be triggered by words and phrases such as 'divorce', 'divorce settlement', 'filed for divorce', and 'divorce proceedings'. This event is often seen in legal documents, news articles, and personal stories. Annotators should be aware of edge cases where the term 'divorce' might be used in a non-literal sense or in a hypothetical context."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "person": [
+            "The 'person' argument refers to the individuals involved in the divorce. Examples are 'Hunter', 'star', 'Michael Crichton', 'Anne-Marie', 'Rachel Hunter', 'husband', 'wife', 'Welches'. Annotators should ensure that the identified spans refer to the actual parties in the divorce and not to other individuals mentioned in the context.",
+            "The 'person' argument identifies the people who are part of the divorce event. Examples include 'Hunter', 'star', 'Michael Crichton', 'Anne-Marie', 'Rachel Hunter', 'husband', 'wife', 'Welches'. Care should be taken to distinguish between the divorcing individuals and other people mentioned in the text.",
+            "In a Divorce event, the 'person' argument denotes the individuals getting divorced. Examples are 'Hunter', 'star', 'Michael Crichton', 'Anne-Marie', 'Rachel Hunter', 'husband', 'wife', 'Welches'. Annotators should verify that the spans selected are indeed the parties involved in the divorce.",
+            "The 'person' argument in a Divorce event refers to the individuals whose marriage is being dissolved. Examples include 'Hunter', 'star', 'Michael Crichton', 'Anne-Marie', 'Rachel Hunter', 'husband', 'wife', 'Welches'. It is important to ensure that the spans correspond to the actual divorcing parties.",
+            "For the Divorce event, the 'person' argument identifies the people undergoing the divorce. Examples are 'Hunter', 'star', 'Michael Crichton', 'Anne-Marie', 'Rachel Hunter', 'husband', 'wife', 'Welches'. Annotators should confirm that the spans accurately represent the individuals involved in the divorce."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the divorce proceedings are taking place. Examples are 'Los Angeles'. Annotators should ensure that the identified spans refer to the actual place of the divorce proceedings and not to other locations mentioned in the context.",
+            "The 'place' argument identifies the location associated with the divorce event. Examples include 'Los Angeles'. Care should be taken to distinguish between the place of the divorce proceedings and other locations mentioned in the text.",
+            "In a Divorce event, the 'place' argument denotes the location where the divorce is being processed. Examples are 'Los Angeles'. Annotators should verify that the spans selected are indeed the place of the divorce proceedings.",
+            "The 'place' argument in a Divorce event refers to the location where the legal dissolution of the marriage is occurring. Examples include 'Los Angeles'. It is important to ensure that the spans correspond to the actual place of the divorce proceedings.",
+            "For the Divorce event, the 'place' argument identifies the location where the divorce is taking place. Examples are 'Los Angeles'. Annotators should confirm that the spans accurately represent the place of the divorce proceedings."
+        ]
+    }
+}

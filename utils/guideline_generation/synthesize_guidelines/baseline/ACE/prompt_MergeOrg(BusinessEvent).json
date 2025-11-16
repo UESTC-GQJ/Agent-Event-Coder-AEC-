@@ -1,0 +1,21 @@
+{
+    "MergeOrg(BusinessEvent)": {
+        "description": [
+            "The MergeOrg event refers to the merging of two or more organizations into a single entity. This event is a subtype of BusinessEvent and typically involves the consolidation of resources, operations, and management of the involved organizations. The event can be triggered by terms such as 'merged', 'merger', 'tying the knot', 'create', and similar expressions indicating the unification of organizations.",
+            "MergeOrg is an event that captures the process of combining two or more organizations into one. This event falls under the broader category of BusinessEvent and is characterized by the integration of the entities involved. The event can be triggered by phrases like 'merger', 'merged', 'tying the knot', 'create', and other similar terms that denote the joining of organizations.",
+            "The MergeOrg event represents the action of merging multiple organizations into a single entity. As a child event type of BusinessEvent, it involves the amalgamation of the organizations' assets, operations, and management. The event can be triggered by words such as 'merger', 'merged', 'tying the knot', 'create', and other related terms indicating the combination of organizations.",
+            "MergeOrg is an event type that denotes the merging of two or more organizations into one unified entity. This event is a subset of BusinessEvent and involves the consolidation of the organizations' resources and operations. The event can be triggered by expressions like 'merger', 'merged', 'tying the knot', 'create', and similar terms that suggest the unification of organizations.",
+            "The MergeOrg event captures the process of merging organizations into a single entity. It is a specific type of BusinessEvent that involves the integration of the involved organizations' resources, operations, and management. The event can be triggered by terms such as 'merger', 'merged', 'tying the knot', 'create', and other phrases that indicate the merging of organizations."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "org": [
+            "The 'org' argument refers to the organizations involved in the merging process. This argument captures the names or descriptions of the entities that are being combined. Examples are 'Department of Minority Business Enterprise', 'Department of Business Assistance', 'organizations', 'Warner Communications', 'industries', 'business', 'startups', 'competitors', 'Oracle', 'Peoplesoft', 'sides', 'company'.",
+            "The 'org' argument identifies the organizations that are part of the merger. It includes the names or descriptions of the entities being unified. Examples are 'Department of Minority Business Enterprise', 'Department of Business Assistance', 'organizations', 'Warner Communications', 'industries', 'business', 'startups', 'competitors', 'Oracle', 'Peoplesoft', 'sides', 'company'.",
+            "The 'org' argument captures the entities involved in the MergeOrg event. It includes the names or descriptions of the organizations that are merging. Examples are 'Department of Minority Business Enterprise', 'Department of Business Assistance', 'organizations', 'Warner Communications', 'industries', 'business', 'startups', 'competitors', 'Oracle', 'Peoplesoft', 'sides', 'company'.",
+            "The 'org' argument refers to the organizations that are merging in the MergeOrg event. This argument includes the names or descriptions of the entities being combined. Examples are 'Department of Minority Business Enterprise', 'Department of Business Assistance', 'organizations', 'Warner Communications', 'industries', 'business', 'startups', 'competitors', 'Oracle', 'Peoplesoft', 'sides', 'company'.",
+            "The 'org' argument identifies the organizations involved in the MergeOrg event. It captures the names or descriptions of the entities that are being unified. Examples are 'Department of Minority Business Enterprise', 'Department of Business Assistance', 'organizations', 'Warner Communications', 'industries', 'business', 'startups', 'competitors', 'Oracle', 'Peoplesoft', 'sides', 'company'."
+        ]
+    }
+}

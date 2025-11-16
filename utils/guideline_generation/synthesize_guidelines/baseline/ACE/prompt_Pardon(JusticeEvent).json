@@ -1,0 +1,35 @@
+{
+    "Pardon(JusticeEvent)": {
+        "description": [
+            "A Pardon event refers to an official act by an adjudicator to forgive or excuse a defendant from a legal penalty or punishment. The event can be triggered by verbs such as 'pardon', 'clear', 'forgive', 'absolve', and 'exonerate'. The event can occur in various contexts, including legal, political, and social settings.",
+            "The Pardon event involves an adjudicator officially excusing a defendant from a legal consequence. This event can be identified by triggers like 'pardon', 'clear', 'forgive', 'absolve', and 'exonerate'. It is important to note that the context of the event is typically legal or judicial.",
+            "In a Pardon event, an adjudicator grants forgiveness to a defendant, thereby removing or reducing their legal penalties. Triggers for this event include 'pardon', 'clear', 'forgive', 'absolve', and 'exonerate'. The event is often found in legal documents, news reports, and official statements.",
+            "A Pardon event is characterized by an adjudicator's decision to forgive a defendant, nullifying their legal penalties. Common triggers are 'pardon', 'clear', 'forgive', 'absolve', and 'exonerate'. This event is usually associated with legal and judicial contexts.",
+            "The Pardon event involves an adjudicator officially forgiving a defendant, which results in the removal or reduction of legal penalties. Triggers for this event include 'pardon', 'clear', 'forgive', 'absolve', and 'exonerate'. It is typically found in legal, political, and social contexts."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The adjudicator is the person or authority who grants the pardon. Examples are 'King Abdullah II', 'court', 'board of pardon and paroles'. The adjudicator can be a judge, a governmental body, or any official entity with the power to pardon.",
+            "In a Pardon event, the adjudicator is the entity that issues the pardon. Examples include 'President', 'Governor', 'Supreme Court'. The adjudicator is typically a person or body with legal authority.",
+            "The adjudicator refers to the individual or group that has the authority to pardon the defendant. Examples are 'President', 'Governor', 'court'. The adjudicator is usually a high-ranking official or a judicial body.",
+            "An adjudicator in a Pardon event is the authority responsible for granting the pardon. Examples include 'King', 'court', 'board of pardon and paroles'. The adjudicator is often a person or institution with legal or political power.",
+            "The adjudicator is the official or body that grants the pardon in a Pardon event. Examples are 'President', 'Governor', 'judicial panel'. The adjudicator is typically someone with the legal authority to forgive or excuse the defendant."
+        ],
+        "defendant": [
+            "The defendant is the individual who is being pardoned. Examples are 'legislator', 'their'. The defendant is the person who was previously subject to legal penalties or punishment.",
+            "In a Pardon event, the defendant is the person receiving the pardon. Examples include 'prisoner', 'accused', 'convict'. The defendant is the individual who benefits from the adjudicator's decision.",
+            "The defendant refers to the person who is forgiven or excused in a Pardon event. Examples are 'criminal', 'offender', 'accused'. The defendant is the one who is relieved from legal consequences.",
+            "A defendant in a Pardon event is the individual who is granted forgiveness. Examples include 'convict', 'prisoner', 'accused'. The defendant is the person whose legal penalties are being nullified.",
+            "The defendant is the person who is pardoned in a Pardon event. Examples are 'offender', 'accused', 'convict'. The defendant is the individual who is excused from legal punishment by the adjudicator."
+        ],
+        "place": [
+            "The place is the location where the pardon event occurs. Examples are 'Jordan'. The place can be a country, state, city, or any specific location relevant to the event.",
+            "In a Pardon event, the place refers to the geographical location associated with the event. Examples include 'United States', 'New York', 'courtroom'. The place is where the adjudicator's decision is made or announced.",
+            "The place in a Pardon event is the location where the pardon is granted. Examples are 'Washington D.C.', 'Supreme Court', 'Governor's office'. The place is typically a legal or governmental setting.",
+            "A place in a Pardon event refers to the specific location tied to the event. Examples include 'London', 'parliament', 'court'. The place is where the adjudicator's decision takes place or is declared.",
+            "The place is the location relevant to the Pardon event. Examples are 'France', 'state capital', 'judicial building'. The place is where the pardon is issued or recognized."
+        ]
+    }
+}

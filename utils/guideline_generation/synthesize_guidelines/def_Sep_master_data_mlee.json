@@ -1,0 +1,203 @@
+{
+    "Positive_regulation(Event)": {
+        "DisplayName": "Event Type: Positive_regulation\nParent Event Type: Event",
+        "Arguments": [
+            "cause",
+            "theme",
+            "theme2",
+            "csite",
+            "site"
+        ]
+    },
+    "Blood_vessel_development(Event)": {
+        "DisplayName": "Event Type: Blood_vessel_development\nParent Event Type: Event",
+        "Arguments": [
+            "atloc",
+            "theme",
+            "fromloc"
+        ]
+    },
+    "Growth(Event)": {
+        "DisplayName": "Event Type: Growth\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Regulation(Event)": {
+        "DisplayName": "Event Type: Regulation\nParent Event Type: Event",
+        "Arguments": [
+            "csite",
+            "cause",
+            "theme",
+            "site"
+        ]
+    },
+    "Localization(Event)": {
+        "DisplayName": "Event Type: Localization\nParent Event Type: Event",
+        "Arguments": [
+            "atloc",
+            "theme",
+            "fromloc",
+            "toloc"
+        ]
+    },
+    "Gene_expression(Event)": {
+        "DisplayName": "Event Type: Gene_expression\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Planned_process(Event)": {
+        "DisplayName": "Event Type: Planned_process\nParent Event Type: Event",
+        "Arguments": [
+            "instrument",
+            "theme",
+            "instrument2",
+            "theme2"
+        ]
+    },
+    "Cell_proliferation(Event)": {
+        "DisplayName": "Event Type: Cell_proliferation\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Negative_regulation(Event)": {
+        "DisplayName": "Event Type: Negative_regulation\nParent Event Type: Event",
+        "Arguments": [
+            "csite",
+            "cause",
+            "theme",
+            "site"
+        ]
+    },
+    "Transcription(Event)": {
+        "DisplayName": "Event Type: Transcription\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Development(Event)": {
+        "DisplayName": "Event Type: Development\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Synthesis(Event)": {
+        "DisplayName": "Event Type: Synthesis\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Remodeling(Event)": {
+        "DisplayName": "Event Type: Remodeling\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Binding(Event)": {
+        "DisplayName": "Event Type: Binding\nParent Event Type: Event",
+        "Arguments": [
+            "site",
+            "theme",
+            "theme2"
+        ]
+    },
+    "Death(Event)": {
+        "DisplayName": "Event Type: Death\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Catabolism(Event)": {
+        "DisplayName": "Event Type: Catabolism\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Phosphorylation(Event)": {
+        "DisplayName": "Event Type: Phosphorylation\nParent Event Type: Event",
+        "Arguments": [
+            "site",
+            "theme"
+        ]
+    },
+    "Breakdown(Event)": {
+        "DisplayName": "Event Type: Breakdown\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "None": {},
+    "Pathway(Event)": {
+        "DisplayName": "Event Type: Pathway\nParent Event Type: Event",
+        "Arguments": [
+            "participant",
+            "participant3",
+            "participant2",
+            "participant4"
+        ]
+    },
+    "Reproduction(Event)": {
+        "DisplayName": "Event Type: Reproduction\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Protein_processing(Event)": {
+        "DisplayName": "Event Type: Protein_processing\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Metabolism(Event)": {
+        "DisplayName": "Event Type: Metabolism\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Translation(Event)": {
+        "DisplayName": "Event Type: Translation\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Cell_division(Event)": {
+        "DisplayName": "Event Type: Cell_division\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Dissociation(Event)": {
+        "DisplayName": "Event Type: Dissociation\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Dna_methylation(Event)": {
+        "DisplayName": "Event Type: Dna_methylation\nParent Event Type: Event",
+        "Arguments": [
+            "site",
+            "theme"
+        ]
+    },
+    "Acetylation(Event)": {
+        "DisplayName": "Event Type: Acetylation\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    },
+    "Dephosphorylation(Event)": {
+        "DisplayName": "Event Type: Dephosphorylation\nParent Event Type: Event",
+        "Arguments": [
+            "site",
+            "theme"
+        ]
+    },
+    "Ubiquitination(Event)": {
+        "DisplayName": "Event Type: Ubiquitination\nParent Event Type: Event",
+        "Arguments": [
+            "theme"
+        ]
+    }
+}

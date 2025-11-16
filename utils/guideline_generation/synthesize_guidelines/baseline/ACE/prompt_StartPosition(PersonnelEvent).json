@@ -1,0 +1,35 @@
+{
+    "StartPosition(PersonnelEvent)": {
+        "description": [
+            "The StartPosition event, a subtype of PersonnelEvent, refers to the commencement of a new role or position by an individual. The event can be triggered by verbs such as 'replace', 'took on', 'begins', 'become', 'took office', 'appointed', 'becoming', and 'became'. This event captures the transition of a person into a new job or role, often within an organization or at a specific location. Edge cases include temporary roles or provisional appointments, which should still be annotated as StartPosition events.",
+            "The StartPosition event, under the PersonnelEvent category, signifies the initiation of a new job or role by a person. Triggers for this event include words like 'replace', 'took on', 'begins', 'become', 'took office', 'appointed', 'becoming', and 'became'. This event is marked by the start of a new professional or official position. Temporary or acting roles are also included in this event type.",
+            "StartPosition, a child event of PersonnelEvent, denotes the beginning of a new position or role by an individual. Common triggers are 'replace', 'took on', 'begins', 'become', 'took office', 'appointed', 'becoming', and 'became'. This event captures the moment a person starts a new job or role, regardless of whether the position is permanent or temporary.",
+            "The StartPosition event, classified under PersonnelEvent, involves an individual starting a new role or position. Triggers include 'replace', 'took on', 'begins', 'become', 'took office', 'appointed', 'becoming', and 'became'. This event type includes both permanent and temporary roles, capturing the transition into a new job or position.",
+            "As a subtype of PersonnelEvent, the StartPosition event marks the commencement of a new role or position by a person. It can be triggered by verbs such as 'replace', 'took on', 'begins', 'become', 'took office', 'appointed', 'becoming', and 'became'. This event encompasses the start of any new job or role, including temporary or provisional appointments."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "entity": [
+            "The 'entity' argument refers to the organization, company, or specific role that the person is starting. Examples are 'unit', 'operations', 'London School of Economics', 'Palestinian', 'Israel', 'Beijing', 'China', 'parliament'. This argument captures the specific entity or role associated with the new position.",
+            "The 'entity' argument denotes the specific organization, company, or role that the individual is beginning. Examples include 'unit', 'operations', 'London School of Economics', 'Palestinian', 'Israel', 'Beijing', 'China', 'parliament'. This argument identifies the entity or role linked to the new position.",
+            "In the context of StartPosition, the 'entity' argument specifies the organization, company, or role that the person is starting. Examples are 'unit', 'operations', 'London School of Economics', 'Palestinian', 'Israel', 'Beijing', 'China', 'parliament'. This argument highlights the entity or role associated with the new job.",
+            "The 'entity' argument in a StartPosition event refers to the organization, company, or specific role that the person is taking on. Examples include 'unit', 'operations', 'London School of Economics', 'Palestinian', 'Israel', 'Beijing', 'China', 'parliament'. This argument captures the entity or role related to the new position.",
+            "For the StartPosition event, the 'entity' argument identifies the organization, company, or role that the individual is starting. Examples are 'unit', 'operations', 'London School of Economics', 'Palestinian', 'Israel', 'Beijing', 'China', 'parliament'. This argument specifies the entity or role associated with the new job."
+        ],
+        "person": [
+            "The 'person' argument refers to the individual who is starting the new position. Examples are 'Jean-Rene Fourtou', 'Diller', 'Callum McCarthy', 'Davies', 'Roh Moo-Hyun', 'minister', 'he', 'Hu Jintao', 'I'. This argument captures the name or identifier of the person taking on the new role.",
+            "The 'person' argument denotes the individual commencing the new role or position. Examples include 'Jean-Rene Fourtou', 'Diller', 'Callum McCarthy', 'Davies', 'Roh Moo-Hyun', 'minister', 'he', 'Hu Jintao', 'I'. This argument identifies the person starting the new job.",
+            "In the StartPosition event, the 'person' argument specifies the individual who is beginning the new position. Examples are 'Jean-Rene Fourtou', 'Diller', 'Callum McCarthy', 'Davies', 'Roh Moo-Hyun', 'minister', 'he', 'Hu Jintao', 'I'. This argument highlights the person taking on the new role.",
+            "The 'person' argument in a StartPosition event refers to the individual starting the new job or role. Examples include 'Jean-Rene Fourtou', 'Diller', 'Callum McCarthy', 'Davies', 'Roh Moo-Hyun', 'minister', 'he', 'Hu Jintao', 'I'. This argument captures the name or identifier of the person assuming the new position.",
+            "For the StartPosition event, the 'person' argument identifies the individual who is commencing the new role. Examples are 'Jean-Rene Fourtou', 'Diller', 'Callum McCarthy', 'Davies', 'Roh Moo-Hyun', 'minister', 'he', 'Hu Jintao', 'I'. This argument specifies the person starting the new job."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the new position is being started. Examples are 'Paris', 'Serbia and Montenegro'. This argument captures the geographical location associated with the new role.",
+            "The 'place' argument denotes the location where the individual is beginning the new role. Examples include 'Paris', 'Serbia and Montenegro'. This argument identifies the place linked to the new position.",
+            "In the context of StartPosition, the 'place' argument specifies the location where the new job or role is being started. Examples are 'Paris', 'Serbia and Montenegro'. This argument highlights the geographical location associated with the new position.",
+            "The 'place' argument in a StartPosition event refers to the location where the new role is being commenced. Examples include 'Paris', 'Serbia and Montenegro'. This argument captures the place related to the new job.",
+            "For the StartPosition event, the 'place' argument identifies the location where the individual is starting the new position. Examples are 'Paris', 'Serbia and Montenegro'. This argument specifies the geographical location associated with the new role."
+        ]
+    }
+}

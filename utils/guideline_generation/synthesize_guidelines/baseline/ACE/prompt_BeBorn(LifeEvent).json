@@ -1,0 +1,28 @@
+{
+    "BeBorn(LifeEvent)": {
+        "description": [
+            "The BeBorn event, a subclass of LifeEvent, refers to the occurrence of a person coming into existence through birth. The event can be triggered by words or phrases such as 'birth', 'born', 'cut out', 'removed', 'ripped', 'having', etc. The event typically involves identifying the person being born and, optionally, the place where the birth occurred.",
+            "BeBorn is an event under the LifeEvent category that signifies the act of a person being born. This event can be triggered by terms like 'birth', 'born', 'cut out', 'removed', 'ripped', 'having', and similar expressions. The primary focus is on identifying the individual who is born and, if mentioned, the location of the birth.",
+            "The BeBorn event, categorized under LifeEvent, denotes the birth of a person. Triggers for this event include 'birth', 'born', 'cut out', 'removed', 'ripped', 'having', among others. The event involves recognizing the person who is born and potentially the place of birth.",
+            "BeBorn, a type of LifeEvent, represents the event of a person being born. It can be triggered by words like 'birth', 'born', 'cut out', 'removed', 'ripped', 'having', etc. The event requires identifying the person being born and may also include the location of the birth.",
+            "The BeBorn event, part of the LifeEvent category, refers to the birth of a person. Triggers for this event include 'birth', 'born', 'cut out', 'removed', 'ripped', 'having', and similar terms. The event focuses on identifying the person who is born and, if available, the place of birth."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "person": [
+            "The 'person' argument refers to the individual who is being born in the BeBorn event. Examples are 'babies', 'one', 'other', 'infant', 'Hunter', 'girl', 'baby', 'that', 'child', 'girls', 'boys'. Edge cases include references to the person in non-standard terms or pronouns.",
+            "In the BeBorn event, the 'person' argument identifies the individual who is born. Examples are 'babies', 'one', 'other', 'infant', 'Hunter', 'girl', 'baby', 'that', 'child', 'girls', 'boys'. Edge cases may involve ambiguous or indirect references to the person.",
+            "The 'person' argument in the BeBorn event denotes the individual being born. Examples are 'babies', 'one', 'other', 'infant', 'Hunter', 'girl', 'baby', 'that', 'child', 'girls', 'boys'. Edge cases include instances where the person is referred to in a non-explicit manner.",
+            "For the BeBorn event, the 'person' argument specifies the individual who is born. Examples are 'babies', 'one', 'other', 'infant', 'Hunter', 'girl', 'baby', 'that', 'child', 'girls', 'boys'. Edge cases might involve non-standard or indirect references to the person.",
+            "The 'person' argument in the context of the BeBorn event refers to the individual being born. Examples are 'babies', 'one', 'other', 'infant', 'Hunter', 'girl', 'baby', 'that', 'child', 'girls', 'boys'. Edge cases include situations where the person is mentioned indirectly or through pronouns."
+        ],
+        "place": [
+            "The 'place' argument in the BeBorn event refers to the location where the birth occurs. Examples are 'home', 'New Zealand', 'nation'. Edge cases include vague or broad references to the place, such as 'country' or 'region'.",
+            "In the BeBorn event, the 'place' argument identifies the location of the birth. Examples are 'home', 'New Zealand', 'nation'. Edge cases might involve non-specific or general references to the place.",
+            "The 'place' argument for the BeBorn event denotes the location where the birth takes place. Examples are 'home', 'New Zealand', 'nation'. Edge cases include instances where the place is mentioned in a broad or non-specific manner.",
+            "For the BeBorn event, the 'place' argument specifies the location of the birth. Examples are 'home', 'New Zealand', 'nation'. Edge cases might involve vague or general references to the place.",
+            "The 'place' argument in the context of the BeBorn event refers to the location where the birth happens. Examples are 'home', 'New Zealand', 'nation'. Edge cases include situations where the place is mentioned in a broad or non-specific way."
+        ]
+    }
+}

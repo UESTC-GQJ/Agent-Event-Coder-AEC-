@@ -1,0 +1,28 @@
+{
+    "EndOrg(BusinessEvent)": {
+        "description": [
+            "The EndOrg event refers to the termination, dissolution, or collapse of an organization. This event is a subtype of BusinessEvent and can be triggered by various phrases indicating the end of an organization's existence or operations. The event can be triggered by words or phrases such as 'is no more', 'dissolving', 'dismantling', 'crumbled', 'crumbling', 'is over', 'collapsed', etc. The event typically involves identifying the organization that is ending and, in some cases, the place where this event is occurring.",
+            "EndOrg is an event type under the BusinessEvent category that signifies the end or dissolution of an organization. This event can be identified by triggers like 'is no more', 'dissolving', 'dismantling', 'crumbled', 'crumbling', 'is over', 'collapsed', among others. The event focuses on capturing the organization that is ceasing to exist and may also include the location of this occurrence.",
+            "The EndOrg event type, a subset of BusinessEvent, captures the cessation or dissolution of an organization. Triggers for this event include terms such as 'is no more', 'dissolving', 'dismantling', 'crumbled', 'crumbling', 'is over', 'collapsed', etc. The primary focus is on identifying the organization that is ending, with an optional focus on the place where this event is happening.",
+            "EndOrg, classified under BusinessEvent, denotes the termination or dissolution of an organization. This event can be triggered by phrases like 'is no more', 'dissolving', 'dismantling', 'crumbled', 'crumbling', 'is over', 'collapsed', and similar expressions. The event involves identifying the organization that is ending and may also include the location where this event takes place.",
+            "The EndOrg event, a child of BusinessEvent, represents the end or dissolution of an organization. Triggers for this event include 'is no more', 'dissolving', 'dismantling', 'crumbled', 'crumbling', 'is over', 'collapsed', and similar terms. The event focuses on identifying the organization that is ceasing to exist and may also capture the place where this event occurs."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "org": [
+            "The 'org' argument refers to the organization that is ending, dissolving, or collapsing. Examples are 'rej geemg', 'party', 'empire', 'regime', 'Baath Party'. This argument captures the entity that is ceasing to exist and is crucial for understanding the scope of the EndOrg event.",
+            "The 'org' argument identifies the organization that is being terminated or dissolved. Examples include 'rej geemg', 'party', 'empire', 'regime', 'Baath Party'. This argument is essential for pinpointing the specific entity involved in the EndOrg event.",
+            "The 'org' argument denotes the organization that is ending or collapsing. Examples are 'rej geemg', 'party', 'empire', 'regime', 'Baath Party'. This argument helps in identifying the entity that is ceasing to exist in the context of the EndOrg event.",
+            "The 'org' argument captures the organization that is dissolving or ending. Examples include 'rej geemg', 'party', 'empire', 'regime', 'Baath Party'. This argument is key to understanding which entity is involved in the EndOrg event.",
+            "The 'org' argument refers to the organization that is ceasing to exist. Examples are 'rej geemg', 'party', 'empire', 'regime', 'Baath Party'. This argument is critical for identifying the specific organization involved in the EndOrg event."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the organization is ending or dissolving. Examples are 'iraq'. This argument provides context about where the EndOrg event is taking place, which can be important for understanding the geographical impact of the event.",
+            "The 'place' argument identifies the location of the organization's dissolution or termination. Examples include 'iraq'. This argument helps in contextualizing the EndOrg event by specifying where it is occurring.",
+            "The 'place' argument denotes the geographical location where the organization is ending. Examples are 'iraq'. This argument adds context to the EndOrg event by indicating the place of occurrence.",
+            "The 'place' argument captures the location where the organization is ceasing to exist. Examples include 'iraq'. This argument is useful for understanding the geographical context of the EndOrg event.",
+            "The 'place' argument refers to the place where the organization is dissolving or ending. Examples are 'iraq'. This argument provides additional context about the location of the EndOrg event."
+        ]
+    }
+}

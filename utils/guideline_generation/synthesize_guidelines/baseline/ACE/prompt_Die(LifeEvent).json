@@ -1,0 +1,49 @@
+{
+    "Die(LifeEvent)": {
+        "description": [
+            "The 'Die' event refers to the occurrence of death, which is a terminal event in the life of a person or living being. The event can be triggered by words such as 'die', 'death', 'killed', 'dead', 'fallen', 'execution', etc. The event can be triggered by both direct and indirect references to death, including natural causes, accidents, violence, or other circumstances leading to the end of life.",
+            "The 'Die' event is a specific type of LifeEvent that marks the cessation of life. It can be indicated by terms like 'death', 'deceased', 'passed away', 'slain', 'perished', and similar expressions. The event can be triggered by explicit mentions of death or by contextual clues that imply the end of life.",
+            "The 'Die' event captures instances where an individual or group ceases to live. This event can be triggered by various terms such as 'killed', 'dead', 'death', 'fallen', 'executed', etc. The event can be triggered by both explicit mentions and implicit references to the end of life.",
+            "The 'Die' event involves the termination of life and can be triggered by words like 'death', 'dead', 'killed', 'fallen', 'execution', and similar terms. The event can be triggered by direct statements of death or by contextual indications that someone has died.",
+            "The 'Die' event denotes the end of life for a person or living being. It can be triggered by terms such as 'death', 'dead', 'killed', 'fallen', 'execution', etc. The event can be triggered by both explicit mentions and indirect references to death, including various causes and circumstances leading to the end of life."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The 'agent' argument refers to the entity responsible for causing the death. Examples are 'bomber' in 'A suicide bomber detonated explosives', 'assailant' in 'The assailant killed the victim', and 'shooter' in 'The shooter opened fire'. The agent is typically the person or entity that directly or indirectly causes the death.",
+            "The 'agent' argument identifies the person or entity that caused the death. Examples are 'terrorist' in 'The terrorist attack resulted in many deaths', 'driver' in 'The driver lost control and caused the accident', and 'soldier' in 'The soldier shot the enemy'. The agent is the one who initiates the action leading to death.",
+            "The 'agent' argument denotes the individual or group responsible for the death. Examples are 'murderer' in 'The murderer was apprehended', 'attacker' in 'The attacker was identified', and 'executioner' in 'The executioner carried out the sentence'. The agent is the cause of the death event.",
+            "The 'agent' argument specifies the cause of the death, usually a person or entity. Examples are 'criminal' in 'The criminal was found guilty of the murder', 'pilot' in 'The pilot's error led to the crash', and 'sniper' in 'The sniper took the shot'. The agent is the one who brings about the death.",
+            "The 'agent' argument is the entity that causes the death. Examples are 'killer' in 'The killer was sentenced to life imprisonment', 'bomb' in 'The bomb exploded, killing many', and 'virus' in 'The virus claimed many lives'. The agent is responsible for the death."
+        ],
+        "instrument": [
+            "The 'instrument' argument refers to the tool or means used to cause the death. Examples are 'explosives' in 'A suicide bomber detonated explosives', 'gun' in 'The gun was used in the shooting', and 'knife' in 'The knife was found at the scene'. The instrument is the object or method used to bring about the death.",
+            "The 'instrument' argument identifies the means by which the death was caused. Examples are 'poison' in 'The poison was administered', 'vehicle' in 'The vehicle was involved in the fatal accident', and 'fire' in 'The fire led to multiple deaths'. The instrument is the method or tool used in the death event.",
+            "The 'instrument' argument denotes the object or method used to cause the death. Examples are 'bomb' in 'The bomb exploded', 'sword' in 'The sword was used in the duel', and 'chemical' in 'The chemical spill resulted in fatalities'. The instrument is the means by which the death occurs.",
+            "The 'instrument' argument specifies the tool or method used to cause the death. Examples are 'weapon' in 'The weapon was recovered', 'substance' in 'The substance was lethal', and 'machine' in 'The machine malfunctioned, causing deaths'. The instrument is the means used to bring about the death.",
+            "The 'instrument' argument is the means or tool used to cause the death. Examples are 'explosive device' in 'The explosive device was detonated', 'pistol' in 'The pistol was fired', and 'gas' in 'The gas leak was fatal'. The instrument is the method or object used in the death event."
+        ],
+        "person": [
+            "The 'person' argument refers to the individual who has died. Examples are 'comrades' in 'the bodies of fallen comrades', 'victim' in 'The victim was identified', and 'individual' in 'The individual was pronounced dead'. The person is the one who has experienced the death.",
+            "The 'person' argument identifies the deceased individual. Examples are 'soldier' in 'The soldier was killed in action', 'patient' in 'The patient did not survive', and 'worker' in 'The worker died in the accident'. The person is the one who has died.",
+            "The 'person' argument denotes the individual who has died. Examples are 'child' in 'The child was found dead', 'officer' in 'The officer was fatally wounded', and 'resident' in 'The resident passed away'. The person is the one who has experienced the death.",
+            "The 'person' argument specifies the individual who has died. Examples are 'man' in 'The man was declared dead', 'woman' in 'The woman succumbed to her injuries', and 'student' in 'The student was a victim of the shooting'. The person is the one who has died.",
+            "The 'person' argument is the individual who has died. Examples are 'employee' in 'The employee was killed in the explosion', 'passenger' in 'The passenger did not survive the crash', and 'citizen' in 'The citizen was among the casualties'. The person is the one who has experienced the death."
+        ],
+        "place": [
+            "The 'place' argument refers to the location where the death occurred. Examples are 'mall' in 'at the entrance to a crowded mall', 'airport' in 'in Tuesday's southern Philippines airport blast', and 'Iraq' in 'serving with the Army's 3rd Infantry Division in Iraq'. The place is the geographical location of the death event.",
+            "The 'place' argument identifies the location of the death. Examples are 'building' in 'The building collapsed', 'street' in 'The street was the site of the shooting', and 'hospital' in 'The hospital reported multiple deaths'. The place is where the death occurred.",
+            "The 'place' argument denotes the location where the death happened. Examples are 'park' in 'The park was the scene of the crime', 'home' in 'The home was destroyed in the fire', and 'city' in 'The city experienced a tragic event'. The place is the location of the death.",
+            "The 'place' argument specifies the location of the death. Examples are 'school' in 'The school was attacked', 'factory' in 'The factory explosion was fatal', and 'country' in 'The country mourned the loss'. The place is where the death took place.",
+            "The 'place' argument is the location where the death occurred. Examples are 'office' in 'The office was the site of the incident', 'beach' in 'The beach was closed after the accident', and 'village' in 'The village was affected by the disaster'. The place is the geographical location of the death event."
+        ],
+        "victim": [
+            "The 'victim' argument refers to the individual who has died as a result of the event. Examples are 'bomber' in 'killing at least four shoppers and wounding 20', 'people' in 'At least 19 people were killed', and 'son' in 'she didn't know whether he was dead or alive'. The victim is the person who has died.",
+            "The 'victim' argument identifies the deceased individual. Examples are 'someone' in 'We are talking about someone's life or death', 'individual' in 'The individual was found dead', and 'child' in 'The child was a victim of the accident'. The victim is the one who has died.",
+            "The 'victim' argument denotes the person who has died. Examples are 'person' in 'The person was pronounced dead', 'worker' in 'The worker was killed in the explosion', and 'resident' in 'The resident was among the casualties'. The victim is the individual who has died.",
+            "The 'victim' argument specifies the individual who has died. Examples are 'passenger' in 'The passenger did not survive', 'soldier' in 'The soldier was killed in action', and 'citizen' in 'The citizen was a victim of the attack'. The victim is the one who has died.",
+            "The 'victim' argument is the person who has died. Examples are 'employee' in 'The employee was killed', 'student' in 'The student was a victim of the shooting', and 'officer' in 'The officer was fatally wounded'. The victim is the individual who has died."
+        ]
+    }
+}

@@ -1,0 +1,2946 @@
+{
+    "Positive_regulation(Event)": [
+        "site",
+        "csite",
+        "mention",
+        "theme2",
+        "theme",
+        "cause"
+    ],
+    "Phosphorylation(Event)": [
+        "theme",
+        "site",
+        "mention",
+        "cause"
+    ],
+    "Gene_expression(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Regulation(Event)": [
+        "site",
+        "csite",
+        "mention",
+        "theme",
+        "cause"
+    ],
+    "Binding(Event)": [
+        "site2",
+        "theme2",
+        "mention",
+        "theme4",
+        "theme",
+        "site",
+        "theme3"
+    ],
+    "Localization(Event)": [
+        "toloc",
+        "mention",
+        "fromloc",
+        "theme",
+        "atloc"
+    ],
+    "Negative_regulation(Event)": [
+        "site",
+        "csite",
+        "mention",
+        "theme",
+        "cause"
+    ],
+    "Transcription(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Protein_catabolism(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Protein_modification(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Ubiquitination(Event)": [
+        "theme",
+        "cause",
+        "mention",
+        "site"
+    ],
+    "Acetylation(Event)": [
+        "theme",
+        "site",
+        "mention"
+    ],
+    "Deacetylation(Event)": [
+        "theme",
+        "cause",
+        "mention",
+        "site"
+    ],
+    "Cure(Event)": [
+        "patient",
+        "mention",
+        "affliction",
+        "treatment",
+        "medication"
+    ],
+    "Spread(Event)": [
+        "mention"
+    ],
+    "Death(Event)": [
+        "mention",
+        "theme",
+        "deceased"
+    ],
+    "Infect(Event)": [
+        "mention"
+    ],
+    "Control(Event)": [
+        "dependent_variable",
+        "mention",
+        "controlling_variable"
+    ],
+    "Prevent(Event)": [
+        "mention"
+    ],
+    "Symptom(Event)": [
+        "mention"
+    ],
+    "Military_operation(Event)": [
+        "mention"
+    ],
+    "Bearing_arms(Event)": [
+        "protagonist",
+        "mention",
+        "weapon"
+    ],
+    "Hostile_encounter(Event)": [
+        "mention",
+        "purpose",
+        "sides",
+        "side_1",
+        "side_2",
+        "instrument",
+        "issue"
+    ],
+    "Becoming_a_member(Event)": [
+        "mention",
+        "group",
+        "new_member"
+    ],
+    "Bodily_harm(Event)": [
+        "mention",
+        "body_part",
+        "instrument",
+        "cause",
+        "victim",
+        "agent"
+    ],
+    "Using(Event)": [
+        "means",
+        "mention",
+        "purpose",
+        "instrument",
+        "agent"
+    ],
+    "Conquering(Event)": [
+        "mention",
+        "theme",
+        "conqueror",
+        "means"
+    ],
+    "Self_motion(Event)": [
+        "goal",
+        "mention",
+        "self_mover",
+        "source",
+        "distance",
+        "direction",
+        "path"
+    ],
+    "Participation(Event)": [
+        "mention",
+        "participants",
+        "event"
+    ],
+    "Surrendering(Event)": [
+        "mention"
+    ],
+    "Bringing(Event)": [
+        "goal",
+        "mention",
+        "source",
+        "carrier",
+        "area",
+        "theme",
+        "agent"
+    ],
+    "Confronting_problem(Event)": [
+        "activity",
+        "mention",
+        "experiencer"
+    ],
+    "Causation(Event)": [
+        "effect",
+        "means",
+        "actor",
+        "mention",
+        "affected",
+        "cause"
+    ],
+    "Process_start(Event)": [
+        "event",
+        "initial_subevent",
+        "mention",
+        "time",
+        "agent"
+    ],
+    "Being_in_operation(Event)": [
+        "mention"
+    ],
+    "Recovering(Event)": [
+        "mention",
+        "entity",
+        "agent",
+        "means"
+    ],
+    "Cause_to_make_progress(Event)": [
+        "project",
+        "mention",
+        "agent"
+    ],
+    "Process_end(Event)": [
+        "state",
+        "mention",
+        "final_subevent",
+        "time",
+        "cause",
+        "agent",
+        "process"
+    ],
+    "Sign_agreement(Event)": [
+        "mention",
+        "signatory",
+        "agreement"
+    ],
+    "Writing(Event)": [
+        "author",
+        "mention",
+        "instrument",
+        "text",
+        "addressee"
+    ],
+    "Legal_rulings(Event)": [
+        "mention"
+    ],
+    "Change_of_leadership(Event)": [
+        "mention",
+        "role",
+        "selector",
+        "new_leader",
+        "body",
+        "old_leader",
+        "old_order"
+    ],
+    "Defending(Event)": [
+        "defender",
+        "mention",
+        "assailant",
+        "instrument",
+        "victim"
+    ],
+    "Escaping(Event)": [
+        "mention"
+    ],
+    "Creating(Event)": [
+        "mention",
+        "cause",
+        "creator",
+        "created_entity"
+    ],
+    "Response(Event)": [
+        "response",
+        "trigger",
+        "mention",
+        "responding_entity",
+        "agent"
+    ],
+    "Collaboration(Event)": [
+        "mention",
+        "partners",
+        "undertaking"
+    ],
+    "Change(Event)": [
+        "final_category",
+        "attribute",
+        "initial_category",
+        "mention",
+        "entity",
+        "final_value",
+        "cause",
+        "agent"
+    ],
+    "Getting(Event)": [
+        "means",
+        "mention",
+        "source",
+        "recipient",
+        "theme"
+    ],
+    "Quarreling(Event)": [
+        "arguer2",
+        "mention",
+        "issue",
+        "arguers"
+    ],
+    "Perception_active(Event)": [
+        "mention",
+        "perceiver_agentive",
+        "phenomenon",
+        "direction"
+    ],
+    "Convincing(Event)": [
+        "content",
+        "mention",
+        "speaker",
+        "addressee",
+        "topic"
+    ],
+    "Communication(Event)": [
+        "trigger",
+        "mention",
+        "speaker",
+        "interlocutors",
+        "message",
+        "addressee",
+        "topic"
+    ],
+    "Damaging(Event)": [
+        "mention",
+        "patient",
+        "cause",
+        "agent"
+    ],
+    "Cause_to_amalgamate(Event)": [
+        "mention",
+        "parts",
+        "part_2",
+        "whole",
+        "part_1",
+        "agent"
+    ],
+    "Cause_change_of_position_on_a_scale(Event)": [
+        "attribute",
+        "value_2",
+        "mention",
+        "item",
+        "cause",
+        "value_1",
+        "difference",
+        "agent"
+    ],
+    "Cause_change_of_strength(Event)": [
+        "mention"
+    ],
+    "Motion(Event)": [
+        "means",
+        "goal",
+        "mention",
+        "source",
+        "speed",
+        "distance",
+        "area",
+        "theme",
+        "cause",
+        "agent",
+        "path"
+    ],
+    "Coming_to_be(Event)": [
+        "components",
+        "mention",
+        "time",
+        "entity",
+        "place"
+    ],
+    "Achieve(Event)": [
+        "mention",
+        "agent",
+        "goal",
+        "means"
+    ],
+    "Catastrophe(Event)": [
+        "patient",
+        "mention",
+        "cause",
+        "place",
+        "undesirable_event"
+    ],
+    "Destroying(Event)": [
+        "means",
+        "patient",
+        "mention",
+        "destroyer",
+        "cause"
+    ],
+    "Reporting(Event)": [
+        "mention"
+    ],
+    "Influence(Event)": [
+        "situation",
+        "mention",
+        "action",
+        "behavior",
+        "cognizer",
+        "agent",
+        "product"
+    ],
+    "Having_or_lacking_access(Event)": [
+        "mention"
+    ],
+    "Expansion(Event)": [
+        "dimension",
+        "mention",
+        "item",
+        "initial_size",
+        "result_size",
+        "agent"
+    ],
+    "Removing(Event)": [
+        "goal",
+        "mention",
+        "source",
+        "theme",
+        "cause",
+        "agent"
+    ],
+    "Competition(Event)": [
+        "mention",
+        "venue",
+        "participants",
+        "competition"
+    ],
+    "Sending(Event)": [
+        "means",
+        "goal",
+        "transferors",
+        "mention",
+        "source",
+        "recipient",
+        "vehicle",
+        "theme",
+        "sender"
+    ],
+    "Preventing_or_letting(Event)": [
+        "event",
+        "means",
+        "mention",
+        "potential_hindrance",
+        "agent"
+    ],
+    "Becoming(Event)": [
+        "mention",
+        "final_quality",
+        "entity",
+        "final_category"
+    ],
+    "Agree_or_refuse_to_act(Event)": [
+        "mention",
+        "proposed_action",
+        "speaker"
+    ],
+    "Traveling(Event)": [
+        "means",
+        "traveler",
+        "goal",
+        "mention",
+        "purpose",
+        "entity",
+        "distance",
+        "area",
+        "path"
+    ],
+    "Commerce_pay(Event)": [
+        "goods",
+        "mention",
+        "money",
+        "buyer",
+        "seller"
+    ],
+    "Social_event(Event)": [
+        "attendees",
+        "host",
+        "mention",
+        "social_event",
+        "occasion",
+        "beneficiary"
+    ],
+    "Hold(Event)": [
+        "mention",
+        "entity",
+        "manipulator"
+    ],
+    "Recording(Event)": [
+        "mention"
+    ],
+    "Name_conferral(Event)": [
+        "mention"
+    ],
+    "Arriving(Event)": [
+        "means",
+        "goal",
+        "mention",
+        "source",
+        "purpose",
+        "theme",
+        "place",
+        "path"
+    ],
+    "Motion_directional(Event)": [
+        "goal",
+        "mention",
+        "source",
+        "direction",
+        "area",
+        "theme",
+        "path"
+    ],
+    "Lighting(Event)": [
+        "mention"
+    ],
+    "Presence(Event)": [
+        "mention",
+        "inherent_purpose",
+        "time",
+        "entity",
+        "circumstances",
+        "duration",
+        "place"
+    ],
+    "Attack(Event)": [
+        "means",
+        "mention",
+        "weapon",
+        "assailant",
+        "victim"
+    ],
+    "Departing(Event)": [
+        "traveller",
+        "goal",
+        "mention",
+        "source",
+        "path"
+    ],
+    "Killing(Event)": [
+        "means",
+        "mention",
+        "killer",
+        "instrument",
+        "cause",
+        "victim"
+    ],
+    "Supply(Event)": [
+        "mention",
+        "recipient",
+        "imposed_purpose",
+        "supplier",
+        "theme"
+    ],
+    "Arranging(Event)": [
+        "mention",
+        "configuration",
+        "location",
+        "theme",
+        "agent"
+    ],
+    "Rewards_and_punishments(Event)": [
+        "mention"
+    ],
+    "Receiving(Event)": [
+        "mention",
+        "theme",
+        "donor",
+        "recipient"
+    ],
+    "Expressing_publicly(Event)": [
+        "mention"
+    ],
+    "Hindering(Event)": [
+        "protagonist",
+        "mention",
+        "hindrance",
+        "action"
+    ],
+    "Earnings_and_losses(Event)": [
+        "mention",
+        "earner",
+        "goods",
+        "earnings"
+    ],
+    "Award(Event)": [
+        "mention"
+    ],
+    "Action(Event)": [
+        "domain",
+        "mention",
+        "act",
+        "manner",
+        "agent"
+    ],
+    "Adducing(Event)": [
+        "mention",
+        "speaker",
+        "role",
+        "medium",
+        "specified_entity"
+    ],
+    "Practice(Event)": [
+        "mention",
+        "agent",
+        "action",
+        "occasion"
+    ],
+    "Create_artwork(Event)": [
+        "activity",
+        "mention",
+        "culture"
+    ],
+    "Come_together(Event)": [
+        "mention",
+        "individuals",
+        "configuration",
+        "place"
+    ],
+    "Statement(Event)": [
+        "mention",
+        "speaker",
+        "message",
+        "medium",
+        "addressee"
+    ],
+    "Vocalizations(Event)": [
+        "mention"
+    ],
+    "Judgment_communication(Event)": [
+        "reason",
+        "mention",
+        "evaluee",
+        "communicator",
+        "topic",
+        "medium",
+        "addressee"
+    ],
+    "Arrest(Event)": [
+        "authorities",
+        "mention",
+        "charges",
+        "suspect",
+        "offense"
+    ],
+    "Request(Event)": [
+        "mention",
+        "speaker",
+        "message",
+        "medium",
+        "addressee"
+    ],
+    "Preserving(Event)": [
+        "mention"
+    ],
+    "Check(Event)": [
+        "mention",
+        "inspector",
+        "unconfirmed_content",
+        "means"
+    ],
+    "Theft(Event)": [
+        "means",
+        "goods",
+        "mention",
+        "perpetrator",
+        "source",
+        "instrument",
+        "victim"
+    ],
+    "Change_sentiment(Event)": [
+        "mention"
+    ],
+    "Assistance(Event)": [
+        "means",
+        "goal",
+        "benefited_party",
+        "mention",
+        "focal_entity",
+        "helper"
+    ],
+    "Aiming(Event)": [
+        "mention"
+    ],
+    "Cause_to_be_included(Event)": [
+        "mention"
+    ],
+    "Emptying(Event)": [
+        "mention",
+        "source",
+        "theme",
+        "cause",
+        "agent"
+    ],
+    "Choosing(Event)": [
+        "mention",
+        "possibilities",
+        "cognizer",
+        "chosen"
+    ],
+    "Placing(Event)": [
+        "mention",
+        "location",
+        "theme",
+        "cause",
+        "agent"
+    ],
+    "Testing(Event)": [
+        "means",
+        "result",
+        "tested_property",
+        "mention",
+        "circumstances",
+        "tester",
+        "product"
+    ],
+    "Extradition(Event)": [
+        "mention"
+    ],
+    "Building(Event)": [
+        "components",
+        "mention",
+        "created_entity",
+        "place",
+        "agent"
+    ],
+    "Education_teaching(Event)": [
+        "mention",
+        "skill",
+        "fact",
+        "student",
+        "teacher",
+        "role",
+        "subject",
+        "course"
+    ],
+    "Supporting(Event)": [
+        "supported",
+        "mention",
+        "supporter"
+    ],
+    "Filling(Event)": [
+        "goal",
+        "mention",
+        "theme",
+        "cause",
+        "agent"
+    ],
+    "Change_event_time(Event)": [
+        "mention"
+    ],
+    "Employment(Event)": [
+        "place_of_employment",
+        "mention",
+        "type",
+        "task",
+        "employer",
+        "position",
+        "field",
+        "employee"
+    ],
+    "Dispersal(Event)": [
+        "mention",
+        "individuals",
+        "goal_area",
+        "cause",
+        "agent"
+    ],
+    "Research(Event)": [
+        "mention",
+        "field",
+        "researcher",
+        "topic"
+    ],
+    "Know(Event)": [
+        "means",
+        "mention",
+        "evidence",
+        "instrument",
+        "phenomenon",
+        "cognizer",
+        "topic"
+    ],
+    "GiveUp(Event)": [
+        "mention"
+    ],
+    "Surrounding(Event)": [
+        "mention"
+    ],
+    "Connect(Event)": [
+        "figures",
+        "mention",
+        "ground"
+    ],
+    "Reforming_a_system(Event)": [
+        "mention"
+    ],
+    "Manufacturing(Event)": [
+        "resource",
+        "mention",
+        "producer",
+        "product",
+        "instrument",
+        "factory"
+    ],
+    "Legality(Event)": [
+        "mention",
+        "action",
+        "object"
+    ],
+    "Deciding(Event)": [
+        "mention",
+        "decision",
+        "cognizer"
+    ],
+    "Forming_relationships(Event)": [
+        "mention"
+    ],
+    "Body_movement(Event)": [
+        "mention"
+    ],
+    "Warning(Event)": [
+        "mention"
+    ],
+    "Cost(Event)": [
+        "goods",
+        "intended_event",
+        "mention",
+        "payer",
+        "rate",
+        "asset"
+    ],
+    "Use_firearm(Event)": [
+        "mention"
+    ],
+    "Commerce_sell(Event)": [
+        "goods",
+        "mention",
+        "money",
+        "buyer",
+        "seller"
+    ],
+    "Giving(Event)": [
+        "mention",
+        "offerer",
+        "theme",
+        "recipient"
+    ],
+    "Openness(Event)": [
+        "mention",
+        "theme",
+        "barrier",
+        "useful_location"
+    ],
+    "Rescuing(Event)": [
+        "mention"
+    ],
+    "Coming_to_believe(Event)": [
+        "mention",
+        "cognizer",
+        "content",
+        "means"
+    ],
+    "Wearing(Event)": [
+        "wearer",
+        "mention",
+        "clothing",
+        "body_location"
+    ],
+    "Carry_goods(Event)": [
+        "mention"
+    ],
+    "Commitment(Event)": [
+        "mention",
+        "speaker",
+        "message",
+        "addressee"
+    ],
+    "Violence(Event)": [
+        "mention"
+    ],
+    "Criminal_investigation(Event)": [
+        "mention",
+        "suspect",
+        "investigator",
+        "incident"
+    ],
+    "Institutionalization(Event)": [
+        "mention"
+    ],
+    "Commerce_buy(Event)": [
+        "mention",
+        "buyer",
+        "goods",
+        "seller"
+    ],
+    "Besieging(Event)": [
+        "mention"
+    ],
+    "Expend_resource(Event)": [
+        "mention"
+    ],
+    "Rite(Event)": [
+        "mention",
+        "type",
+        "member",
+        "object"
+    ],
+    "Imposing_obligation(Event)": [
+        "mention"
+    ],
+    "Submitting_documents(Event)": [
+        "mention"
+    ],
+    "GetReady(Event)": [
+        "activity",
+        "mention",
+        "protagonist"
+    ],
+    "Kidnapping(Event)": [
+        "mention"
+    ],
+    "Releasing(Event)": [
+        "mention"
+    ],
+    "Committing_crime(Event)": [
+        "mention",
+        "instrument",
+        "perpetrator",
+        "crime"
+    ],
+    "Resolve_problem(Event)": [
+        "means",
+        "mention",
+        "problem",
+        "cause",
+        "agent"
+    ],
+    "Publishing(Event)": [
+        "mention"
+    ],
+    "Temporary_stay(Event)": [
+        "mention"
+    ],
+    "Containing(Event)": [
+        "contents",
+        "mention",
+        "container"
+    ],
+    "Exchange(Event)": [
+        "themes",
+        "theme_2",
+        "mention",
+        "exchanger_1",
+        "exchanger_2",
+        "theme_1",
+        "exchangers"
+    ],
+    "Limiting(Event)": [
+        "mention"
+    ],
+    "Scouring(Event)": [
+        "mention"
+    ],
+    "Ingestion(Event)": [
+        "mention",
+        "ingestor",
+        "ingestibles"
+    ],
+    "Telling(Event)": [
+        "mention",
+        "speaker",
+        "message",
+        "addressee"
+    ],
+    "Terrorism(Event)": [
+        "mention",
+        "terrorist",
+        "act",
+        "instrument",
+        "victim"
+    ],
+    "Protest(Event)": [
+        "mention",
+        "arguer",
+        "content",
+        "addressee"
+    ],
+    "Robbery(Event)": [
+        "mention"
+    ],
+    "Scrutiny(Event)": [
+        "phenomenon",
+        "mention",
+        "ground",
+        "instrument",
+        "unwanted_entity",
+        "cognizer"
+    ],
+    "Justifying(Event)": [
+        "mention"
+    ],
+    "Suspicion(Event)": [
+        "mention"
+    ],
+    "Reveal_secret(Event)": [
+        "mention",
+        "speaker",
+        "topic",
+        "addressee",
+        "information"
+    ],
+    "Revenge(Event)": [
+        "injury",
+        "punishment",
+        "mention",
+        "avenger",
+        "injured_party",
+        "offender"
+    ],
+    "Renting(Event)": [
+        "mention"
+    ],
+    "Patrolling(Event)": [
+        "mention"
+    ],
+    "Prison(Event)": [
+        "mention"
+    ],
+    "Hiding_objects(Event)": [
+        "mention"
+    ],
+    "Emergency(Event)": [
+        "mention",
+        "place",
+        "undesirable_event"
+    ],
+    "Risk(Event)": [
+        "mention"
+    ],
+    "Incident(Event)": [
+        "mention"
+    ],
+    "Labeling(Event)": [
+        "mention",
+        "label",
+        "entity",
+        "speaker"
+    ],
+    "Ratification(Event)": [
+        "mention",
+        "ratifier",
+        "proposal"
+    ],
+    "Breathing(Event)": [
+        "mention"
+    ],
+    "Change_tool(Event)": [
+        "mention"
+    ],
+    "government_agreements_violateagreement(Event)": [
+        "violator",
+        "mention",
+        "place",
+        "otherparticipant"
+    ],
+    "personnel_elect_Na(Event)": [
+        "voter",
+        "mention",
+        "candidate",
+        "place"
+    ],
+    "movement_transportperson_preventexit(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "preventer",
+        "destination",
+        "transporter"
+    ],
+    "personnel_endposition_firinglayoff(Event)": [
+        "placeofemployment",
+        "mention",
+        "place",
+        "employee"
+    ],
+    "movement_transportperson_hide(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "hidingplace",
+        "vehicle",
+        "transporter"
+    ],
+    "contact_commitmentpromiseexpressintent_correspondence(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "justice_judicialconsequences_Na(Event)": [
+        "crime",
+        "mention",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "transaction_transferownership_purchase(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "artifact",
+        "beneficiary",
+        "place"
+    ],
+    "contact_commitmentpromiseexpressintent_meet(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "personnel_endposition_Na(Event)": [
+        "placeofemployment",
+        "mention",
+        "place",
+        "employee"
+    ],
+    "contact_discussion_Na(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "contact_commandorder_correspondence(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "contact_threatencoerce_meet(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "conflict_attack_Na(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "justice_initiatejudicialprocess_chargeindict(Event)": [
+        "crime",
+        "mention",
+        "prosecutor",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "contact_prevarication_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "justice_investigate_investigatecrime(Event)": [
+        "crime",
+        "mention",
+        "investigator",
+        "defendant",
+        "place"
+    ],
+    "transaction_transfermoney_payforservice(Event)": [
+        "giver",
+        "mention",
+        "money",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "justice_arrestjaildetain_arrestjaildetain(Event)": [
+        "jailer",
+        "crime",
+        "mention",
+        "place",
+        "detainee"
+    ],
+    "conflict_attack_selfdirectedbattle(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "inspection_sensoryobserve_physicalinvestigateinspect(Event)": [
+        "mention",
+        "inspector",
+        "place",
+        "inspectedentity"
+    ],
+    "life_die_Na(Event)": [
+        "mention",
+        "victim",
+        "place"
+    ],
+    "contact_commandorder_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "movement_transportartifact_Na(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "life_injure_illnessdegradationhungerthirst(Event)": [
+        "mention",
+        "victim",
+        "place"
+    ],
+    "life_injure_illnessdegradationphysical(Event)": [
+        "mention",
+        "victim"
+    ],
+    "conflict_demonstrate_Na(Event)": [
+        "mention",
+        "place",
+        "demonstrator"
+    ],
+    "contact_threatencoerce_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "transaction_transfermoney_Na(Event)": [
+        "giver",
+        "mention",
+        "money",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "transaction_transaction_embargosanction(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "preventer",
+        "place",
+        "artifactmoney"
+    ],
+    "contact_funeralvigil_meet(Event)": [
+        "mention",
+        "participant",
+        "deceased",
+        "place"
+    ],
+    "conflict_attack_bombing(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "disaster_fireexplosion_fireexplosion(Event)": [
+        "mention",
+        "instrument",
+        "place",
+        "fireexplosionobject"
+    ],
+    "government_agreements_acceptagreementcontractceasefire(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "movement_transportperson_smuggleextract(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "vehicle",
+        "destination",
+        "transporter"
+    ],
+    "government_agreements_rejectnullifyagreementcontractceasefire(Event)": [
+        "mention",
+        "rejecternullifier",
+        "place",
+        "otherparticipant"
+    ],
+    "contact_requestadvise_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "government_legislate_legislate(Event)": [
+        "mention",
+        "place",
+        "law",
+        "governmentbody"
+    ],
+    "manufacture_artifact_createmanufacture(Event)": [
+        "mention",
+        "manufacturer",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "life_injure_injurycausedbyviolentevents(Event)": [
+        "mention",
+        "victim",
+        "injurer",
+        "instrument",
+        "place"
+    ],
+    "life_injure_Na(Event)": [
+        "mention",
+        "place",
+        "victim",
+        "injurer"
+    ],
+    "government_spy_spy(Event)": [
+        "mention",
+        "spy",
+        "beneficiary",
+        "place",
+        "observedentity"
+    ],
+    "transaction_transfermoney_embargosanction(Event)": [
+        "giver",
+        "mention",
+        "money",
+        "recipient",
+        "preventer",
+        "place"
+    ],
+    "contact_commandorder_meet(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "justice_initiatejudicialprocess_trialhearing(Event)": [
+        "crime",
+        "mention",
+        "prosecutor",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "personnel_startposition_hiring(Event)": [
+        "placeofemployment",
+        "mention",
+        "place",
+        "employee"
+    ],
+    "contact_discussion_meet(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "conflict_yield_surrender(Event)": [
+        "surrenderer",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "movement_transportperson_evacuationrescue(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "vehicle",
+        "destination",
+        "transporter"
+    ],
+    "life_die_deathcausedbyviolentevents(Event)": [
+        "mention",
+        "killer",
+        "victim",
+        "instrument",
+        "place"
+    ],
+    "transaction_transferownership_embargosanction(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "preventer",
+        "artifact",
+        "place"
+    ],
+    "manufacture_artifact_Na(Event)": [
+        "mention",
+        "manufacturer",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "inspection_sensoryobserve_Na(Event)": [
+        "mention",
+        "place",
+        "observer",
+        "observedentity"
+    ],
+    "transaction_transaction_transfercontrol(Event)": [
+        "giver",
+        "territoryorfacility",
+        "mention",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "movement_transportperson_Na(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "vehicle",
+        "destination",
+        "transporter"
+    ],
+    "artifactexistence_damagedestroy_destroy(Event)": [
+        "mention",
+        "destroyer",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "contact_threatencoerce_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "transaction_transaction_giftgrantprovideaid(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "contact_funeralvigil_Na(Event)": [
+        "mention",
+        "participant",
+        "deceased",
+        "place"
+    ],
+    "contact_publicstatementinperson_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "inspection_sensoryobserve_monitorelection(Event)": [
+        "monitor",
+        "mention",
+        "place",
+        "monitoredentity"
+    ],
+    "movement_transportperson_fall(Event)": [
+        "passenger",
+        "mention",
+        "destination",
+        "origin"
+    ],
+    "justice_judicialconsequences_execute(Event)": [
+        "crime",
+        "executioner",
+        "mention",
+        "defendant",
+        "place"
+    ],
+    "transaction_transfermoney_borrowlend(Event)": [
+        "giver",
+        "mention",
+        "money",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "contact_requestadvise_correspondence(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "artifactexistence_damagedestroy_damage(Event)": [
+        "mention",
+        "damager",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "conflict_attack_airstrikemissilestrike(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "transaction_transaction_Na(Event)": [
+        "mention",
+        "beneficiary",
+        "participant",
+        "place"
+    ],
+    "contact_prevarication_correspondence(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "contact_commitmentpromiseexpressintent_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "contact_negotiate_correspondence(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "conflict_attack_hanging(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "contact_commandorder_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "transaction_transferownership_Na(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "artifact",
+        "beneficiary",
+        "place"
+    ],
+    "movement_transportartifact_grantentry(Event)": [
+        "origin",
+        "mention",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "contact_collaborate_correspondence(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "movement_transportartifact_disperseseparate(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "government_formation_Na(Event)": [
+        "mention",
+        "founder",
+        "gpe",
+        "place"
+    ],
+    "contact_requestadvise_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "transaction_transfermoney_giftgrantprovideaid(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "money",
+        "beneficiary",
+        "place"
+    ],
+    "movement_transportartifact_preventexit(Event)": [
+        "origin",
+        "mention",
+        "preventer",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "government_vote_Na(Event)": [
+        "voter",
+        "result",
+        "mention",
+        "ballot",
+        "candidate",
+        "place"
+    ],
+    "transaction_transfermoney_purchase(Event)": [
+        "giver",
+        "mention",
+        "money",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "movement_transportperson_grantentryasylum(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "granter",
+        "destination",
+        "transporter"
+    ],
+    "government_vote_violationspreventvote(Event)": [
+        "voter",
+        "mention",
+        "preventer",
+        "ballot",
+        "candidate",
+        "place"
+    ],
+    "transaction_transferownership_borrowlend(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "artifact",
+        "beneficiary",
+        "place"
+    ],
+    "personnel_startposition_Na(Event)": [
+        "placeofemployment",
+        "mention",
+        "place",
+        "employee"
+    ],
+    "contact_collaborate_meet(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "contact_discussion_correspondence(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "contact_mediastatement_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "justice_judicialconsequences_extradite(Event)": [
+        "origin",
+        "crime",
+        "mention",
+        "extraditer",
+        "defendant",
+        "destination"
+    ],
+    "contact_prevarication_meet(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "justice_investigate_Na(Event)": [
+        "mention",
+        "investigator",
+        "place",
+        "defendant"
+    ],
+    "contact_negotiate_meet(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "artifactexistence_damagedestroy_Na(Event)": [
+        "mention",
+        "artifact",
+        "instrument",
+        "place",
+        "damagerdestroyer"
+    ],
+    "contact_threatencoerce_correspondence(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "movement_transportperson_selfmotion(Event)": [
+        "mention",
+        "destination",
+        "transporter",
+        "origin"
+    ],
+    "life_die_nonviolentdeath(Event)": [
+        "mention",
+        "victim",
+        "place"
+    ],
+    "personnel_endposition_quitretire(Event)": [
+        "placeofemployment",
+        "mention",
+        "place",
+        "employee"
+    ],
+    "movement_transportartifact_receiveimport(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "contact_publicstatementinperson_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "contact_commitmentpromiseexpressintent_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "movement_transportartifact_prevententry(Event)": [
+        "origin",
+        "mention",
+        "preventer",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "contact_mediastatement_broadcast(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "contact_prevarication_Na(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "contact_collaborate_Na(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "movement_transportartifact_smuggleextract(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "manufacture_artifact_build(Event)": [
+        "mention",
+        "manufacturer",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "conflict_attack_invade(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "movement_transportperson_disperseseparate(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "vehicle",
+        "destination",
+        "transporter"
+    ],
+    "inspection_sensoryobserve_inspectpeopleorganization(Event)": [
+        "mention",
+        "inspector",
+        "place",
+        "inspectedentity"
+    ],
+    "justice_initiatejudicialprocess_Na(Event)": [
+        "crime",
+        "mention",
+        "prosecutor",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "government_vote_castvote(Event)": [
+        "voter",
+        "result",
+        "mention",
+        "ballot",
+        "candidate",
+        "place"
+    ],
+    "movement_transportartifact_sendsupplyexport(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "conflict_attack_stabbing(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "disaster_accidentcrash_accidentcrash(Event)": [
+        "driverpassenger",
+        "mention",
+        "vehicle",
+        "crashobject",
+        "place"
+    ],
+    "movement_transportartifact_nonviolentthrowlaunch(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "contact_requestadvise_meet(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "government_agreements_Na(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "personnel_elect_winelection(Event)": [
+        "voter",
+        "mention",
+        "candidate",
+        "place"
+    ],
+    "transaction_transferownership_giftgrantprovideaid(Event)": [
+        "giver",
+        "mention",
+        "recipient",
+        "artifact",
+        "beneficiary",
+        "place"
+    ],
+    "movement_transportartifact_hide(Event)": [
+        "origin",
+        "mention",
+        "hidingplace",
+        "vehicle",
+        "artifact",
+        "transporter"
+    ],
+    "movement_transportperson_prevententry(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "preventer",
+        "destination",
+        "transporter"
+    ],
+    "conflict_yield_Na(Event)": [
+        "mention",
+        "yielder",
+        "place",
+        "recipient"
+    ],
+    "government_formation_startgpe(Event)": [
+        "mention",
+        "founder",
+        "gpe",
+        "place"
+    ],
+    "contact_negotiate_Na(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "movement_transportperson_bringcarryunload(Event)": [
+        "origin",
+        "passenger",
+        "mention",
+        "vehicle",
+        "destination",
+        "transporter"
+    ],
+    "justice_judicialconsequences_convict(Event)": [
+        "crime",
+        "mention",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "conflict_attack_setfire(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "conflict_attack_stealrobhijack(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "conflict_yield_retreat(Event)": [
+        "mention",
+        "destination",
+        "retreater",
+        "origin"
+    ],
+    "conflict_attack_biologicalchemicalpoisonattack(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "conflict_attack_strangling(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "movement_transportartifact_fall(Event)": [
+        "mention",
+        "destination",
+        "origin",
+        "artifact"
+    ],
+    "manufacture_artifact_createintellectualproperty(Event)": [
+        "mention",
+        "manufacturer",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "conflict_demonstrate_marchprotestpoliticalgathering(Event)": [
+        "mention",
+        "place",
+        "demonstrator"
+    ],
+    "government_formation_mergegpe(Event)": [
+        "mention",
+        "participant",
+        "place"
+    ],
+    "conflict_attack_firearmattack(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "movement_transportartifact_bringcarryunload(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "artifact",
+        "destination",
+        "transporter"
+    ],
+    "Collaboration(BusinessEvent)": [
+        "mention"
+    ],
+    "DeclareBankruptcy(BusinessEvent)": [
+        "org",
+        "mention",
+        "place"
+    ],
+    "Employment(BusinessEvent)": [
+        "mention"
+    ],
+    "EmploymentTenure(BusinessEvent)": [
+        "mention"
+    ],
+    "EndOrg(BusinessEvent)": [
+        "org",
+        "mention",
+        "place"
+    ],
+    "Financing(BusinessEvent)": [
+        "mention"
+    ],
+    "Investment(BusinessEvent)": [
+        "mention"
+    ],
+    "Layoff(BusinessEvent)": [
+        "mention"
+    ],
+    "MergeOrg(BusinessEvent)": [
+        "org",
+        "mention"
+    ],
+    "Sponsorship(BusinessEvent)": [
+        "mention"
+    ],
+    "StartOrg(BusinessEvent)": [
+        "org",
+        "mention",
+        "place",
+        "agent"
+    ],
+    "StartSubsidiary(BusinessEvent)": [
+        "mention"
+    ],
+    "Attack(ConflictEvent)": [
+        "target",
+        "mention",
+        "victim",
+        "attacker",
+        "time",
+        "instrument",
+        "place",
+        "agent"
+    ],
+    "Demonstrate(ConflictEvent)": [
+        "mention",
+        "time",
+        "entity",
+        "place",
+        "police"
+    ],
+    "Riot(ConflictEvent)": [
+        "mention"
+    ],
+    "SelfImmolation(ConflictEvent)": [
+        "mention"
+    ],
+    "Broadcast(ContactEvent)": [
+        "mention",
+        "entity",
+        "place",
+        "audience"
+    ],
+    "Contact(ContactEvent)": [
+        "mention",
+        "entity",
+        "place"
+    ],
+    "Correspondence(ContactEvent)": [
+        "mention",
+        "entity",
+        "place"
+    ],
+    "EMail(ContactEvent)": [
+        "mention"
+    ],
+    "LetterCommunication(ContactEvent)": [
+        "mention"
+    ],
+    "Meet(ContactEvent)": [
+        "mention",
+        "entity",
+        "place",
+        "time"
+    ],
+    "OnlineChat(ContactEvent)": [
+        "mention"
+    ],
+    "PhoneWrite(ContactEvent)": [
+        "mention",
+        "entity",
+        "place",
+        "time"
+    ],
+    "VideoChat(ContactEvent)": [
+        "mention"
+    ],
+    "VoiceMail(ContactEvent)": [
+        "mention"
+    ],
+    "Education(EducationEvent)": [
+        "mention"
+    ],
+    "DubbingPerformance(FilmEvent)": [
+        "mention"
+    ],
+    "FilmCrewGig(FilmEvent)": [
+        "mention"
+    ],
+    "FilmDistribution(FilmEvent)": [
+        "mention"
+    ],
+    "FilmFestival(FilmEvent)": [
+        "mention"
+    ],
+    "FilmProduction(FilmEvent)": [
+        "mention"
+    ],
+    "Acquit(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "place",
+        "defendant"
+    ],
+    "Appeal(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "plaintiff",
+        "prosecutor",
+        "defendant",
+        "place"
+    ],
+    "ArrestJail(JusticeEvent)": [
+        "crime",
+        "mention",
+        "time",
+        "place",
+        "person",
+        "agent"
+    ],
+    "ChargeIndict(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "prosecutor",
+        "defendant",
+        "place"
+    ],
+    "Convict(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "place",
+        "defendant"
+    ],
+    "Execute(JusticeEvent)": [
+        "mention",
+        "place",
+        "person",
+        "agent"
+    ],
+    "Extradite(JusticeEvent)": [
+        "origin",
+        "mention",
+        "destination",
+        "person",
+        "agent"
+    ],
+    "Fine(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "entity",
+        "place"
+    ],
+    "Pardon(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "place",
+        "defendant"
+    ],
+    "ReleaseParole(JusticeEvent)": [
+        "mention",
+        "entity",
+        "place",
+        "person",
+        "agent"
+    ],
+    "Sentence(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "place",
+        "defendant"
+    ],
+    "Sue(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "plaintiff",
+        "defendant",
+        "place"
+    ],
+    "TrialHearing(JusticeEvent)": [
+        "adjudicator",
+        "mention",
+        "prosecutor",
+        "defendant",
+        "place"
+    ],
+    "Abortion(LifeEvent)": [
+        "mention"
+    ],
+    "BeBorn(LifeEvent)": [
+        "mention",
+        "place",
+        "person",
+        "time"
+    ],
+    "Die(LifeEvent)": [
+        "mention",
+        "time",
+        "place",
+        "instrument",
+        "victim",
+        "person",
+        "agent"
+    ],
+    "Divorce(LifeEvent)": [
+        "mention",
+        "place",
+        "person",
+        "time"
+    ],
+    "Homesick(LifeEvent)": [
+        "mention"
+    ],
+    "Injure(LifeEvent)": [
+        "mention",
+        "victim",
+        "time",
+        "instrument",
+        "place",
+        "agent"
+    ],
+    "Marry(LifeEvent)": [
+        "mention",
+        "place",
+        "person",
+        "time"
+    ],
+    "Pregnancy(LifeEvent)": [
+        "mention"
+    ],
+    "Sick(LifeEvent)": [
+        "mention"
+    ],
+    "Travel(LifeEvent)": [
+        "mention"
+    ],
+    "Artifact(ManufactureEvent)": [
+        "mention",
+        "place",
+        "artifact",
+        "agent"
+    ],
+    "LeanManufacturing(ManufactureEvent)": [
+        "mention"
+    ],
+    "MilitaryCommand(MilitaryEvent)": [
+        "mention"
+    ],
+    "MilitaryService(MilitaryEvent)": [
+        "mention"
+    ],
+    "RecruitTraining(MilitaryEvent)": [
+        "mention"
+    ],
+    "Recruitment(MilitaryEvent)": [
+        "mention"
+    ],
+    "Driving(MovementEvent)": [
+        "mention"
+    ],
+    "Parking(MovementEvent)": [
+        "mention"
+    ],
+    "Transport(MovementEvent)": [
+        "origin",
+        "mention",
+        "victim",
+        "vehicle",
+        "time",
+        "artifact",
+        "destination",
+        "place",
+        "agent"
+    ],
+    "TransportArtifact(MovementEvent)": [
+        "origin",
+        "mention",
+        "artifact",
+        "destination",
+        "agent"
+    ],
+    "Transportperson(MovementEvent)": [
+        "mention"
+    ],
+    "Compose(MusicEvent)": [
+        "mention"
+    ],
+    "Dance(MusicEvent)": [
+        "mention"
+    ],
+    "GroupMembership(MusicEvent)": [
+        "mention"
+    ],
+    "Sing(MusicEvent)": [
+        "mention"
+    ],
+    "ClosingCeremony(OlympicsEvent)": [
+        "mention"
+    ],
+    "OlympicAthleteAffiliation(OlympicsEvent)": [
+        "mention"
+    ],
+    "OlympicMedalHonor(OlympicsEvent)": [
+        "mention"
+    ],
+    "OpeningCeremony(OlympicsEvent)": [
+        "mention"
+    ],
+    "DivisionOfLabour(OrganizationEvent)": [
+        "mention"
+    ],
+    "Leadership(OrganizationEvent)": [
+        "mention"
+    ],
+    "OrgCommunication(OrganizationEvent)": [
+        "mention"
+    ],
+    "OrganizationBoardMembership(OrganizationEvent)": [
+        "mention"
+    ],
+    "Appointment(PeopleEvent)": [
+        "mention"
+    ],
+    "PlaceLived(PeopleEvent)": [
+        "mention"
+    ],
+    "Demotion(PersonnelEvent)": [
+        "mention"
+    ],
+    "Elect(PersonnelEvent)": [
+        "mention",
+        "entity",
+        "place",
+        "person",
+        "agent"
+    ],
+    "EndPosition(PersonnelEvent)": [
+        "mention",
+        "time",
+        "entity",
+        "position",
+        "place",
+        "person"
+    ],
+    "Nominate(PersonnelEvent)": [
+        "mention",
+        "place",
+        "person",
+        "agent"
+    ],
+    "PerformanceAppraisal(PersonnelEvent)": [
+        "mention"
+    ],
+    "Promotion(PersonnelEvent)": [
+        "mention"
+    ],
+    "Resignation(PersonnelEvent)": [
+        "mention"
+    ],
+    "StartPosition(PersonnelEvent)": [
+        "mention",
+        "time",
+        "entity",
+        "position",
+        "place",
+        "person"
+    ],
+    "ProjectParticipation(ProjectsEvent)": [
+        "mention"
+    ],
+    "FairPlay(SportsEvent)": [
+        "mention"
+    ],
+    "SportsTeamRoster(SportsEvent)": [
+        "mention"
+    ],
+    "SportsTeamSeasonRecord(SportsEvent)": [
+        "mention"
+    ],
+    "Tournament(SportsEvent)": [
+        "mention"
+    ],
+    "Deposit(TransactionEvent)": [
+        "mention"
+    ],
+    "MoneyLaundering(TransactionEvent)": [
+        "mention"
+    ],
+    "Transaction(TransactionEvent)": [
+        "giver",
+        "mention",
+        "recipient",
+        "beneficiary",
+        "place"
+    ],
+    "TransferMoney(TransactionEvent)": [
+        "giver",
+        "mention",
+        "recipient",
+        "money",
+        "time",
+        "beneficiary",
+        "place"
+    ],
+    "TransferOwnership(TransactionEvent)": [
+        "giver",
+        "thing",
+        "mention",
+        "recipient",
+        "time",
+        "price",
+        "artifact",
+        "beneficiary",
+        "buyer",
+        "place",
+        "seller"
+    ],
+    "GrapeVarietyComposition(WineEvent)": [
+        "mention"
+    ],
+    "TrackContribution(MusicEvent)": [
+        "mention"
+    ],
+    "Databreach(AttackEvent)": [
+        "tool",
+        "number-of-data",
+        "mention",
+        "damage-amount",
+        "attack-pattern",
+        "victim",
+        "attacker",
+        "time",
+        "purpose",
+        "compromised-data",
+        "place",
+        "number-of-victim"
+    ],
+    "Ransom(AttackEvent)": [
+        "tool",
+        "mention",
+        "damage-amount",
+        "attack-pattern",
+        "victim",
+        "attacker",
+        "time",
+        "price",
+        "payment-method",
+        "place"
+    ],
+    "PatchVulnerability(VulnerabilityrelatedEvent)": [
+        "vulnerable_system_version",
+        "patch",
+        "cve",
+        "mention",
+        "time",
+        "releaser",
+        "issues-addressed",
+        "patch-number",
+        "vulnerability",
+        "supported_platform",
+        "vulnerable_system"
+    ],
+    "DiscoverVulnerability(VulnerabilityrelatedEvent)": [
+        "vulnerable_system_version",
+        "cve",
+        "vulnerable_system_owner",
+        "mention",
+        "time",
+        "capabilities",
+        "vulnerability",
+        "discoverer",
+        "supported_platform",
+        "vulnerable_system"
+    ],
+    "Phishing(AttackEvent)": [
+        "tool",
+        "mention",
+        "damage-amount",
+        "attack-pattern",
+        "victim",
+        "trusted-entity",
+        "attacker",
+        "purpose",
+        "time",
+        "place"
+    ],
+    "Blood_vessel_development(Event)": [
+        "mention",
+        "theme",
+        "atloc",
+        "fromloc"
+    ],
+    "Breakdown(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Planned_process(Event)": [
+        "theme2",
+        "mention",
+        "instrument2",
+        "theme",
+        "instrument"
+    ],
+    "Growth(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Cell_proliferation(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Development(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Remodeling(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Metabolism(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Synthesis(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Catabolism(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Pathway(Event)": [
+        "mention",
+        "participant3",
+        "participant4",
+        "participant2",
+        "participant"
+    ],
+    "Dephosphorylation(Event)": [
+        "theme",
+        "site",
+        "mention"
+    ],
+    "Reproduction(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Protein_processing(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Translation(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Cell_division(Event)": [
+        "theme",
+        "mention"
+    ],
+    "Dissociation(Event)": [
+        "theme",
+        "mention"
+    ],
+    "DNA_methylation(Event)": [
+        "theme",
+        "site",
+        "mention"
+    ],
+    "Adverse_event(Event)": [
+        "treatment_route",
+        "effect",
+        "treatment_drug",
+        "treatment_time_elapsed",
+        "subject_gender",
+        "mention",
+        "treatment_duration",
+        "treatment_freq",
+        "subject_population",
+        "treatment_dosage",
+        "combination_drug",
+        "treatment",
+        "subject",
+        "subject_age",
+        "subject_race",
+        "treatment_disorder",
+        "subject_disorder"
+    ],
+    "Potential_therapeutic_event(Event)": [
+        "treatment_route",
+        "treatment_drug",
+        "effect",
+        "treatment_time_elapsed",
+        "subject_gender",
+        "mention",
+        "treatment_duration",
+        "treatment_freq",
+        "subject_population",
+        "treatment_dosage",
+        "combination_drug",
+        "treatment",
+        "subject_age",
+        "subject",
+        "subject_race",
+        "treatment_disorder",
+        "subject_disorder"
+    ],
+    "TransportPerson(MovementEvent)": [
+        "origin",
+        "destination",
+        "mention",
+        "instrument",
+        "person",
+        "agent"
+    ],
+    "Dummy(Event)": [
+        "perpind",
+        "target",
+        "perporg",
+        "mention",
+        "weapon",
+        "victim"
+    ],
+    "STARTORG(BusinessEvent)": [
+        "mention",
+        "time",
+        "organization",
+        "place",
+        "agent"
+    ],
+    "Movement_Transportation_Unspecified(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "passengerartifact",
+        "destination",
+        "transporter"
+    ],
+    "Life_Die_Unspecified(Event)": [
+        "mention",
+        "killer",
+        "victim",
+        "place"
+    ],
+    "Life_Infect_Unspecified(Event)": [
+        "mention",
+        "victim"
+    ],
+    "Cognitive_Inspection_SensoryObserve(Event)": [
+        "mention",
+        "observer",
+        "instrument",
+        "place",
+        "observedentity"
+    ],
+    "Contact_Contact_Broadcast(Event)": [
+        "mention",
+        "recipient",
+        "communicator",
+        "instrument",
+        "place",
+        "topic"
+    ],
+    "Justice_ChargeIndict_Unspecified(Event)": [
+        "mention",
+        "prosecutor",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "Conflict_Attack_Unspecified(Event)": [
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "Conflict_Attack_DetonateExplode(Event)": [
+        "explosivedevice",
+        "target",
+        "mention",
+        "attacker",
+        "instrument",
+        "place"
+    ],
+    "ArtifactExistence_DamageDestroyDisableDismantle_Destroy(Event)": [
+        "mention",
+        "destroyer",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "Life_Injure_Unspecified(Event)": [
+        "mention",
+        "bodypart",
+        "injurer",
+        "instrument",
+        "victim"
+    ],
+    "Justice_TrialHearing_Unspecified(Event)": [
+        "mention",
+        "prosecutor",
+        "judgecourt",
+        "defendant",
+        "place"
+    ],
+    "Justice_ArrestJailDetain_Unspecified(Event)": [
+        "mention",
+        "jailer",
+        "place",
+        "detainee"
+    ],
+    "Justice_ReleaseParole_Unspecified(Event)": [
+        "mention",
+        "judgecourt",
+        "defendant"
+    ],
+    "Contact_Contact_Meet(Event)": [
+        "mention",
+        "participant",
+        "place",
+        "topic"
+    ],
+    "Justice_Sentence_Unspecified(Event)": [
+        "mention",
+        "place",
+        "judgecourt",
+        "defendant"
+    ],
+    "Justice_Convict_Unspecified(Event)": [
+        "mention",
+        "judgecourt",
+        "defendant"
+    ],
+    "Justice_InvestigateCrime_Unspecified(Event)": [
+        "mention",
+        "investigator",
+        "observer",
+        "defendant",
+        "place",
+        "observedentity"
+    ],
+    "Cognitive_IdentifyCategorize_Unspecified(Event)": [
+        "identifiedrole",
+        "mention",
+        "place",
+        "identifiedobject",
+        "identifier"
+    ],
+    "Conflict_Demonstrate_Unspecified(Event)": [
+        "mention",
+        "target",
+        "topic",
+        "demonstrator"
+    ],
+    "ArtifactExistence_ManufactureAssemble_Unspecified(Event)": [
+        "components",
+        "mention",
+        "manufacturerassembler",
+        "artifact",
+        "place"
+    ],
+    "ArtifactExistence_DamageDestroyDisableDismantle_Dismantle(Event)": [
+        "components",
+        "mention",
+        "dismantler",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "Movement_Transportation_Evacuation(Event)": [
+        "origin",
+        "mention",
+        "passengerartifact",
+        "destination",
+        "transporter"
+    ],
+    "Contact_ThreatenCoerce_Unspecified(Event)": [
+        "communicator",
+        "mention",
+        "recipient"
+    ],
+    "Conflict_Defeat_Unspecified(Event)": [
+        "mention",
+        "place",
+        "defeated",
+        "victor"
+    ],
+    "ArtifactExistence_DamageDestroyDisableDismantle_Unspecified(Event)": [
+        "mention",
+        "artifact",
+        "instrument",
+        "place",
+        "damagerdestroyer"
+    ],
+    "Movement_Transportation_IllegalTransportation(Event)": [
+        "mention",
+        "vehicle",
+        "passengerartifact",
+        "destination",
+        "transporter"
+    ],
+    "Transaction_ExchangeBuySell_Unspecified(Event)": [
+        "acquiredentity",
+        "giver",
+        "mention",
+        "recipient",
+        "paymentbarter"
+    ],
+    "ArtifactExistence_DamageDestroyDisableDismantle_Damage(Event)": [
+        "mention",
+        "damager",
+        "artifact",
+        "instrument",
+        "place"
+    ],
+    "Contact_Contact_Unspecified(Event)": [
+        "mention",
+        "participant",
+        "place",
+        "topic"
+    ],
+    "Movement_Transportation_PreventPassage(Event)": [
+        "origin",
+        "mention",
+        "vehicle",
+        "preventer",
+        "passengerartifact",
+        "destination",
+        "transporter"
+    ],
+    "GenericCrime_GenericCrime_GenericCrime(Event)": [
+        "mention",
+        "perpetrator",
+        "place",
+        "victim"
+    ],
+    "Contact_RequestCommand_Unspecified(Event)": [
+        "communicator",
+        "mention",
+        "place",
+        "recipient"
+    ],
+    "Contact_ThreatenCoerce_Broadcast(Event)": [
+        "communicator",
+        "mention",
+        "recipient"
+    ],
+    "Conflict_Demonstrate_DemonstrateWithViolence(Event)": [
+        "regulator",
+        "mention",
+        "demonstrator"
+    ],
+    "Medical_Intervention_Unspecified(Event)": [
+        "mention",
+        "patient",
+        "place",
+        "treater"
+    ],
+    "Disaster_DiseaseOutbreak_Unspecified(Event)": [
+        "mention",
+        "victim",
+        "place"
+    ],
+    "Disaster_Crash_Unspecified(Event)": [
+        "mention",
+        "crashobject",
+        "place",
+        "vehicle"
+    ],
+    "Cognitive_TeachingTrainingLearning_Unspecified(Event)": [
+        "teachertrainer",
+        "mention",
+        "learner"
+    ],
+    "Personnel_StartPosition_Unspecified(Event)": [
+        "mention",
+        "placeofemployment",
+        "position",
+        "place",
+        "employee"
+    ],
+    "Control_ImpedeInterfereWith_Unspecified(Event)": [
+        "mention",
+        "impeder",
+        "place"
+    ],
+    "Cognitive_Research_Unspecified(Event)": [
+        "researcher",
+        "mention",
+        "place",
+        "subject"
+    ],
+    "ArtifactExistence_DamageDestroyDisableDismantle_DisableDefuse(Event)": [
+        "disabler",
+        "mention",
+        "instrument",
+        "artifact"
+    ],
+    "Contact_Contact_Correspondence(Event)": [
+        "mention",
+        "participant",
+        "place",
+        "topic"
+    ],
+    "Personnel_EndPosition_Unspecified(Event)": [
+        "placeofemployment",
+        "mention",
+        "employee"
+    ],
+    "Justice_Acquit_Unspecified(Event)": [
+        "mention",
+        "defendant"
+    ],
+    "Contact_RequestCommand_Meet(Event)": [
+        "communicator",
+        "mention",
+        "recipient"
+    ],
+    "Contact_ThreatenCoerce_Correspondence(Event)": [
+        "communicator",
+        "mention",
+        "recipient"
+    ],
+    "Contact_RequestCommand_Correspondence(Event)": [
+        "communicator",
+        "mention",
+        "topic",
+        "recipient"
+    ],
+    "Contact_RequestCommand_Broadcast(Event)": [
+        "communicator",
+        "mention",
+        "recipient"
+    ],
+    "Transaction_Donation_Unspecified(Event)": [
+        "mention",
+        "giver",
+        "artifactmoney",
+        "recipient"
+    ]
+}

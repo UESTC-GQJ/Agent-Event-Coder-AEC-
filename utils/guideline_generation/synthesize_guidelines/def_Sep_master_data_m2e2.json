@@ -1,0 +1,68 @@
+{
+    "None": {},
+    "Die(LifeEvent)": {
+        "DisplayName": "Event Type: Die\nParent Event Type: Life Event",
+        "Arguments": [
+            "instrument",
+            "agent",
+            "place",
+            "victim"
+        ]
+    },
+    "Demonstrate(ConflictEvent)": {
+        "DisplayName": "Event Type: Demonstrate\nParent Event Type: Conflict Event",
+        "Arguments": [
+            "police",
+            "place",
+            "entity"
+        ]
+    },
+    "Attack(ConflictEvent)": {
+        "DisplayName": "Event Type: Attack\nParent Event Type: Conflict Event",
+        "Arguments": [
+            "target",
+            "instrument",
+            "attacker",
+            "place"
+        ]
+    },
+    "Transport(MovementEvent)": {
+        "DisplayName": "Event Type: Transport\nParent Event Type: Movement Event",
+        "Arguments": [
+            "artifact",
+            "destination",
+            "vehicle",
+            "origin",
+            "agent"
+        ]
+    },
+    "PhoneWrite(ContactEvent)": {
+        "DisplayName": "Event Type: Phone Write\nParent Event Type: Contact Event",
+        "Arguments": [
+            "place",
+            "entity"
+        ]
+    },
+    "ArrestJail(JusticeEvent)": {
+        "DisplayName": "Event Type: Arrest Jail\nParent Event Type: Justice Event",
+        "Arguments": [
+            "place",
+            "agent",
+            "person"
+        ]
+    },
+    "Meet(ContactEvent)": {
+        "DisplayName": "Event Type: Meet\nParent Event Type: Contact Event",
+        "Arguments": [
+            "place",
+            "entity"
+        ]
+    },
+    "TransferMoney(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Money\nParent Event Type: Transaction Event",
+        "Arguments": [
+            "recipient",
+            "giver"
+        ]
+    }
+}

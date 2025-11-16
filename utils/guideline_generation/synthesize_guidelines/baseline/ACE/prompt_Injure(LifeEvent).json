@@ -1,0 +1,42 @@
+{
+    "Injure(LifeEvent)": {
+        "description": [
+            "The Injure event, a subclass of LifeEvent, refers to any incident where an individual or group suffers physical harm or injury. The event can be triggered by words such as 'wounding', 'injured', 'injuries', 'harm', etc. The event can occur in various contexts, including accidents, attacks, or natural disasters. Edge cases include situations where the harm is implied rather than explicitly stated, or where the injury is psychological rather than physical.",
+            "Injure events are instances where physical harm is inflicted on individuals or groups. This event type is a subset of LifeEvent and can be triggered by terms like 'wounded', 'injured', 'harm', and similar expressions. The event can be caused by various agents and instruments, and can occur in diverse locations. Edge cases might involve indirect references to injuries or metaphorical uses of injury-related terms.",
+            "An Injure event, under the LifeEvent category, involves scenarios where people are physically harmed. Triggers for this event include words such as 'wounding', 'injured', 'injuries', and 'harm'. These events can happen due to accidents, violence, or other harmful actions. Edge cases include non-physical injuries or situations where the injury is not directly mentioned but implied.",
+            "The Injure event, classified under LifeEvent, denotes occurrences where individuals sustain physical injuries. Typical triggers include 'wounding', 'injured', 'injuries', and 'harm'. These events can result from various causes like accidents, attacks, or disasters. Edge cases may involve ambiguous references to injuries or contexts where the injury is not explicitly described.",
+            "Injure events, a type of LifeEvent, are characterized by incidents where individuals are physically harmed. Common triggers are 'wounding', 'injured', 'injuries', and 'harm'. These events can arise from different situations such as accidents, violent acts, or natural calamities. Edge cases include indirect mentions of injuries or metaphorical uses of injury-related terms."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The agent in an Injure event is the entity responsible for causing the injury. This can be a person, group, or even an abstract entity like a force of nature. Examples are 'bomber', 'attacker', 'storm', etc. Edge cases include situations where the agent is not explicitly mentioned or is implied.",
+            "In an Injure event, the agent is the one who inflicts the injury. This could be an individual, a group, or an entity like a natural disaster. Examples include 'bomber', 'attacker', 'earthquake', etc. Edge cases might involve indirect references to the agent or cases where the agent is not clearly identified.",
+            "The agent refers to the perpetrator or cause of the injury in an Injure event. This can be a person, group, or natural phenomenon. Examples are 'bomber', 'attacker', 'hurricane', etc. Edge cases include scenarios where the agent is implied rather than explicitly stated.",
+            "Injure events involve an agent, which is the entity causing the harm. This can be a human, group, or natural event. Examples include 'bomber', 'attacker', 'flood', etc. Edge cases might involve situations where the agent is not directly mentioned or is ambiguous.",
+            "The agent in an Injure event is the cause of the injury, which can be a person, group, or natural force. Examples are 'bomber', 'attacker', 'tornado', etc. Edge cases include cases where the agent is not explicitly mentioned or is inferred from context."
+        ],
+        "instrument": [
+            "The instrument in an Injure event is the tool or means used to inflict the injury. Examples are 'explosives', 'guns', 'knife', etc. Edge cases include situations where the instrument is not explicitly mentioned or is implied.",
+            "In an Injure event, the instrument is the object or method used to cause the injury. Examples include 'explosives', 'guns', 'knife', etc. Edge cases might involve indirect references to the instrument or cases where the instrument is not clearly identified.",
+            "The instrument refers to the means or tool used to inflict injury in an Injure event. Examples are 'explosives', 'guns', 'knife', etc. Edge cases include scenarios where the instrument is implied rather than explicitly stated.",
+            "Injure events involve an instrument, which is the means used to cause harm. Examples include 'explosives', 'guns', 'knife', etc. Edge cases might involve situations where the instrument is not directly mentioned or is ambiguous.",
+            "The instrument in an Injure event is the tool or method used to inflict harm. Examples are 'explosives', 'guns', 'knife', etc. Edge cases include cases where the instrument is not explicitly mentioned or is inferred from context."
+        ],
+        "place": [
+            "The place in an Injure event is the location where the injury occurs. Examples are 'mall', 'airport', 'hospital', etc. Edge cases include situations where the place is not explicitly mentioned or is implied.",
+            "In an Injure event, the place is the location where the injury takes place. Examples include 'mall', 'airport', 'hospital', etc. Edge cases might involve indirect references to the place or cases where the place is not clearly identified.",
+            "The place refers to the location where the injury happens in an Injure event. Examples are 'mall', 'airport', 'hospital', etc. Edge cases include scenarios where the place is implied rather than explicitly stated.",
+            "Injure events involve a place, which is the location of the injury. Examples include 'mall', 'airport', 'hospital', etc. Edge cases might involve situations where the place is not directly mentioned or is ambiguous.",
+            "The place in an Injure event is the location where the harm occurs. Examples are 'mall', 'airport', 'hospital', etc. Edge cases include cases where the place is not explicitly mentioned or is inferred from context."
+        ],
+        "victim": [
+            "The victim in an Injure event is the individual or group that suffers the injury. Examples are '20', 'people', 'schoolchildren', etc. Edge cases include situations where the victim is not explicitly mentioned or is implied.",
+            "In an Injure event, the victim is the person or group that gets injured. Examples include '20', 'people', 'schoolchildren', etc. Edge cases might involve indirect references to the victim or cases where the victim is not clearly identified.",
+            "The victim refers to the entity that suffers harm in an Injure event. Examples are '20', 'people', 'schoolchildren', etc. Edge cases include scenarios where the victim is implied rather than explicitly stated.",
+            "Injure events involve a victim, which is the entity that gets harmed. Examples include '20', 'people', 'schoolchildren', etc. Edge cases might involve situations where the victim is not directly mentioned or is ambiguous.",
+            "The victim in an Injure event is the individual or group that experiences the injury. Examples are '20', 'people', 'schoolchildren', etc. Edge cases include cases where the victim is not explicitly mentioned or is inferred from context."
+        ]
+    }
+}

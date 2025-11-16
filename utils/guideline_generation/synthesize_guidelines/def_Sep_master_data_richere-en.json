@@ -1,0 +1,310 @@
+{
+    "None": {},
+    "Broadcast(ContactEvent)": {
+        "DisplayName": "Event Type: Broadcast\nParent Event Type: Contact Event",
+        "Arguments": [
+            "audience",
+            "entity",
+            "place"
+        ]
+    },
+    "Attack(ConflictEvent)": {
+        "DisplayName": "Event Type: Attack\nParent Event Type: Conflict Event",
+        "Arguments": [
+            "instrument",
+            "place",
+            "attacker",
+            "target"
+        ]
+    },
+    "Die(LifeEvent)": {
+        "DisplayName": "Event Type: Die\nParent Event Type: Life Event",
+        "Arguments": [
+            "instrument",
+            "agent",
+            "place",
+            "victim"
+        ]
+    },
+    "ArrestJail(JusticeEvent)": {
+        "DisplayName": "Event Type: Arrest Jail\nParent Event Type: Justice Event",
+        "Arguments": [
+            "person",
+            "agent",
+            "place"
+        ]
+    },
+    "Contact(Event)": {
+        "DisplayName": "Event Type: Contact\nParent Event Type: Event",
+        "Arguments": [
+            "entity",
+            "place"
+        ]
+    },
+    "TrialHearing(JusticeEvent)": {
+        "DisplayName": "Event Type: Trial Hearing\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "prosecutor",
+            "adjudicator"
+        ]
+    },
+    "TransportPerson(MovementEvent)": {
+        "DisplayName": "Event Type: Transport Person\nParent Event Type: Movement Event",
+        "Arguments": [
+            "instrument",
+            "agent",
+            "person",
+            "origin",
+            "destination"
+        ]
+    },
+    "Artifact(ManufactureEvent)": {
+        "DisplayName": "Event Type: Artifact\nParent Event Type: Manufacture Event",
+        "Arguments": [
+            "artifact",
+            "agent",
+            "place"
+        ]
+    },
+    "Elect(PersonnelEvent)": {
+        "DisplayName": "Event Type: Elect\nParent Event Type: Personnel Event",
+        "Arguments": [
+            "person",
+            "agent",
+            "place"
+        ]
+    },
+    "TransferOwnership(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Ownership\nParent Event Type: Transaction Event",
+        "Arguments": [
+            "place",
+            "beneficiary",
+            "recipient",
+            "giver",
+            "thing"
+        ]
+    },
+    "StartOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: Start Org\nParent Event Type: Business Event",
+        "Arguments": [
+            "org",
+            "agent",
+            "place"
+        ]
+    },
+    "Injure(LifeEvent)": {
+        "DisplayName": "Event Type: Injure\nParent Event Type: Life Event",
+        "Arguments": [
+            "instrument",
+            "agent",
+            "place",
+            "victim"
+        ]
+    },
+    "StartPosition(PersonnelEvent)": {
+        "DisplayName": "Event Type: Start Position\nParent Event Type: Personnel Event",
+        "Arguments": [
+            "person",
+            "entity",
+            "place"
+        ]
+    },
+    "Meet(ContactEvent)": {
+        "DisplayName": "Event Type: Meet\nParent Event Type: Contact Event",
+        "Arguments": [
+            "entity",
+            "place"
+        ]
+    },
+    "BeBorn(LifeEvent)": {
+        "DisplayName": "Event Type: Be Born\nParent Event Type: Life Event",
+        "Arguments": [
+            "person",
+            "place"
+        ]
+    },
+    "Marry(LifeEvent)": {
+        "DisplayName": "Event Type: Marry\nParent Event Type: Life Event",
+        "Arguments": [
+            "person",
+            "place"
+        ]
+    },
+    "TransportArtifact(MovementEvent)": {
+        "DisplayName": "Event Type: Transport Artifact\nParent Event Type: Movement Event",
+        "Arguments": [
+            "destination",
+            "artifact",
+            "origin",
+            "agent"
+        ]
+    },
+    "TransferMoney(TransactionEvent)": {
+        "DisplayName": "Event Type: Transfer Money\nParent Event Type: Transaction Event",
+        "Arguments": [
+            "recipient",
+            "giver",
+            "place",
+            "beneficiary"
+        ]
+    },
+    "Correspondence(ContactEvent)": {
+        "DisplayName": "Event Type: Correspondence\nParent Event Type: Contact Event",
+        "Arguments": [
+            "entity",
+            "place"
+        ]
+    },
+    "MergeOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: Merge Org\nParent Event Type: Business Event",
+        "Arguments": [
+            "org"
+        ]
+    },
+    "Nominate(PersonnelEvent)": {
+        "DisplayName": "Event Type: Nominate\nParent Event Type: Personnel Event",
+        "Arguments": [
+            "person",
+            "agent",
+            "place"
+        ]
+    },
+    "Fine(JusticeEvent)": {
+        "DisplayName": "Event Type: Fine\nParent Event Type: Justice Event",
+        "Arguments": [
+            "entity",
+            "place",
+            "adjudicator"
+        ]
+    },
+    "Sentence(JusticeEvent)": {
+        "DisplayName": "Event Type: Sentence\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "adjudicator"
+        ]
+    },
+    "ChargeIndict(JusticeEvent)": {
+        "DisplayName": "Event Type: Charge Indict\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "prosecutor",
+            "adjudicator"
+        ]
+    },
+    "Convict(JusticeEvent)": {
+        "DisplayName": "Event Type: Convict\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "adjudicator"
+        ]
+    },
+    "EndPosition(PersonnelEvent)": {
+        "DisplayName": "Event Type: End Position\nParent Event Type: Personnel Event",
+        "Arguments": [
+            "person",
+            "entity",
+            "place"
+        ]
+    },
+    "Demonstrate(ConflictEvent)": {
+        "DisplayName": "Event Type: Demonstrate\nParent Event Type: Conflict Event",
+        "Arguments": [
+            "entity",
+            "place"
+        ]
+    },
+    "Transaction(Event)": {
+        "DisplayName": "Event Type: Transaction\nParent Event Type: Event",
+        "Arguments": [
+            "giver",
+            "recipient",
+            "place",
+            "beneficiary"
+        ]
+    },
+    "EndOrg(BusinessEvent)": {
+        "DisplayName": "Event Type: End Org\nParent Event Type: Business Event",
+        "Arguments": [
+            "org",
+            "place"
+        ]
+    },
+    "Divorce(LifeEvent)": {
+        "DisplayName": "Event Type: Divorce\nParent Event Type: Life Event",
+        "Arguments": [
+            "person",
+            "place"
+        ]
+    },
+    "Execute(JusticeEvent)": {
+        "DisplayName": "Event Type: Execute\nParent Event Type: Justice Event",
+        "Arguments": [
+            "person",
+            "agent",
+            "place"
+        ]
+    },
+    "ReleaseParole(JusticeEvent)": {
+        "DisplayName": "Event Type: Release Parole\nParent Event Type: Justice Event",
+        "Arguments": [
+            "person",
+            "agent",
+            "place"
+        ]
+    },
+    "Acquit(JusticeEvent)": {
+        "DisplayName": "Event Type: Acquit\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "adjudicator"
+        ]
+    },
+    "Sue(JusticeEvent)": {
+        "DisplayName": "Event Type: Sue\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "plaintiff",
+            "place",
+            "adjudicator"
+        ]
+    },
+    "Appeal(JusticeEvent)": {
+        "DisplayName": "Event Type: Appeal\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "prosecutor",
+            "adjudicator"
+        ]
+    },
+    "Pardon(JusticeEvent)": {
+        "DisplayName": "Event Type: Pardon\nParent Event Type: Justice Event",
+        "Arguments": [
+            "defendant",
+            "place",
+            "adjudicator"
+        ]
+    },
+    "DeclareBankruptcy(BusinessEvent)": {
+        "DisplayName": "Event Type: Declare Bankruptcy\nParent Event Type: Business Event",
+        "Arguments": [
+            "org"
+        ]
+    },
+    "Extradite(JusticeEvent)": {
+        "DisplayName": "Event Type: Extradite\nParent Event Type: Justice Event",
+        "Arguments": [
+            "destination",
+            "person",
+            "origin",
+            "agent"
+        ]
+    }
+}

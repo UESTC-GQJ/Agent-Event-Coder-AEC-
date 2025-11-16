@@ -1,0 +1,14 @@
+{
+    "Cure(Event)": {
+        "description": [
+            "The Cure event refers to any action, treatment, or intervention that leads to the recovery or significant improvement of a patient's health condition. The event can be triggered by words such as 'treat', 'treatment', 'heal', 'cure', 'recover', 'relieve', 'effective', 'ending', and 'survived'. This event captures the notion of overcoming a disease or health condition, often implying a return to a state of health.",
+            "A Cure event is an occurrence where a medical condition is resolved or significantly improved through some form of treatment or intervention. The event can be triggered by terms like 'treat', 'treatment', 'heal', 'cure', 'recover', 'relieve', 'effective', 'ending', and 'survived'. It encompasses various methods and outcomes of medical care aimed at restoring health.",
+            "Cure events denote instances where a disease or health issue is successfully addressed, leading to recovery or substantial health improvement. The event can be triggered by expressions such as 'treat', 'treatment', 'heal', 'cure', 'recover', 'relieve', 'effective', 'ending', and 'survived'. This event type includes any therapeutic actions that result in the alleviation or elimination of a medical condition.",
+            "The Cure event type involves any therapeutic action or intervention that results in the recovery or significant improvement of a patient's health. The event can be triggered by words like 'treat', 'treatment', 'heal', 'cure', 'recover', 'relieve', 'effective', 'ending', and 'survived'. It captures the process and outcome of medical treatments aimed at curing or mitigating diseases.",
+            "A Cure event is characterized by the successful treatment or management of a health condition, leading to recovery or notable health improvement. The event can be triggered by terms such as 'treat', 'treatment', 'heal', 'cure', 'recover', 'relieve', 'effective', 'ending', and 'survived'. This event type includes various medical interventions that result in the resolution or significant reduction of a disease."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event."
+    }
+}

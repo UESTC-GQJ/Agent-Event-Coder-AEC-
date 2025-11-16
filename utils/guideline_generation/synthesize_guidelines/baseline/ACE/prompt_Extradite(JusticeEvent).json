@@ -1,0 +1,42 @@
+{
+    "Extradite(JusticeEvent)": {
+        "description": [
+            "The Extradite event refers to the formal process where one jurisdiction delivers a person accused or convicted of committing a crime to another jurisdiction. The event can be triggered by words such as 'extradite', 'extradition', 'extraditing', etc. The event involves multiple arguments including the person being extradited, the origin and destination of the extradition, and the agent facilitating the process.",
+            "Extradite is a legal process where an individual is transferred from one jurisdiction to another for the purpose of facing criminal charges or serving a sentence. The event can be triggered by terms like 'extradite', 'extradition', 'extraditing', etc. Key arguments include the person being extradited, the origin and destination locations, and the agent responsible for the extradition.",
+            "The Extradite event involves the transfer of a person from one jurisdiction to another, typically for legal proceedings or punishment. This event can be triggered by terms such as 'extradite', 'extradition', 'extraditing', etc. Important arguments include the person being extradited, the origin and destination of the transfer, and the agent overseeing the process.",
+            "Extradite refers to the act of handing over a person from one jurisdiction to another, usually for legal reasons. The event can be triggered by words like 'extradite', 'extradition', 'extraditing', etc. It includes arguments such as the person being extradited, the origin and destination of the extradition, and the agent conducting the extradition.",
+            "The Extradite event is the process of transferring an individual from one jurisdiction to another for legal action. This event can be triggered by terms like 'extradite', 'extradition', 'extraditing', etc. The main arguments are the person being extradited, the origin and destination locations, and the agent responsible for the extradition."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "agent": [
+            "The agent in an Extradite event is the entity responsible for carrying out the extradition process. Examples are 'court', 'government', 'police department', etc. The agent is typically an official body or authority that has the legal power to facilitate the extradition.",
+            "In the context of an Extradite event, the agent is the organization or authority that executes the extradition. Examples include 'court', 'government', 'law enforcement agency', etc. The agent is usually a legal or governmental entity.",
+            "The agent refers to the body or authority that oversees and implements the extradition process in an Extradite event. Examples are 'court', 'government', 'police department', etc. The agent is generally an official institution with the jurisdiction to conduct extraditions.",
+            "For an Extradite event, the agent is the entity that manages the extradition. Examples include 'court', 'government', 'law enforcement agency', etc. The agent is typically a recognized authority with the mandate to carry out extraditions.",
+            "The agent in an Extradite event is the official body or authority responsible for the extradition. Examples are 'court', 'government', 'police department', etc. The agent is usually a legal or governmental organization with the power to extradite individuals."
+        ],
+        "destination": [
+            "The destination in an Extradite event is the location to which the person is being extradited. Examples are 'jurisdiction', 'Hague', 'state of Louisiana', etc. The destination is typically the place where the legal proceedings or punishment will occur.",
+            "In an Extradite event, the destination is the place where the person is being sent. Examples include 'jurisdiction', 'Hague', 'state of Louisiana', etc. The destination is usually the location where the individual will face legal action or serve a sentence.",
+            "The destination refers to the end location in an Extradite event where the person is being transferred. Examples are 'jurisdiction', 'Hague', 'state of Louisiana', etc. The destination is generally the place where the legal process or punishment will take place.",
+            "For an Extradite event, the destination is the final location to which the person is being extradited. Examples include 'jurisdiction', 'Hague', 'state of Louisiana', etc. The destination is typically the place where the individual will undergo legal proceedings or punishment.",
+            "The destination in an Extradite event is the location where the person is being extradited to. Examples are 'jurisdiction', 'Hague', 'state of Louisiana', etc. The destination is usually the place where the legal action or punishment will be carried out."
+        ],
+        "origin": [
+            "The origin in an Extradite event is the location from which the person is being extradited. Examples are 'state', 'headquarters', etc. The origin is typically the place where the person was initially apprehended or held.",
+            "In an Extradite event, the origin is the starting location from which the person is being transferred. Examples include 'state', 'headquarters', etc. The origin is usually the place where the individual was detained or taken into custody.",
+            "The origin refers to the initial location in an Extradite event from which the person is being extradited. Examples are 'state', 'headquarters', etc. The origin is generally the place where the person was first held or apprehended.",
+            "For an Extradite event, the origin is the place from which the person is being extradited. Examples include 'state', 'headquarters', etc. The origin is typically the location where the individual was initially detained or held.",
+            "The origin in an Extradite event is the location from which the person is being transferred. Examples are 'state', 'headquarters', etc. The origin is usually the place where the person was apprehended or held before extradition."
+        ],
+        "person": [
+            "The person in an Extradite event is the individual being extradited. Examples are 'she', 'him', 'he', 'her', etc. The person is typically the subject of the legal proceedings or punishment.",
+            "In an Extradite event, the person is the individual who is being transferred from one jurisdiction to another. Examples include 'she', 'him', 'he', 'her', etc. The person is usually the one facing legal action or serving a sentence.",
+            "The person refers to the individual in an Extradite event who is being extradited. Examples are 'she', 'him', 'he', 'her', etc. The person is generally the subject of the extradition process.",
+            "For an Extradite event, the person is the individual being extradited. Examples include 'she', 'him', 'he', 'her', etc. The person is typically the one who is the focus of the legal proceedings or punishment.",
+            "The person in an Extradite event is the individual who is being transferred to another jurisdiction. Examples are 'she', 'him', 'he', 'her', etc. The person is usually the subject of the extradition."
+        ]
+    }
+}

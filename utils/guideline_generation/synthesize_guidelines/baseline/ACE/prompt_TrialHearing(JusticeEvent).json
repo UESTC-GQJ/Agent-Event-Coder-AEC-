@@ -1,0 +1,42 @@
+{
+    "TrialHearing(JusticeEvent)": {
+        "description": [
+            "A TrialHearing event, which is a subtype of JusticeEvent, refers to a formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings. The event can be triggered by words such as 'trial', 'hearing', 'case', 'tried', etc. The event can be triggered by various terms related to judicial proceedings, such as 'trial', 'hearing', 'case', 'tried', etc. It is important to note that the context should clearly indicate a legal proceeding.",
+            "A TrialHearing event, under the JusticeEvent category, involves a legal process where evidence is presented to determine the outcome of a case. This event can be triggered by terms like 'trial', 'hearing', 'case', 'tried', and similar legal terminology. The event can be triggered by various terms related to judicial proceedings, such as 'trial', 'hearing', 'case', 'tried', etc. It is important to note that the context should clearly indicate a legal proceeding.",
+            "The TrialHearing event, classified under JusticeEvent, denotes a judicial process where a judge or jury examines evidence to make a legal decision. Triggers for this event include 'trial', 'hearing', 'case', 'tried', among others. The event can be triggered by various terms related to judicial proceedings, such as 'trial', 'hearing', 'case', 'tried', etc. It is important to note that the context should clearly indicate a legal proceeding.",
+            "In the context of JusticeEvent, a TrialHearing event signifies a court proceeding where evidence is reviewed to adjudicate a legal matter. Common triggers are 'trial', 'hearing', 'case', 'tried', etc. The event can be triggered by various terms related to judicial proceedings, such as 'trial', 'hearing', 'case', 'tried', etc. It is important to note that the context should clearly indicate a legal proceeding.",
+            "A TrialHearing event, falling under the JusticeEvent category, involves a formal legal process to evaluate evidence and reach a verdict. This event is typically triggered by words like 'trial', 'hearing', 'case', 'tried', and similar terms. The event can be triggered by various terms related to judicial proceedings, such as 'trial', 'hearing', 'case', 'tried', etc. It is important to note that the context should clearly indicate a legal proceeding."
+        ]
+    },
+    "attributes": {
+        "mention": "The text span that triggers the event.",
+        "adjudicator": [
+            "The adjudicator in a TrialHearing event refers to the person or body responsible for making the final decision in the case. This is typically a judge or a court. Examples are 'judge', 'court', 'John S. Martin'.",
+            "In a TrialHearing event, the adjudicator is the authority who presides over the hearing and makes legal judgments. This role is usually filled by a judge or a court. Examples are 'judge', 'court', 'John S. Martin'.",
+            "The adjudicator for a TrialHearing event is the individual or entity that oversees the legal proceedings and renders a decision. Commonly, this is a judge or a court. Examples are 'judge', 'court', 'John S. Martin'.",
+            "Within a TrialHearing event, the adjudicator is the official who conducts the trial or hearing and issues rulings. This is generally a judge or a court. Examples are 'judge', 'court', 'John S. Martin'.",
+            "An adjudicator in the context of a TrialHearing event is the person or institution that has the authority to judge and decide the outcome of the case. Typically, this is a judge or a court. Examples are 'judge', 'court', 'John S. Martin'."
+        ],
+        "defendant": [
+            "The defendant in a TrialHearing event is the individual or group being accused or sued in a court of law. Examples are 'nichols', 'Anwar Ibrahim', 'wife', 'Markovic', 'officials', 'Chiluba'.",
+            "In a TrialHearing event, the defendant is the party against whom the legal action is brought. This can be a person or an organization. Examples are 'nichols', 'Anwar Ibrahim', 'wife', 'Markovic', 'officials', 'Chiluba'.",
+            "The defendant for a TrialHearing event refers to the person or entity that is being charged or sued in the legal proceedings. Examples are 'nichols', 'Anwar Ibrahim', 'wife', 'Markovic', 'officials', 'Chiluba'.",
+            "Within a TrialHearing event, the defendant is the party that is required to answer the complaint or charges in a court case. Examples are 'nichols', 'Anwar Ibrahim', 'wife', 'Markovic', 'officials', 'Chiluba'.",
+            "A defendant in the context of a TrialHearing event is the individual or group that is being accused of a crime or is being sued in a civil case. Examples are 'nichols', 'Anwar Ibrahim', 'wife', 'Markovic', 'officials', 'Chiluba'."
+        ],
+        "place": [
+            "The place in a TrialHearing event refers to the location where the trial or hearing is taking place. Examples are 'oklahoma city', 'New York', 'Belgrade'.",
+            "In a TrialHearing event, the place is the geographical location where the judicial proceedings occur. Examples are 'oklahoma city', 'New York', 'Belgrade'.",
+            "The place for a TrialHearing event denotes the venue or city where the trial or hearing is held. Examples are 'oklahoma city', 'New York', 'Belgrade'.",
+            "Within a TrialHearing event, the place is the specific location, such as a city or court, where the legal process is conducted. Examples are 'oklahoma city', 'New York', 'Belgrade'.",
+            "A place in the context of a TrialHearing event is the physical location where the court proceedings are taking place. Examples are 'oklahoma city', 'New York', 'Belgrade'."
+        ],
+        "prosecutor": [
+            "The prosecutor in a TrialHearing event is the legal representative who brings charges against the defendant and argues the case in court. Examples are 'prosecutors'.",
+            "In a TrialHearing event, the prosecutor is the attorney who represents the state or the public and seeks to prove the defendant's guilt. Examples are 'prosecutors'.",
+            "The prosecutor for a TrialHearing event refers to the lawyer or legal team responsible for presenting the case against the defendant. Examples are 'prosecutors'.",
+            "Within a TrialHearing event, the prosecutor is the individual or group that initiates the legal proceedings and presents evidence against the defendant. Examples are 'prosecutors'.",
+            "A prosecutor in the context of a TrialHearing event is the legal professional who conducts the case against the defendant in a criminal trial. Examples are 'prosecutors'."
+        ]
+    }
+}
